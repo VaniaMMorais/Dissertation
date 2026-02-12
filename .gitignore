@@ -1,0 +1,9 @@
+cat > /home/vaniamorais/Documents/Tese/.gitignore << 'EOF'
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/embeddings/
+*.bin
+*.onnx
+EOF
