@@ -1,5 +1,6 @@
 cat > /home/vaniamorais/Documents/Tese/.gitignore << 'EOF'
 venv/
+.env/
 __pycache__/
 *.pyc
 .DS_Store
