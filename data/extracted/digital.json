@@ -1,15 +1,9 @@
 {
   "metadata": {
     "filename": "digital.pdf",
-    "filepath": "data/PDFs/digital.pdf",
+    "filepath": "../data/PDFs/digital.pdf",
     "title": "Exemplo de documento digitalizado",
     "author": "Cras PDF Service",
-    "subject": "Inclui anotações e assinaturas",
-    "keywords": "",
-    "creator": "Cras PDF Service",
-    "producer": "Acrobat Distiller 3.02",
-    "creation_date": "D:19990829125929",
-    "modification_date": "D:19990829130414",
     "total_pages": 1,
     "doi": ""
   },
@@ -17,11 +11,12 @@
   "chunks": [
     {
       "chunk_id": 0,
-      "section": "UNLABELED_SECTION",
-      "text": "1 --- CRAS PDF SERVICE Adobe Acrobat Reader.0 Nocoes Basicas AL Example & Autor: Cesar Roberto | ies PDF jibe ie http ec siete veb.com, br craspell Crasaicr Tples bc no by n _ (wu) be Versdo.()) 1999 CAPA APROVADA",
+      "section": "Início do Documento",
+      "text": "1\nCRAS PDF SERVICE\nAdobe Acrobat Reader 4.0\nNocoes Basicas\nAL\nExample &\nAutor: Cesar Roberto |\nies PDF jibe ie\nhttp ec siete veb.com, br craspell\nCrasaicr Tples bc no by n _\n(wu) be\nVersdo 2.())\n1999\nCAPA\nAPROVADA \n",
       "start_word": 0,
-      "end_word": 40,
-      "type": "body"
+      "end_word": 41,
+      "type": "body",
+      "page_num": 2
     }
   ],
   "footnote_chunks": []

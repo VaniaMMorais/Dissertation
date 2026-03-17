@@ -753,50 +753,53 @@ def is_section_title(line: str) -> bool:
 
 
 
+
+
 # def split_into_sections(pages):
 #     sections = []
-
 #     current_title = None
 #     current_text = []
-
-#     def flush():
-#         if current_text:
-#             full_sec_text = " ".join(current_text)
-#             sections.append({
-#                 "title": current_title or "UNLABELED_SECTION",
-#                 "text": full_sec_text
-#             })
 
 #     for page in pages:
 #         for line in page["text"].splitlines():
 #             clean = line.strip()
 #             if not clean:
 #                 continue
-
-#             # if is_section_title(clean):
-#             #     flush()
-#             #     current_title = clean
-#             #     current_text = []
-#             # else:
-#             #     current_text.append(clean)
+            
+#             # Usar APENAS o marcador explícito
 #             if line.startswith("###SEC###"):
-#                 flush() # Guarda a secção anterior
+#                 # Guardar secção anterior
+#                 if current_text:
+#                     full_sec_text = " ".join(current_text)
+#                     sections.append({
+#                         "title": current_title or "UNLABELED_SECTION",
+#                         "text": full_sec_text
+#                     })
                 
-#                 # Limpa a etiqueta para ficar só o título limpo
-#                 current_title = line.replace("###SEC###", "").strip()
+#                 # Nova secção
+#                 current_title = clean.replace("###SEC###", "").strip()
 #                 current_text = []
 #             else:
-#                 current_text.append(line)
-
-#     flush()
+#                 current_text.append(clean)
+    
+#     # Última secção
+#     if current_text:
+#         full_sec_text = " ".join(current_text)
+#         sections.append({
+#             "title": current_title or "UNLABELED_SECTION",
+#             "text": full_sec_text
+#         })
+    
 #     return sections
-
 def split_into_sections(pages):
     sections = []
     current_title = None
     current_text = []
+    current_page = 1  # Guarda a página atual
 
     for page in pages:
+        page_num = page.get("page_num", 1) # Vai buscar a página atual ao dicionário
+        
         for line in page["text"].splitlines():
             clean = line.strip()
             if not clean:
@@ -809,13 +812,17 @@ def split_into_sections(pages):
                     full_sec_text = " ".join(current_text)
                     sections.append({
                         "title": current_title or "UNLABELED_SECTION",
-                        "text": full_sec_text
+                        "text": full_sec_text,
+                        "page_num": current_page  # <-- Guardar a página!
                     })
                 
                 # Nova secção
                 current_title = clean.replace("###SEC###", "").strip()
                 current_text = []
+                current_page = page_num  # <-- A nova secção começa nesta página!
             else:
+                if not current_text and current_title is None:
+                    current_page = page_num
                 current_text.append(clean)
     
     # Última secção
@@ -823,7 +830,8 @@ def split_into_sections(pages):
         full_sec_text = " ".join(current_text)
         sections.append({
             "title": current_title or "UNLABELED_SECTION",
-            "text": full_sec_text
+            "text": full_sec_text,
+            "page_num": current_page  # <-- Guardar a página!
         })
     
     return sections
@@ -897,6 +905,29 @@ def segment_by_headers(lines: List[Dict], body_font_size: float) -> List[Dict]:
 
     return sections
 
+# def chunk_sections(sections: List[Dict], chunk_size=300, overlap=50) -> List[Dict]:
+#     """
+#     Cria chunks mantendo o contexto da secção.
+#     """
+#     all_chunks = []
+#     global_chunk_id = 0
+
+#     for sec in sections:
+#         sec_chunks = chunk_text(sec["text"], chunk_size, overlap)
+
+#         for ch in sec_chunks:
+#             all_chunks.append({
+#                 "chunk_id": global_chunk_id,
+#                 "section": sec["title"],
+#                 "text": ch["text"],
+#                 "start_word": ch["start_word"],
+#                 "end_word": ch["end_word"],
+#                 "type": "body"
+#             })
+#             global_chunk_id += 1
+
+#     return all_chunks
+
 def chunk_sections(sections: List[Dict], chunk_size=300, overlap=50) -> List[Dict]:
     """
     Cria chunks mantendo o contexto da secção.
@@ -914,7 +945,8 @@ def chunk_sections(sections: List[Dict], chunk_size=300, overlap=50) -> List[Dic
                 "text": ch["text"],
                 "start_word": ch["start_word"],
                 "end_word": ch["end_word"],
-                "type": "body"
+                "type": "body",
+                "page_num": sec.get("page_num", 1)  # <--- O SEGREDO ESTÁ AQUI!
             })
             global_chunk_id += 1
 

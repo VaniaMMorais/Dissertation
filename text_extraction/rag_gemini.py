@@ -6,7 +6,7 @@ import os
 from dotenv import load_dotenv
 
 # --- CARREGAR VARIÁVEIS DE AMBIENTE ---
-load_dotenv() 
+load_dotenv(os.path.join(os.path.dirname(__file__), "..", ".env"))
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 if not GEMINI_API_KEY:
@@ -93,7 +93,7 @@ def ask_gemini(query, context_results):
     4. INSUFFICIENT DATA: If the provided context does not contain the answer, state strictly that there is not enough information in the documents.
     
     PROVIDED CONTEXT:
-    {context_text}
+    {context_results}
     
     USER QUERY:
     {query}
