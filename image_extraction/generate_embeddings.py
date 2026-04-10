@@ -26,11 +26,25 @@ def process_chunk_list(chunk_list, model):
         
     texts = []
     for c in chunk_list:
-        # A GRANDE MAGIA DO CONTEXTO (Funciona para texto, tabelas e imagens!):
-        if "section" in c:
-            texto_enriquecido = f"Secção: {c.get('section', 'Sem Título')}\nConteúdo: {c['text']}"
+        # IMAGENS: Caption + Description (SOLUÇÃO 3)
+        if c.get("type") == "figure":
+            caption = c.get("caption", "")
+            vlm_desc = c.get("text", "")
+            
+            if caption:
+                # Combinar legenda original + descrição VLM
+                texto_enriquecido = f"Caption: {caption}\n\nDescription: {vlm_desc}"
+            else:
+                # Só descrição VLM (fallback se não houver legenda)
+                texto_enriquecido = f"Figure Description: {vlm_desc}"
+        
+        # TEXTO/TABELAS: Secção + Conteúdo
+        elif "section" in c:
+            texto_enriquecido = f"Section: {c.get('section', 'No Title')}\nContent: {c['text']}"
+        
+        # FOOTNOTES: Identificador + Texto
         else:
-            texto_enriquecido = f"Nota de Rodapé: {c.get('text', '')}"
+            texto_enriquecido = f"Footnote: {c.get('text', '')}"
             
         texts.append(texto_enriquecido)
 
