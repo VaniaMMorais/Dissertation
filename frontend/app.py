@@ -108,18 +108,94 @@ def hybrid_search(query_text, top_k=6):
     return results
 
 
+# def ask_gemini(query, context_results):
+#     """Gera resposta - FILTRA imagens do contexto."""
+#     context_text = ""
+    
+#     # Filtrar só chunks de TEXTO
+#     text_chunks = []
+#     for source, page, text, metadata, rrf_score in context_results:
+#         chunk_type = metadata.get("chunk_type", "text") if metadata else "text"
+#         if chunk_type != "image":  # ← LER DO METADATA
+#             text_chunks.append((source, page, text, metadata, rrf_score))
+    
+#     for i, (source, page, text, metadata, rrf_score) in enumerate(text_chunks):
+#         clean_source = source.replace(".json", "").replace(".pdf", "")
+#         document_name = clean_source 
+#         doi_link = ""
+        
+#         if metadata and isinstance(metadata, dict):
+#             if metadata.get("title"):
+#                 document_name = metadata["title"]
+#             if metadata.get("doi"):
+#                 doi_cru = metadata["doi"]
+#                 if doi_cru.startswith("http"):
+#                     doi_link = doi_cru
+#                 else:
+#                     doi_link = f"https://doi.org/{doi_cru}"
+        
+#         doi_info = f"\nLink/DOI: {doi_link}" if doi_link else ""
+#         context_text += f"\n--- INÍCIO DA FONTE {i+1} ---\nDocumento: {document_name}\nPágina: {page}{doi_info}\nTexto: {text}\n--- FIM DA FONTE {i+1} ---\n"
+
+#     prompt = f"""
+# You are an elite academic research assistant, specialized in analyzing documents and extracting precise answers.
+# Below, I provide you with context extracted from scientific databases and a user query.
+
+# MANDATORY RULES:
+# 1. RESPONSE LANGUAGE: Analyze the language of the 'USER QUERY' and respond EXACTLY in that SAME LANGUAGE.
+# 2. STRICT FIDELITY: Answer the query based EXCLUSIVELY on the provided context. Do not use outside knowledge or hallucinate.
+# 3. COMPLETE ANSWERS: Provide COMPLETE, DETAILED answers based on the text context.
+#    - DO NOT simply refer to figures or tables (e.g., "see Figure 1")
+#    - EXTRACT and EXPLAIN the key information from the text
+#    - If relevant visual content exists, it will be shown separately to the user
+# 4. CITATIONS WITH LINKS: Whenever you make a claim, you MUST cite the source at the end of the sentence.
+#    - Always use the provided 'Document' field to name the source.
+#    - If the source has a 'Link/DOI', format the citation as a clickable Markdown link: [Document Name, Page X](URL_DO_DOI)
+#    - If there is no DOI, use plain text: [Document Name, Page X]
+# 5. INSUFFICIENT DATA: If the provided context does not contain the answer, state strictly that there is not enough information in the documents.
+
+# PROVIDED CONTEXT:
+# {context_text}
+
+# USER QUERY:
+# {query}
+
+# FORMATTED RESPONSE:
+# """
+
+#     try:
+#         response = client.models.generate_content(
+#             model='gemini-3-flash-preview',
+#             contents=prompt,
+#             config={
+#                 'temperature': 0.4,  
+#                 'top_p': 0.9
+#             }
+#         )
+#         return response.text
+
+#     except Exception as e:
+#         error_msg = str(e).lower()
+
+#         print(f"\n[ERRO REAL DO GEMINI]: {e}\n")
+#         # Deteta se é erro de quota (429) ou excesso de pedidos
+#         if "429" in error_msg or "quota" in error_msg or "exhausted" in error_msg:
+#             return "⚠️ **Reached Daily Limit:** O sistema atingiu o limite de perguntas gratuitas. Por favor, tenta amanhã."
+#         elif "503" in error_msg or "service unavailable" in error_msg:
+#             return "⚠️ **High Demand:** A rede está sobrecarregada. Tenta novamente em alguns minutos."
+#         # Deteta se o modelo não existe (o erro 404 que tiveste ontem)
+#         elif "404" in error_msg or "not found" in error_msg:
+#             return "⚠️ **Model Not Found:** O modelo de IA configurado não está disponível neste momento."
+#         # Erro genérico
+#         else:
+#             return "⚠️ **System Error:** Ocorreu um erro de comunicação com a IA. Tenta novamente."
+
 def ask_gemini(query, context_results):
-    """Gera resposta - FILTRA imagens do contexto."""
+    """Gera resposta com TODO o contexto (Textos + Descrições das Imagens)."""
     context_text = ""
     
-    # Filtrar só chunks de TEXTO
-    text_chunks = []
-    for source, page, text, metadata, rrf_score in context_results:
-        chunk_type = metadata.get("chunk_type", "text") if metadata else "text"
-        if chunk_type != "image":  # ← LER DO METADATA
-            text_chunks.append((source, page, text, metadata, rrf_score))
-    
-    for i, (source, page, text, metadata, rrf_score) in enumerate(text_chunks):
+    # REMOVIDO o filtro! Agora o Gemini vai voltar a ler as descrições dos gráficos!
+    for i, (source, page, text, metadata, rrf_score) in enumerate(context_results):
         clean_source = source.replace(".json", "").replace(".pdf", "")
         document_name = clean_source 
         doi_link = ""
@@ -142,13 +218,17 @@ You are an elite academic research assistant, specialized in analyzing documents
 Below, I provide you with context extracted from scientific databases and a user query.
 
 MANDATORY RULES:
-1. RESPONSE LANGUAGE: Analyze the language of the 'USER QUERY' and respond EXACTLY in that same language.
+1. RESPONSE LANGUAGE: Analyze the language of the 'USER QUERY' and respond EXACTLY in that SAME LANGUAGE.
 2. STRICT FIDELITY: Answer the query based EXCLUSIVELY on the provided context. Do not use outside knowledge or hallucinate.
-3. CITATIONS WITH LINKS: Whenever you make a claim, you MUST cite the source at the end of the sentence.
+3. COMPLETE ANSWERS: Provide COMPLETE, DETAILED answers based on the text context.
+   - DO NOT simply refer to figures or tables (e.g., "see Figure 1")
+   - EXTRACT and EXPLAIN the key information from the text
+   - If relevant visual content exists, it will be shown separately to the user
+4. CITATIONS WITH LINKS: Whenever you make a claim, you MUST cite the source at the end of the sentence.
    - Always use the provided 'Document' field to name the source.
    - If the source has a 'Link/DOI', format the citation as a clickable Markdown link: [Document Name, Page X](URL_DO_DOI)
    - If there is no DOI, use plain text: [Document Name, Page X]
-4. INSUFFICIENT DATA: If the provided context does not contain the answer, state strictly that there is not enough information in the documents.
+5. INSUFFICIENT DATA: If the provided context does not contain the answer, state strictly that there is not enough information in the documents.
 
 PROVIDED CONTEXT:
 {context_text}
@@ -161,7 +241,7 @@ FORMATTED RESPONSE:
 
     try:
         response = client.models.generate_content(
-            model='gemini-2.5-flash',
+            model='gemini-2.5-flash-lite', # <--- CORRIGIDO PARA O MODELO QUE FUNCIONA
             contents=prompt,
             config={
                 'temperature': 0.4,  
@@ -179,7 +259,7 @@ FORMATTED RESPONSE:
             return "⚠️ **Reached Daily Limit:** O sistema atingiu o limite de perguntas gratuitas. Por favor, tenta amanhã."
         elif "503" in error_msg or "service unavailable" in error_msg:
             return "⚠️ **High Demand:** A rede está sobrecarregada. Tenta novamente em alguns minutos."
-        # Deteta se o modelo não existe (o erro 404 que tiveste ontem)
+        # Deteta se o modelo não existe
         elif "404" in error_msg or "not found" in error_msg:
             return "⚠️ **Model Not Found:** O modelo de IA configurado não está disponível neste momento."
         # Erro genérico
@@ -200,7 +280,7 @@ User question: {user_query}
     
     try:
         response = client.models.generate_content(
-            model='gemini-2.5-flash',
+            model='gemini-2.5-flash-lite',
             contents=prompt
         )
         return response.text.strip()
@@ -247,31 +327,29 @@ if prompt := st.chat_input("Faz uma pergunta sobre os documentos..."):
             st.caption(f"*Query expandida: {optimized_query}*")
             
             # 2. Retrieval
-            context_results = hybrid_search(optimized_query, top_k=6)
+            context_results = hybrid_search(optimized_query, top_k=10)
             
             if not context_results:
-                resposta_final = "❌ Sem informação relevante."
+                resposta_final = "❌ Sem informação relevante na base de dados para responder a esta pergunta."
                 retrieved_images = []
             else:
                 # 3. Geração
                 resposta_final = ask_gemini(prompt, context_results)
                 
-                # 4. EXTRAÇÃO DE IMAGENS (lendo do metadata)
+                # 4. EXTRAÇÃO DE IMAGENS
                 cited_names = extract_cited_sources(resposta_final)
-                
                 retrieved_images = []
+                
                 for source, page, text, metadata, rrf_score in context_results:
-                    
                     if not metadata:
                         continue
                     
-                    # LER chunk_type do METADATA (não da coluna)
                     chunk_type = metadata.get("chunk_type", "text")
                     
                     if chunk_type == "image":
-                        # Verificar se é de documento citado
-                        if match_source_to_citation(source, metadata, cited_names):
-                            # LER image_path do METADATA
+                        match_result = match_source_to_citation(source, metadata, cited_names)
+                        
+                        if match_result:
                             image_path = metadata.get("image_path")
                             caption = metadata.get("caption", "") 
                             
@@ -281,10 +359,10 @@ if prompt := st.chat_input("Faz uma pergunta sobre os documentos..."):
                                     "source": source.replace(".json", ""),
                                     "page": page,
                                     "caption": caption,
-                                    "description": text  # Descrição VLM
+                                    "description": text
                                 })
                 
-                # Fallback
+                # Fallback: Se não encontrou imagens pelas citações, tenta apanhar a primeira imagem do contexto
                 if not retrieved_images:
                     for source, page, text, metadata, rrf_score in context_results:
                         if metadata and metadata.get("chunk_type") == "image":
@@ -301,16 +379,15 @@ if prompt := st.chat_input("Faz uma pergunta sobre os documentos..."):
                                 })
                                 break
             
-            # 5. Mostrar resposta
+            # 5. Mostrar resposta em texto
             st.markdown(resposta_final)
             
-            # 6. Mostrar figuras
+            # 6. Mostrar figuras (se existirem)
             if retrieved_images:
                 st.divider()
                 st.markdown("### 📊 Figuras Relacionadas")
                 
                 for img_info in retrieved_images:
-                    # Caption completo: fonte + página + legenda original
                     caption_text = f"📄 {img_info['source']}, Página {img_info['page']}"
                     if img_info.get('caption'):
                         caption_text += f"\n{img_info['caption']}"
@@ -318,9 +395,10 @@ if prompt := st.chat_input("Faz uma pergunta sobre os documentos..."):
                     st.image(
                         img_info["path"],
                         caption=caption_text,
-                        use_column_width=True
+                        use_container_width=True
                     )
-            # 7. Histórico
+            
+            # 7. Guardar Histórico
             st.session_state.messages.append({
                 "role": "assistant", 
                 "content": resposta_final,

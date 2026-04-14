@@ -84,9 +84,11 @@ def insert_chunks(filename):
         # Vamos criar um metadata específico para esta linha
         row_metadata = data.get("metadata", {}).copy()
         
-        # SE FOR IMAGEM, GUARDAMOS O CAMINHO PARA O STREAMLIT A PODER MOSTRAR!
-        if chunk.get("type") == "image":
+        # SE FOR IMAGEM OU FIGURA, GUARDAMOS O CAMINHO E LEGENDA PARA O STREAMLIT!
+        tipo = chunk.get("type", "")
+        if tipo == "image" or tipo == "figure":
             row_metadata["image_path"] = chunk.get("image_path")
+            row_metadata["caption"] = chunk.get("caption", "") 
             row_metadata["chunk_type"] = "image"
         else:
             row_metadata["chunk_type"] = "text"
