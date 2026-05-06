@@ -1081,13 +1081,25 @@ def main():
         print("No PDF files found in", PDF_DIR)
         return
 
+    # ✅ ADICIONA ISTO: Contar PDFs já processados
+    already_processed = [f.replace(".json", ".pdf") for f in os.listdir(OUTPUT_DIR) if f.endswith(".json")]
+    print(f"\n📊 Found {len(pdf_files)} PDFs in total")
+    print(f"✅ Already processed: {len(already_processed)}")
+    print(f"🆕 New PDFs to process: {len(pdf_files) - len(already_processed)}\n")
+
     for pdf_name in pdf_files:
         pdf_path = os.path.join(PDF_DIR, pdf_name)
-        print(f"\nProcessing: {pdf_name}")
+        output_file = os.path.splitext(pdf_name)[0] + ".json"
+        output_path = os.path.join(OUTPUT_DIR, output_file)
+        
+        # ✅ SKIP SE JÁ EXISTE
+        if os.path.exists(output_path):
+            print(f"⏭️  SKIP (already exists): {pdf_name}")
+            continue
+        
+        print(f"\n🔄 Processing: {pdf_name}")
         try:
             output = process_pdf(pdf_path)
-            output_file = os.path.splitext(pdf_name)[0] + ".json"
-            output_path = os.path.join(OUTPUT_DIR, output_file)
 
             with open(output_path, "w", encoding="utf-8") as f:
                 json.dump(output, f, ensure_ascii=False, indent=2)
@@ -1098,6 +1110,8 @@ def main():
             print(f"  Images extracted with captions: {len(output.get('image_chunks', []))}")
         except Exception as e:
             print(f"  ❌ Error processing {pdf_name}: {e}")
+    
+    print("\n✅ Processing complete!")
 
 if __name__ == "__main__":
     main()

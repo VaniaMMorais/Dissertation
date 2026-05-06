@@ -9,7 +9,7 @@ DB_HOST = "127.0.0.1"
 DB_NAME = "tese_rag"
 DB_USER = "admin"
 DB_PASS = "password123"
-INPUT_DIR = "../data/embeddings" # Pasta onde estão os JSONs acabados de gerar
+INPUT_DIR = "../data/embeddings"
 
 VECTOR_DIM = 1024 
 
@@ -17,21 +17,18 @@ def connect_db():
     return psycopg2.connect(host=DB_HOST, database=DB_NAME, user=DB_USER, password=DB_PASS)
 
 def setup_database():
+    """Cria tabela SE NÃO EXISTIR (não apaga dados!)"""
     conn = connect_db()
     conn.autocommit = True
     cur = conn.cursor()
 
-    print("🛠️  A preparar a base de dados para o RAG Multimodal...")
+    print("🛠️  A verificar/criar estrutura da base de dados...")
     
     cur.execute("CREATE EXTENSION IF NOT EXISTS vector;")
     
-    # 1. APAGAR A TABELA ANTIGA PARA COMEÇAR DO ZERO
-    print("   -> A apagar dados antigos (Drop Table)...")
-    cur.execute("DROP TABLE IF EXISTS document_chunks;")
-    
-    # 2. CRIAR A NOVA TABELA
+    # ✅ CRIAR TABELA SÓ SE NÃO EXISTIR (não apaga nada!)
     cur.execute(f"""
-        CREATE TABLE document_chunks (
+        CREATE TABLE IF NOT EXISTS document_chunks (
             id SERIAL PRIMARY KEY,
             chunk_id VARCHAR(255),
             source_file TEXT,
@@ -44,16 +41,36 @@ def setup_database():
         );
     """)
     
-    print("   -> A criar índice HNSW para pesquisa ultrarrápida...")
+    # Verificar se índice já existe
     cur.execute("""
-        CREATE INDEX IF NOT EXISTS dense_vector_index 
-        ON document_chunks 
-        USING hnsw (embedding_dense vector_cosine_ops);
+        SELECT EXISTS (
+            SELECT 1 FROM pg_indexes 
+            WHERE indexname = 'dense_vector_index'
+        );
     """)
+    index_exists = cur.fetchone()[0]
+    
+    if not index_exists:
+        print("   -> A criar índice HNSW para pesquisa ultrarrápida...")
+        cur.execute("""
+            CREATE INDEX dense_vector_index 
+            ON document_chunks 
+            USING hnsw (embedding_dense vector_cosine_ops);
+        """)
+    else:
+        print("   -> Índice HNSW já existe.")
     
     cur.close()
     conn.close()
-    print("✅ Tabela fresquinha e pronta a receber imagens e texto!")
+    print("✅ Base de dados pronta!")
+
+def document_exists(cursor, source_file):
+    """Verifica se documento já foi ingerido."""
+    cursor.execute(
+        "SELECT EXISTS(SELECT 1 FROM document_chunks WHERE source_file = %s)",
+        (source_file,)
+    )
+    return cursor.fetchone()[0]
 
 def insert_chunks(filename):
     filepath = os.path.join(INPUT_DIR, filename)
@@ -67,13 +84,15 @@ def insert_chunks(filename):
     
     all_chunks = chunks + footnotes + images
 
-    if not all_chunks: return
+    if not all_chunks: 
+        return 0
 
     conn = connect_db()
     cur = conn.cursor()
     
     print(f"📥 A inserir {len(all_chunks)} blocos ({len(chunks)} texto, {len(footnotes)} notas, {len(images)} imagens) de: {filename}...")
     
+    inserted = 0
     for chunk in all_chunks:
         dense_vec = chunk.get("embedding_dense")
         sparse_vec = chunk.get("embedding_sparse", {})
@@ -81,10 +100,10 @@ def insert_chunks(filename):
         if not dense_vec or len(dense_vec) != VECTOR_DIM:
             continue
 
-        # Vamos criar um metadata específico para esta linha
+        # Metadata específico para esta linha
         row_metadata = data.get("metadata", {}).copy()
         
-        # SE FOR IMAGEM OU FIGURA, GUARDAMOS O CAMINHO E LEGENDA PARA O STREAMLIT!
+        # SE FOR IMAGEM OU FIGURA, GUARDAMOS O CAMINHO E LEGENDA!
         tipo = chunk.get("type", "")
         if tipo == "image" or tipo == "figure":
             row_metadata["image_path"] = chunk.get("image_path")
@@ -99,8 +118,10 @@ def insert_chunks(filename):
             VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
         """
         
-        try: page = int(chunk.get("page_num", 0))
-        except: page = 0
+        try: 
+            page = int(chunk.get("page_num", 0))
+        except: 
+            page = 0
 
         values = (
             str(chunk.get("chunk_id")),
@@ -110,14 +131,17 @@ def insert_chunks(filename):
             page,
             dense_vec,
             Json(sparse_vec),
-            Json(row_metadata) # Metadata agora tem o image_path!
+            Json(row_metadata)
         )
         
         cur.execute(sql, values)
+        inserted += 1
 
     conn.commit()
     cur.close()
     conn.close()
+    
+    return inserted
 
 def main():
     setup_database()
@@ -127,13 +151,41 @@ def main():
         print(f"❌ Nenhum ficheiro encontrado na pasta {INPUT_DIR}.")
         return
 
-    for f in files:
+    # ✅ VERIFICAR QUAIS JÁ ESTÃO NA BD
+    conn = connect_db()
+    cur = conn.cursor()
+    
+    already_ingested = []
+    new_files = []
+    
+    for filename in files:
+        if document_exists(cur, filename):
+            already_ingested.append(filename)
+        else:
+            new_files.append(filename)
+    
+    cur.close()
+    conn.close()
+    
+    print(f"\n📊 Encontrados {len(files)} ficheiros com embeddings")
+    print(f"✅ Já na base de dados: {len(already_ingested)}")
+    print(f"🆕 Novos para ingerir: {len(new_files)}\n")
+    
+    if not new_files:
+        print("🎉 Todos os documentos já estão na base de dados!")
+        return
+    
+    # ✅ PROCESSAR SÓ OS NOVOS
+    total_chunks = 0
+    for filename in new_files:
         try:
-            insert_chunks(f)
+            chunks_inserted = insert_chunks(filename)
+            total_chunks += chunks_inserted
+            print(f"   ✅ {chunks_inserted} chunks inseridos")
         except Exception as e:
-            print(f"❌ Erro ao processar {f}: {e}")
+            print(f"   ❌ Erro ao processar {filename}: {e}")
 
-    print("\n🎉 INGESTÃO CONCLUÍDA! O teu PostgreSQL é agora 100% Multimodal.")
+    print(f"\n🎉 INGESTÃO CONCLUÍDA! {total_chunks} chunks adicionados ao PostgreSQL.")
 
 if __name__ == "__main__":
     main()

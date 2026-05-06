@@ -80,6 +80,88 @@ def process_chunk_list(chunk_list, model):
 
     return chunk_list
 
+import json
+import os
+import torch
+import numpy as np
+from FlagEmbedding import BGEM3FlagModel
+
+# --- CONFIGURAÇÃO ---
+INPUT_DIR = "../data/extracted" # Ajusta os caminhos se necessário
+OUTPUT_DIR = "../data/embeddings"
+MODEL_NAME = "BAAI/bge-m3"
+BATCH_SIZE = 1 
+
+def load_json(filepath):
+    with open(filepath, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def save_json(data, filepath):
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+def process_chunk_list(chunk_list, model):
+    """Função auxiliar que injeta contexto e gera os embeddings para uma lista de chunks."""
+    if not chunk_list:
+        return chunk_list
+        
+    texts = []
+    for c in chunk_list:
+        # IMAGENS: Caption + Description (SOLUÇÃO 3)
+        if c.get("type") == "figure":
+            caption = c.get("caption", "")
+            vlm_desc = c.get("text", "")
+            
+            if caption:
+                # Combinar legenda original + descrição VLM
+                texto_enriquecido = f"Caption: {caption}\n\nDescription: {vlm_desc}"
+            else:
+                # Só descrição VLM (fallback se não houver legenda)
+                texto_enriquecido = f"Figure Description: {vlm_desc}"
+        
+        # TEXTO/TABELAS: Secção + Conteúdo
+        elif "section" in c:
+            texto_enriquecido = f"Section: {c.get('section', 'No Title')}\nContent: {c['text']}"
+        
+        # FOOTNOTES: Identificador + Texto
+        else:
+            texto_enriquecido = f"Footnote: {c.get('text', '')}"
+            
+        texts.append(texto_enriquecido)
+
+    # Gerar Embeddings
+    output = model.encode(
+        texts, 
+        batch_size=BATCH_SIZE, 
+        max_length=8192, 
+        return_dense=True, 
+        return_sparse=True, 
+        return_colbert_vecs=False
+    )
+
+    dense_vecs = output['dense_vecs']
+    sparse_vecs = output['lexical_weights']
+
+    # --- CONVERSÃO SEGURA ---
+    for i, chunk in enumerate(chunk_list):
+        # 1. Converter Vetor Denso
+        d_vec = dense_vecs[i]
+        if isinstance(d_vec, (np.ndarray, torch.Tensor)):
+            chunk["embedding_dense"] = d_vec.tolist()
+        else:
+            chunk["embedding_dense"] = d_vec
+        
+        # 2. Converter Vetor Esparso
+        s_vec = sparse_vecs[i]
+        clean_sparse = {}
+        for k, v in s_vec.items():
+            clean_sparse[str(k)] = float(v)
+        
+        chunk["embedding_sparse"] = clean_sparse
+
+    return chunk_list
+
 def main():
     use_fp16 = torch.cuda.is_available()
     print(f"🚀 A carregar modelo {MODEL_NAME}...")
@@ -93,15 +175,26 @@ def main():
         return
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    print(f"\n📂 A processar {len(files)} ficheiros...")
+    
+    # ✅ ADICIONA ISTO: Verificar quais já têm embeddings
+    already_embedded = set(os.listdir(OUTPUT_DIR))
+    new_files = [f for f in files if f not in already_embedded]
+    
+    print(f"\n📊 Encontrados {len(files)} ficheiros extraídos")
+    print(f"✅ Já com embeddings: {len(files) - len(new_files)}")
+    print(f"🆕 Novos para processar: {len(new_files)}\n")
+    
+    if not new_files:
+        print("🎉 Todos os ficheiros já têm embeddings! Nada a fazer.")
+        return
 
-    for filename in files:
+    for filename in new_files:  # ← Só processa os novos
         input_path = os.path.join(INPUT_DIR, filename)
         output_path = os.path.join(OUTPUT_DIR, filename)
         
         try:
             data = load_json(input_path)
-            print(f"\nA processar ficheiro: {filename}")
+            print(f"\n🔄 A processar ficheiro: {filename}")
             
             # 1. Processar os Chunks normais (corpo e tabelas)
             if "chunks" in data and data["chunks"]:
@@ -113,7 +206,7 @@ def main():
                 data["footnote_chunks"] = process_chunk_list(data["footnote_chunks"], model)
                 print(f"  -> Embeddings gerados para {len(data['footnote_chunks'])} notas de rodapé.")
 
-            # 3. Processar os Chunks de Imagens (A NOVA MAGIA! 👁️✨)
+            # 3. Processar os Chunks de Imagens
             if "image_chunks" in data and data["image_chunks"]:
                 data["image_chunks"] = process_chunk_list(data["image_chunks"], model)
                 print(f"  -> Embeddings gerados para {len(data['image_chunks'])} imagens descritas.")
