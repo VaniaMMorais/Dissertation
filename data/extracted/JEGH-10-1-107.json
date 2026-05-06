@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "filename": "JEGH-10-1-107.pdf",
+    "filepath": "../data/PDFs/JEGH-10-1-107.pdf",
+    "title": "",
+    "author": "",
+    "total_pages": 5,
+    "doi": "10.2991/jegh.k.191028.001"
+  },
+  "document_type": "article",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "section": "Document Start",
+      "text": "Journal of Epidemiology and Global Health Vol. **10** ( **1** ); March , _pp._ 107–111 DOI: https://doi.org/10.2991/jegh.k.191028.001; ISSN 2210-6006; eISSN 2210-6014 https://www.atlantis-press.com/journals/jegh\n\n\n\n \n",
+      "start_word": 0,
+      "end_word": 22,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 1,
+      "section": "Research Article",
+      "text": "## Research Article \n",
+      "start_word": 0,
+      "end_word": 3,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 2,
+      "section": "**Epidemiology of Type 2 Diabetes – Global Burden of Disease and Forecasted Trends**",
+      "text": "## **Epidemiology of Type 2 Diabetes – Global Burden of Disease and Forecasted Trends**\n\n Moien Abdul Basith Khan , Muhammad Jawad Hashim[1,*] , Jeffrey Kwan King , Romona Devi Govender , Halla Mustafa , Juma Al Kaabi\n\n _1Department of Family Medicine, College of Medicine and Health Sciences, United Arab Emirates University, Al-Ain, United Arab Emirates_\n\n _2Department of Internal Medicine, College of Medicine and Health Sciences, United Arab Emirates University, Al-Ain, United Arab Emirates_ \n",
+      "start_word": 0,
+      "end_word": 73,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 3,
+      "section": "ARTICLE INFO",
+      "text": "## ARTICLE INFO\n\n _Article History_ Received 26 June 2019 Accepted 27 October 2019\n\n _Keywords_ Diabetes mellitus type 2 epidemiology disease pattern prevalence \n",
+      "start_word": 0,
+      "end_word": 22,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 4,
+      "section": "ABSTRACT",
+      "text": "## ABSTRACT\n\n The rising burden of type 2 diabetes is a major concern in healthcare worldwide. This research aimed to analyze the global epidemiology of type 2 diabetes. We analyzed the incidence, prevalence, and burden of suffering of diabetes mellitus based on epidemiological data from the Global Burden of Disease (GBD) current dataset from the Institute of Health Metrics, Seattle. Global and regional trends from 1990 to 2017 of type 2 diabetes for all ages were compiled. Forecast estimates were obtained using the SPSS Time Series Modeler. In 2017, approximately 462 million individuals were affected by type 2 diabetes corresponding to 6.28% of the world’s population (4.4% of those aged 15–49 years, 15% of those aged 50–69, and 22% of those aged 70+), or a prevalence rate of 6059 cases per 100,000. Over 1 million deaths per year can be attributed to diabetes alone, making it the ninth leading cause of mortality. The burden of diabetes mellitus is rising globally, and at a much faster rate in developed regions, such as Western Europe. The gender distribution is equal, and the incidence peaks at around 55 years of age. Global prevalence of type 2 diabetes is projected to increase to 7079 individuals per 100,000 by 2030, reflecting a continued rise across all regions of the world. There are concerning trends of rising prevalence in lower-income countries. Urgent public health and clinical preventive measures are warranted.\n\n © 2019 Atlantis Press International B.V.\n\n This is an open access article distributed under the CC BY-NC 4.0 license (http://creativecommons.org/licenses/by-nc/4.0/). \n",
+      "start_word": 0,
+      "end_word": 254,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 5,
+      "section": "**1. INTRODUCTION**",
+      "text": "## **1. INTRODUCTION**\n\n Type 2 diabetes is recognized as a serious public health concern with a considerable impact on human life and health expenditures. Rapid economic development and urbanization have led to a rising burden of diabetes in many parts of the world . Diabetes affects individuals’ functional capacities and quality of life, leading to significant morbidity and premature mortality . Recently, concerns have been raised that more than one-third of the diabetes-related deaths occur in people under the age of 60 . Increased consumption of unhealthy diets and sedentary lifestyles, resulting in elevated Body Mass Index (BMI) and fasting plasma glucose, have been blamed for these trends . In particular, persons with higher BMI are more likely to have type 2 diabetes . The aging of the human population is another contributor, as diabetes tends to affect older individuals . The cost of diabetes care is at least 3.2 times greater than the average per capita healthcare expenditure, rising to 9.4 times in presence of complications . Control of blood glucose, blood pressure, and other targets remains suboptimal for many patients . This has been partly attributed to the lack of awareness and health promotion needed for diabetes control .\n\n > _*Corresponding author. Email: physicianthinker@gmail.com Data availability statement:_ The data that support the findings of this study are openly available in Global Health Data Exchange by the Institute of Health Metrics at http://ghdx.healthdata.org/gbd-results-tool.\n\n Unfortunately, the global epidemiology of diabetes has not been re-evaluated since the availability of recent high-quality data . We found no studies providing global forecasts for the intermediate future, which would be a critical piece of information for health policymakers.\n\n This research project examines the latest dataset of the Global Burden of Disease (GBD) to assess the burden of type 2 diabetes worldwide. The aim is to study the current global epidemiology of diabetes and highlight the current distribution of disease and emerging epidemiologic trends. \n",
+      "start_word": 0,
+      "end_word": 319,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 6,
+      "section": "**1. INTRODUCTION**",
+      "text": "Unfortunately, the global epidemiology of diabetes has not been re-evaluated since the availability of recent high-quality data . We found no studies providing global forecasts for the intermediate future, which would be a critical piece of information for health policymakers.\n\n This research project examines the latest dataset of the Global Burden of Disease (GBD) to assess the burden of type 2 diabetes worldwide. The aim is to study the current global epidemiology of diabetes and highlight the current distribution of disease and emerging epidemiologic trends. \n",
+      "start_word": 300,
+      "end_word": 385,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 7,
+      "section": "**2. MATERIALS AND METHODS**",
+      "text": "## **2. MATERIALS AND METHODS**\n\n We analyzed descriptive epidemiological data from the GBD dataset managed by the Institute of Health Metrics and Evaluation at the University of Washington, Seattle . The GBD dataset is actively maintained and updated based on research data, epidemiology studies, and governmental publications from more than 100,000 sources. As a systematic public health project, it carefully builds models and statistical estimates for health loss due to illness, injury, and risk factors based on empirical data. GBD produces annual estimates of disease measures, such as prevalence, incidence, deaths, and Disability-Adjusted Life Years (DALYs). DALYs combine years of life lost due to premature death and years lived with disability, and are a more accurate reflection of human suffering resulting from a disease than prevalence or mortality alone.\n**108**\n\n\nWe used the latest data refresh from GBD . This dataset includes annual figures from 1990 to 2017 for type 2 diabetes in all countries and regions. We selected four world regions (Asia, Europe, America, and Africa) instead of other classification schemes based on economic development. All data were directly retrieved from GBD without any adjustments. Estimates were not age adjusted for differences in underlying population age distributions. Thus, the rates for different countries represent the actual burden on their respective health systems. \n",
+      "start_word": 0,
+      "end_word": 213,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 8,
+      "section": "**2.1. Statistical Data Analysis**",
+      "text": "## **2.1. Statistical Data Analysis**\n\n Forecasting was conducted using IBM SPSS version 25 (IBM Corp., Armonk, NY, USA). The Time Series Modeler was used to develop a forecast model using the Expert Modeler option without any events. None of the observed values were marked as outliers. \n",
+      "start_word": 0,
+      "end_word": 46,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 9,
+      "section": "**3. RESULTS**",
+      "text": "## **3. RESULTS**\n\n Globally, an estimated 462 million individuals are affected by type 2 diabetes, corresponding to 6.28% of the world’s population (Table 1). More than 1 million deaths were attributed to this condition in 2017 alone, ranking it as the ninth leading cause of mortality. This is an alarming rise when compared with 1990, when type 2 diabetes was ranked as the eighteenth leading cause of deaths. In terms of human suffering (DALYs), diabetes ranks as the seventh leading disease.\n\n **Table 1** | Disease burden of type 2 diabetes, 2017\n\n |**Region**|**Prevalence**<br>**(cases per 100,000)**|**Burden of suffering**<br>**(DALY per 100,000)**|\n|---|---|---|\n|Global|6059|751|\n|Europe|8529|842|\n|Germany|9091|820|\n|France|6843|564|\n|Italy|9938|1083|\n|Spain|8796|773|\n|Netherlands|11,344|924|\n|Switzerland|10,040|815|\n|Sweden|10,448|877|\n|Turkey|6483|889|\n|Russia|6865|740|\n|United Kingdom|8663|644|\n|Asia|5961|729|\n|China|6262|635|\n|India|4770|663|\n|Japan|6737|553|\n|South Korea|8835|1044|\n|Taiwan|10,012|1294|\n|Saudi Arabia|7661|623|\n|Iran|7000|851|\n|Australia|5235|593|\n|America|7060|1036|\n|United States|8911|1046|\n|Canada|7095|829|\n|Brazil|4240|780|\n|Africa|3916|537|\n|South Africa|7360|1374|\n\n\n\n The prevalence of type 2 diabetes shows a distribution pattern that matches socio-economic development (Figure 1). Developed regions, such as Western Europe, show considerably higher prevalence rates that continue to rise despite public health measures (Figure 2). The rate of increase does not appear to be slowing down.\n\n Remarkably, certain regions, such as Pacific Ocean island nations, are sustaining the highest prevalence of disease. These countries include Fiji (20,277 per 100,000), Mauritius (18,545), American Samoa (18,312), and Kiribati (17,432). Southeast Asian countries, such as Indonesia, Malaysia, Thailand, and Vietnam, have moved up the ranks in the last two decades. Owing to their large population sizes, China (88.5 million individuals with type 2 diabetes), India (65.9 million), and the US (28.9 million) retain the top spots as the countries with the greatest total number of individuals with this condition.\n\n Males show a slightly higher prevalence than females (6219 compared with 5898 cases per 100,000), although this difference is within the margin of uncertainty. The age of onset of new diagnosis is also somewhat earlier among males and shows expected patterns of rising prevalence with increasing age, whereas the incidence peaks at 55–59 years (Figure 3). There appears to be no major shift in the age distribution from 1990 to 2017. \n",
+      "start_word": 0,
+      "end_word": 340,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 10,
+      "section": "**3. RESULTS**",
+      "text": "Males show a slightly higher prevalence than females (6219 compared with 5898 cases per 100,000), although this difference is within the margin of uncertainty. The age of onset of new diagnosis is also somewhat earlier among males and shows expected patterns of rising prevalence with increasing age, whereas the incidence peaks at 55–59 years (Figure 3). There appears to be no major shift in the age distribution from 1990 to 2017.\n\n Even though it afflicts individuals later in life, type 2 diabetes ranks seventh among the leading causes of disability and years of life lost (DALYs). It has jumped ranks from nineteenth position in 1990, indicating a global transition in disease patterns toward noncommunicable diseases.\n\n Statistical forecasting using a model based on the 1990–2017 data showed that global diabetes prevalence could increase to 7079 per 100,000 by 2030 and 7862 by 2040. This estimate for 2040 is flanked by an upper confidence limit of 9904 and a lower limit of 5821 per 100,000. \n",
+      "start_word": 300,
+      "end_word": 463,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 11,
+      "section": "**4. DISCUSSION**",
+      "text": "## **4. DISCUSSION**\n\n This study reports on the current trends in the global burden of diabetes with emphasis on the burden of human suffering. The high prevalence of type 2 diabetes worldwide continues to rise, and there are no signs of it stabilizing. A concerning finding is the rapidly rising burden in lower-income countries. These findings have implications for health policy planners, physicians, healthcare professionals, and the public.\n\n The burden of suffering due to diabetes, as measured by DALYs, is increasing despite significant investment in clinical care and pharmaceutical research. This increase is in excess of population growth and aging. Notably, Western Europe has a rate of increase greater than that of global and Asian averages. Even with the high levels of clinical and public health expenditure, this region is losing the battle against diabetes. One explanation might be non-modifiable risk factors, such as age and family history . However, factors like a highly processed, calorie-dense western diet and a sedentary lifestyle may also be contributing. Developed countries like Italy and the US endure the highest burdens of human suffering (DALYs) due to diabetes. Advanced economies in Asia, such as South Korea and Taiwan, are joining the ranks of these countries, based on\n**109**\n\n\n\n\n\n\n**Figure 1** | Global distribution of diabetes mellitus type 2 prevalence. _Note:_ Colors indicate prevalence rates per 100,000 population in 2017.\n\n\n\n\n\n **Figure 2** | Trends in the prevalence of type 2 diabetes. _Note:_ Forecast estimates using SPSS Time Series Modeler (Ljung Box Q, _p_ = 0.16). Dotted lines indicate upper and lower confidence limits.\n\n GBD data. Thus, our findings support the correlation between diabetes and economic development . We speculate that our current approach to diabetes management, which focuses on expensive oral medications and insulin, is not working. Lowering blood glucose levels is perhaps not sufficient by itself nor effective in reducing all-cause mortality among these patients. \n",
+      "start_word": 0,
+      "end_word": 311,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 12,
+      "section": "**4. DISCUSSION**",
+      "text": "GBD data. Thus, our findings support the correlation between diabetes and economic development . We speculate that our current approach to diabetes management, which focuses on expensive oral medications and insulin, is not working. Lowering blood glucose levels is perhaps not sufficient by itself nor effective in reducing all-cause mortality among these patients.\n\n Prevention of new cases of diabetes appears to be not working as well based on our findings from global data. Although research is ongoing to reduce the progression from metabolic syndrome and prediabetes to diabetes, most interventions being tried seem to be unsuccessful in affecting the incidence. According to our data, there is no evidence of a decrease in incidence. Alarmingly high\n\n incidence rates recorded in island nations in the Pacific region are an indication of the interaction between genetic predisposition and the effect of rapid nutritional change on these indigenous populations. Meanwhile, the sheer number of individuals with diabetes is testing health systems in China, India, and the US to the limit. Rapid urbanization and its effects on diet and lifestyle has been implicated . These findings have direct implications for health systems planning and resource allocation. Clearly, hospital-­based management and subspecialist care are not sustainable strategies. Resource allocation in healthcare budgets for prevention of diabetes needs to be comparable to expenditures on treatment. Strengthening of primary care and community restructuring for active lifestyles and healthy nutrition are perhaps more likely to be cost effective . Sadly, the rising tide of type 2 diabetes is out­ pacing preventive efforts by a wide margin .\n\n The rising incidence of type 2 diabetes at earlier ages warrants closer attention. Previous clinic-based studies have reported a high number of young adults being diagnosed with type 2 diabetes, most of whom are obese . There appears to be an age gradient with early-onset type 2 diabetes patients (those younger than 45) showing more obesity, dyslipidemia, smoking, sedentary lifestyles, and low-grade inflammation . In our study, although the incidence of diabetes in young adults has increased over the past decades, the rise is across all ages. Thus, there appears to be no clear indication that the age of onset of type 2 diabetes has shifted to younger age groups. In any case, rising life expectancy in many countries will lead to a substantially greater burden of diabetes in the elderly. \n",
+      "start_word": 300,
+      "end_word": 689,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 13,
+      "section": "**4. DISCUSSION**",
+      "text": "The rising incidence of type 2 diabetes at earlier ages warrants closer attention. Previous clinic-based studies have reported a high number of young adults being diagnosed with type 2 diabetes, most of whom are obese . There appears to be an age gradient with early-onset type 2 diabetes patients (those younger than 45) showing more obesity, dyslipidemia, smoking, sedentary lifestyles, and low-grade inflammation . In our study, although the incidence of diabetes in young adults has increased over the past decades, the rise is across all ages. Thus, there appears to be no clear indication that the age of onset of type 2 diabetes has shifted to younger age groups. In any case, rising life expectancy in many countries will lead to a substantially greater burden of diabetes in the elderly.\n\n The main limitations of our study include reliance on secondary data, which in turn is affected by the accuracy of measurement, changes in case definition, and heterogeneity in study designs. Yet as GBD evolves and matures, its estimation techniques have become more accurate and reliable. These statistical estimates provide a more complete and continuous picture of disease epidemiology than\n**110**\n\n\n\n\n\n\n**Figure 3** | Age distribution of diabetes mellitus type 2, worldwide. (A) Incidence vs. prevalence . (B) Incidence in 1990 vs. 2017. _p_ < 0.0001, chi-square test.\n\n relying on raw data from isolated studies . Ultimately, the goal is to guide decision making in clinical care and public health policy. \n",
+      "start_word": 600,
+      "end_word": 841,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 14,
+      "section": "**FUNDING**",
+      "text": "## **FUNDING**\n\n This study did not receive any external grants from government, private or commercial sources. \n",
+      "start_word": 0,
+      "end_word": 16,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 15,
+      "section": "**5. CONCLUSION**",
+      "text": "## **5. CONCLUSION**\n\n Type 2 diabetes continues to increase in prevalence, incidence, and as a leading cause of human suffering and deaths. Despite significant investments in clinical care, research, and public health interventions, there appears to be no sign of reduction in the rate of increase. Certain regions of the world, such as Western Europe and island states in the Pacific, are experiencing a disproportionately high burden. This epidemic will require an urgent and unwavering commitment to aggressive solutions at national levels with public policies, public health funding, and economic incentives for local communities to start diabetes prevention programs. Healthy eating options need to be subsidized, and unhealthy foods need to be taxed or otherwise disincentivized. Healthcare organizations and individual healthcare providers from multiple disciplines (doctors, nurses, pharmacists, dieticians, and diabetes educators) must be given time and resources to collaborate as they educate and care for individual and groups of patients. Unless urgent measures are instituted to reduce unhealthy eating, sedentary lifestyles, rapid urbanization, and other factors related to economic development, the burden of diabetes is expected to continue rising. \n",
+      "start_word": 0,
+      "end_word": 180,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 16,
+      "section": "**CONFLICTS OF INTEREST**",
+      "text": "## **CONFLICTS OF INTEREST**\n\n The authors declare they have no conflicts of interest. \n",
+      "start_word": 0,
+      "end_word": 13,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 17,
+      "section": "**AUTHORS’ CONTRIBUTION**",
+      "text": "## **AUTHORS’ CONTRIBUTION**\n\n MK contributed to writing the manuscript including the literature review. MJH designed the study/basic concept, wrote sections of the manuscript, analyzed the data, and provided overall supervision of the study. JK wrote parts of the manuscripts, proofread, and provided insights into the interpretation. RDG revised the manuscript and provided additional interpretation of results. HM compiled data and wrote the table. JAK revised and proofread the manuscript and provided additional interpretation of results. \n",
+      "start_word": 0,
+      "end_word": 75,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 18,
+      "section": "**ACKNOWLEDGMENT**",
+      "text": "## **ACKNOWLEDGMENT**\n\n We would like to thank the Institute of Health Metrics, Seattle for compiling global epidemiological statistics and allowing access to data. \n",
+      "start_word": 0,
+      "end_word": 23,
+      "type": "body",
+      "page_num": 4
+    }
+  ],
+  "footnote_chunks": [
+    {
+      "chunk_id": "fn_0",
+      "text": "* Corresponding author. Email:  physicianthinker@gmail.com Data availability statement:  The data that support the findings of this study are openly available in Global Health Data Exchange by the Institute of Health Metrics at http://ghdx.healthdata.org/gbd-results-tool.",
+      "type": "footnote_whole",
+      "word_count": 33
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "img_0",
+      "section": "Extracted Figure",
+      "text": "This figure presents a **choropleth world map** visualizing the global distribution of a specific metric related to type 2 diabetes, likely correlated with economic indicators such as GDP per capita, given the caption's reference to economic development.\n\n### 1. Visualization Type\n*   **Choropleth Map:** A thematic map where geographic regions (countries) are shaded or colored in proportion to a statistical variable.\n\n### 2. Main Visual Elements\n*   **Color Gradient Scale:** At the bottom of the map, a continuous color bar serves as the legend. It transitions from deep blue (low values) through light blue, yellow, orange, and red (high values), ending in a gray segment.\n*   **Numerical Scale:** The axis below the color bar is marked with values: 6k, 8k, 10k, 12k, 14k, 16k, and 18k. A green triangular indicator is placed at the 16k mark.\n*   **Geographic Data:** The map displays individual countries, colored according to the gradient scale. Countries for which data is likely unavailable or outside the specific range are rendered in gray (notably parts of Africa and Central Asia).\n\n### 3. Data Patterns and Trends\n*   **Geographic Clustering:** There is a distinct visual trend where higher-income or more developed regions (e.g., parts of Europe, North America) exhibit warmer colors (yellows, oranges, and reds), indicating higher values on the scale.\n*   **Regional Disparities:** Conversely, regions such as South America, parts of Asia, and Oceania show cooler colors (blues), suggesting lower values on the scale.\n*   **Data Gaps:** Significant portions of the African continent and parts of Central/Northern Asia are colored gray, indicating missing data or values falling outside the defined spectrum of the color scale.\n\n### 4. Visible Text and Labels\n*   **Caption:** The provided text \"Figure 2 | Trends in the prevalence of type 2 diabetes...\" describes the context, though it should be noted that the visual content appears to be a static snapshot of a variable (likely economic) rather than a time-series line graph as described in the text provided.\n*   **Scale Labels:** The numerical values \"6k\" through \"18k\" represent the units of measurement (likely currency in thousands, e.g., USD).\n*   **Marker:** A specific green tag labeled \"16k\" highlights a threshold on the color gradient.\n\n***Note on Discrepancy:*** *There is a clear mismatch between the provided caption (which describes a line graph with confidence intervals and SPSS forecasting) and the visual provided (a static choropleth map). The analysis above describes the visual content provided in the image file.*",
+      "caption": "Figure 2 | Trends in the prevalence of type 2 diabetes. Note: Forecast estimates using SPSS Time Series Modeler (Ljung Box Q, p = 0.16). Dotted lines indicate upper and lower confidence limits. GBD data. Thus, our findings support the correlation between diabetes and economic development [13]. We speculate that our",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/JEGH-10-1-107.pdf-0003-02.png",
+      "page_num": 3,
+      "image_size": "926x491",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_1",
+      "section": "Extracted Figure",
+      "text": "This figure is a **multi-series line graph** illustrating the historical prevalence of type 2 diabetes and a future projection for global trends.\n\n### 1. Visual Elements and Axes\n*   **Axes:** The x-axis represents time in years, spanning from 1990 to 2040. The y-axis represents the \"Prevalence rate, cases per 100,000,\" ranging from 0 to 12,000 in increments of 2,000.\n*   **Data Series:**\n    *   **Solid Lines (Historical Data 1990–2017):** Three distinct solid lines represent different geographic/demographic categories:\n        *   **Black line:** Western Europe.\n        *   **Blue line:** Global.\n        *   **Grey line:** South Asia.\n    *   **Forecast Lines (2017–2040):** Extending from the end of the \"Global\" solid blue line are three dashed/dotted lines:\n        *   **Central dashed blue line:** The projected mean global forecast.\n        *   **Upper and lower dotted blue lines:** Representing the confidence limits of the forecast.\n*   **Annotations:** Text labels are positioned near their respective lines (\"Western Europe,\" \"Global,\" \"South Asia,\" and \"Global forecast\").\n\n### 2. Data Patterns and Trends\n*   **Historical Growth:** All three regions/groups show a consistent, upward trend in the prevalence of type 2 diabetes from 1990 to 2017.\n*   **Comparative Prevalence:** Throughout the historical period, Western Europe maintains the highest prevalence rate, followed by the Global average, with South Asia showing the lowest prevalence among the three groups plotted.\n*   **Forecast Projection:** The \"Global forecast\" indicates a continued upward trajectory for the global prevalence rate through 2040. The widening gap between the upper and lower dotted lines indicates increasing uncertainty in the forecast as the time horizon extends further into the future.\n\n### 3. Technical Observations\n*   The graph clearly distinguishes between observed historical data (solid lines) and statistical projections (dashed/dotted lines).\n*   The use of color coding (black, blue, grey) allows for easy differentiation between the three historical data series.\n*   The y-axis scale is linear, providing a clear visualization of the absolute increase in cases per 100,000 over the 50-year period.",
+      "caption": "Figure 2 | Trends in the prevalence of type 2 diabetes. Note: Forecast estimates using SPSS Time Series Modeler (Ljung Box Q, p = 0.16). Dotted lines indicate upper and lower confidence limits. GBD data. Thus, our findings support the correlation between diabetes and economic development [13]. We speculate that our",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/JEGH-10-1-107.pdf-0003-04.png",
+      "page_num": 3,
+      "image_size": "523x422",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_2",
+      "section": "Extracted Figure",
+      "text": "This figure presents a dual-panel statistical visualization illustrating the global age distribution of Type 2 Diabetes Mellitus (T2DM).\n\n### 1. Type of Visualization\nThe figure consists of two combined charts:\n*   **Panel (A):** A dual-axis combo chart featuring a bar graph overlaid with a line graph.\n*   **Panel (B):** A dual-line graph comparing two time periods.\n\n### 2. Main Visual Elements\n*   **X-axis (Both panels):** Represents age cohorts in 5-year increments, ranging from \"1-4\" to \"95+\".\n*   **Panel (A) Axes:**\n    *   **Primary Y-axis (Left):** \"Prevalence rate per 100,000\" (0 to 25,000), corresponding to the light gray bars.\n    *   **Secondary Y-axis (Right):** \"Incidence rate per 100,000\" (0 to 700), corresponding to the orange line.\n*   **Panel (B) Axes:**\n    *   **Y-axis:** \"Incidence rate per 100,000\" (0 to 700).\n    *   **Data Series:** An orange solid line representing 2017 data and a gray dashed line representing 1990 data.\n\n### 3. Key Patterns and Conclusions\n*   **Panel (A) Relationship:** There is a clear divergence between incidence and prevalence. Incidence (new cases) peaks earlier in the life course (age 55–59), while prevalence (total cases) continues to rise significantly into older age groups (peaking at 80–84), reflecting the chronic nature of the disease and the accumulation of cases over time.\n*   **Panel (B) Longitudinal Trend:** Comparing 1990 to 2017, there is a marked upward shift in the incidence rate across nearly all age cohorts. The peak incidence in 2017 is higher than the peak observed in 1990, indicating an increasing burden of T2DM globally over the 27-year period.\n*   **Statistical Significance:** As noted in the figure caption, these differences are statistically significant with a *p*-value < 0.0001 (chi-square test).\n\n### 4. Visible Text and Labels\n*   **Labels:** The charts are labeled (A) and (B).\n*   **Annotations:**\n    *   Panel (A) explicitly labels the \"Prevalence\" (bars) and \"Incidence\" (line).\n    *   Panel (B) explicitly labels the \"2017\" (solid orange line) and \"1990\" (dashed gray line) datasets.\n*   **Figure Caption:** \"Figure 3 | Age distribution of diabetes mellitus type 2, worldwide. (A) Incidence vs. prevalence (both 2017). (B) Incidence in 1990 vs. 2017. *p* < 0.0001, chi-square test.\"",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/JEGH-10-1-107.pdf-0004-02.png",
+      "page_num": 4,
+      "image_size": "1091x305",
+      "type": "figure"
+    }
+  ]
+}

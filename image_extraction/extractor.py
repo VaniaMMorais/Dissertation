@@ -518,7 +518,7 @@ FIGURES_DIR = "../data/figures"
 load_dotenv(os.path.join(os.path.dirname(__file__), "..", ".env"))
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=GEMINI_API_KEY)
-vision_model = genai.GenerativeModel('gemini-2.5-flash-lite')  # Changed to 1.5 for better quota
+vision_model = genai.GenerativeModel('gemini-3.1-flash-lite-preview')  # Changed to 1.5 for better quota
 
 # --- LISTAS DE PALAVRAS-CHAVE ---
 FRONT_MATTER_BLACKLIST = {

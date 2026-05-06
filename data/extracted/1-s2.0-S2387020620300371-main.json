@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "filename": "1-s2.0-S2387020620300371-main.pdf",
+    "filepath": "../data/PDFs/1-s2.0-S2387020620300371-main.pdf",
+    "title": "",
+    "author": "",
+    "total_pages": 7,
+    "doi": ""
+  },
+  "document_type": "report",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "section": "Document Start",
+      "text": "Med Clin\n\n (Barc). 2020; **154(5)** :178–184\n\n\n\n \n",
+      "start_word": 0,
+      "end_word": 6,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 1,
+      "section": "Review",
+      "text": "## Review \n",
+      "start_word": 0,
+      "end_word": 2,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 2,
+      "section": "Adverse drug reactions[�]",
+      "text": "## Adverse drug reactions[�] \n",
+      "start_word": 0,
+      "end_word": 4,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 3,
+      "section": "Eva Montané[a][,][b][,][∗] , Javier Santesmases[c][,][d]",
+      "text": "## Eva Montané[a][,][b][,][∗] , Javier Santesmases[c][,][d]\n\n\n\n\n\n > a Servicio de Farmacología Clínica, Hospital Universitari Germans Trias i Pujol, Barcelona, Spain\n\n > b Departamento de Farmacología, Terapéutica y Toxicología, Universitat Autònoma de Barcelona, Barcelona, Spain\n\n > c Servicio de Medicina Interna, Hospital Universitari Germans Trias i Pujol, Barcelona, Spain\n\n > d Departamento de Medicina, Universitat Autònoma de Barcelona, Barcelona, Spain\n\n a r t i c l e i n f o a b s t r a c t Article history: An adverse drug reaction (ADR) is defined as a response to a medicinal product which is noxious and Received 6 May 2019 unintended. ADRs are an important cause of morbidity and mortality and increase health costs. The Accepted 27 August 2019 pharmacovigilance systems allow the identification and prevention of the risks associated with the drug Available online 28 January 2020 use, especially of recently commercialized drugs; they detect signals from data of the global ADR register and also support decisions taken by regulatory agencies in different countries. Only few drugs are Keywords: withdrawn from the market, mainly due to hepatotoxicity. Spontaneous notification of ADR is the cheapSideAdverseeffectdrug reaction est, simplest and most used method to recognize new safety drug problems, being its main limitation the under-reporting. The future of pharmacovigilance and ADRs will include a higher involvement of Pharmacovigilance Drug safety patients, doctors, health authorities and pharmaceutical companies, and the use of new technologies. © 2019 Elsevier Espa˜na, S.L.U. All rights reserved. \n",
+      "start_word": 0,
+      "end_word": 242,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 4,
+      "section": "**Reacciones adversas a medicamentos**",
+      "text": "## **Reacciones adversas a medicamentos**\n\n r e s u m e n Palabras clave: Se define como reacción adversa a medicamentos (RAM) cualquier respuesta nociva y no intencionada Reacción adversa a medicamento a un medicamento. Las RAM constituyen una importante causa de morbi-mortalidad y de aumento de Efecto adverso costes sanitarios. Los sistemas de farmacovigilancia permiten la identificación y prevención de los riesgos Farmacovigilancia asociados al uso de medicamentos, sobre todo de los fármacos de reciente comercialización; detectan Seguridad del medicamento se˜nales a partir de datos del registro mundial de RAM y además dan soporte a las decisiones adoptadas por las agencias reguladoras de diferentes países. Sólo una minoría de medicamentos comercializados se retiran del mercado, siendo la hepatotoxicidad la causa más frecuente. La notificación espontánea de RAM es el método más utilizado, barato y sencillo para reconocer nuevos problemas de seguridad, siendo su principal limitación la infranotificación. El futuro de la farmacovigilancia y de las RAM pasará por una mayor implicación de los pacientes, médicos, autoridades sanitarias y empresas farmacéuticas, y por el uso de las nuevas tecnologías. © 2019 Elsevier Espa˜na, S.L.U. Todos los derechos reservados. \n",
+      "start_word": 0,
+      "end_word": 188,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 5,
+      "section": "**Definition of adverse drug reaction**",
+      "text": "## **Definition of adverse drug reaction**\n\n The definition of adverse drug effects, undesirable drug effects or adverse drug reactions (ADR) has evolved over time. In the 80s it was defined by the World Health Organization (WHO) as ¨any unintended noxious reaction that occurs at doses normally used\n\n > � Please cite this article as: Montané E, Santesmases J. Reacciones adversas a medicamentos. Med Clin (Barc). 2020;154:178–184. ∗ Corresponding author. E-mail address: Montané).\n\n address: emontane.germanstrias@gencat.cat (E. Montané).\n\n in humans for prophylaxis, diagnosis or treatment or to modify physiological functions¨. With Royal Decree 1334/2007, all harmful clinical consequences derived from dependence, abuse and misuse of medicinal products were added to the definition of ADR, including those caused by use outside the authorized conditions and those caused by medication errors. Finally, with Royal Decree 577/2013, which incorporated into the legal system the novelties introduced by Directive 2010/84/EU of the European Parliament, the definition of ADR was simplified to ¨any noxious and unintended response to a medicinal product¨.\n\n > 2387-0206/© 2019 Elsevier Espa˜na, S.L.U. All rights reserved.\nE. Montané, J. Santesmases / Med Clin (Barc). 2020; **154(5)** :178–184 179 \n",
+      "start_word": 0,
+      "end_word": 185,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 6,
+      "section": "**Epidemiology**",
+      "text": "## **Epidemiology** \n",
+      "start_word": 0,
+      "end_word": 2,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 7,
+      "section": "**Table 1**",
+      "text": "## **Table 1**\n\n Disorders that can be drug-induced and examples of drugs that can produce them.\n\n ADR is an important cause of morbidity and mortality and increased costs. They occur in 10 % of outpatients, cause 5–10 % of hospital admissions and are developed by 10–20 % of hospitalized patients, which increases their average stay. The incidence of hospitalized patient deaths caused by ADR in our area is 7 %. In the USA, it was estimated that ADR caused about 106,000 deaths a year, representing between the fourth and sixth cause of death. According to the European Commission, ADRs cause 197,000 deaths a year, and represent the fifth cause of death in hospitalized patients.\n\n ||||\n|---|---|---|\n|ADR<br> is<br> an<br> important<br> cause<br> of<br> morbidity<br> and<br> mortality<br> and<br>increased<br> costs.<br> They<br> occur<br> in<br> 10<br> %<br> of<br> outpatients,<br> cause<br> 5–10<br> %<br>of<br> hospital<br> admissions<br> and<br> are<br> developed<br> by<br> 10–20<br> %<br> of<br> hospital-<br>ized<br> patients,<br> which<br> increases<br> their<br> average<br> stay.4,5 The<br> incidence<br>of<br> hospitalized<br> patient<br> deaths<br> caused<br> by<br> ADR<br> in<br> our<br> area<br> is<br> 7<br>%.6 In<br> the<br> USA,<br> it<br> was<br> estimated<br> that<br> ADR<br> caused<br> about<br> 106,000<br>deaths<br> a<br> year,<br> representing<br> between<br> the<br> fourth<br> and<br> sixth<br> cause<br>of<br> death.7,8 According<br> to<br> the<br> European<br> Commission,<br> ADRs<br> cause<br>197,000<br> deaths<br> a<br> year,<br> and<br> represent<br> the<br> ffth<br> cause<br> of<br> death<br> in<br>hospitalized<br> patients.9<br>The<br> most<br> common<br> ADRs<br> in<br> hospitalized<br> patients,<br> especially<br> in<br>the<br> elderly,<br> are<br> gastrointestinal<br> bleeding,<br> abnormal<br> blood<br> pressure,<br>renal<br> failure,<br> hypoglycaemia,<br> bradycardia,<br> drowsiness,<br> confusion,<br>changes<br> in<br> the<br> number<br> of<br> bowel<br> movements,<br> haematological<br>abnormalities<br> and<br> allergic<br> reactions.10,11 In<br> contrast,<br> skin<br> rashes,<br>nausea/vomiting,<br> peripheral<br> oedema,<br> dizziness<br> and<br> myalgia<br> are<br>more<br> common<br> in<br> outpatients.12<br>Among<br> the<br> predisposing<br> factors<br> to<br> suffer<br> adverse<br> reactions<br> are<br>age<br> and<br> sex<br> (they<br> are<br> more<br> common<br> in<br> the<br> elderly<br> and<br> women),<br>comorbidity<br> (mainly<br> kidney<br> failure),<br> polypharmacy<br> (due<br> to<br> multi-<br>ple<br> pharmacological<br> interactions),<br> as<br> well<br> as<br> race,<br> smoking,<br> atopy,<br>previous<br> exposure,<br> environmental,<br> pharmacogenetic<br> and<br> immune<br>response<br> factors.13<br>**Criteria**<br> **for**<br> **suspecting**<br> **an**<br> **adverse**<br> **drug**<br> **reaction**<br>In<br> general,<br> any<br> disorder<br> could<br> be<br> caused<br> or<br> triggered<br> by<br> a<br> drug<br>and<br> should<br> always<br> be<br> considered<br> in<br> the<br> assessment<br> of<br> the<br> differen-<br>tial<br> diagnosis<br> of<br> the<br> patient.<br> For<br> this,<br> a<br> complete<br> pharmacological<br>history-taking<br> is<br> essential.<br> The<br> main<br> disorders<br> or<br> syndromes<br> that<br>might<br> be<br> susceptible<br> to<br> having<br> a<br> pharmacological<br> aetiology<br> are<br>listed<br> in<br> Table<br> 1, as<br> well<br> as<br> some<br> examples<br> of<br> drugs<br> that<br> produce<br>them<br> either<br> frequently<br> or<br> in<br> a<br> characteristic<br> way.14 The<br> algorithms<br>for<br> determining<br> the<br> attribution<br> of<br> causality<br> between<br> the<br> reaction<br>and<br> the<br> suspected<br> drug<br> are<br> multiple<br> and<br> varied<br> because<br> none<br> of<br>them<br> is<br> universally<br> recognized;<br> the<br> most<br> popular<br> are<br> the<br> Naranjo<br>algorithm,15 the<br> WHO<br> criteria,16 the<br> Karch<br> and<br> Lasagna<br> criteria17<br>and,<br> specifcally<br> in<br> our<br> feld,<br> the<br> algorithm<br> of<br> the<br> Spanish<br> Pharma-<br>covigilance<br> System<br> (SEFV).18 The<br> main<br> limitation<br> of<br> some<br> methods<br>is<br> that<br> they<br> are<br> signifcantly<br> subjected<br> to<br> the<br> evaluator’s<br> subjec-<br>tivity;<br> however,<br> they<br> share<br> the<br> main<br> accountability<br> criteria,<br> which<br>include<br> chronological<br> aspects,<br> biological<br> plausibility<br> and<br> previous<br>published<br> cases.<br> The<br> results<br> of<br> the<br> evaluation<br> make<br> it<br> possible<br> to<br>classify<br> the<br> causality<br> of<br> the<br> ADR<br> in<br> categories<br> as<br> “defnite”,<br> “proba-<br>ble”,<br> “possible”<br> or<br> “doubtful”.19<br>**Classifcation**<br> **and**<br> **types**<br> **of**<br> **adverse**<br> **drug**<br> **reactions**<br>According<br> to<br> Rawlins<br> and<br> Thompson,<br> ADRs<br> are<br> mainly<br> classi-<br>fed<br> into<br> 2-types:<br> A<br> and<br> B<br> (Table<br> 2).20 Type<br> A<br> reactions<br> (augmented)<br>are<br> the<br> result<br> of<br> an<br> increase<br> in<br> the<br> pharmacological<br> action<br> of<br> the<br>administered<br> drug,<br> therefore,<br> they<br> depend<br> on<br> its<br> mechanism<br> of<br>action<br> and,<br> in<br> general,<br> are<br> predictable,<br> common,<br> dose-dependent<br>and<br> have<br> low<br> mortality.<br> They<br> may<br> be<br> related<br> to<br> an<br> exaggeration<br>of<br> the<br> main<br> or<br> therapeutic<br> pharmacological<br> effect<br> (side<br> effect)<br> or<br>related<br> to<br> other<br> non-primary<br> pharmacological<br> effects<br> (collateral<br>effect).<br> Type<br> B<br> reactions<br> (bizarre)<br> are<br> reactions<br> that<br> are<br> not<br> related<br>to<br> the<br> mechanism<br> of<br> action<br> of<br> the<br> drug<br> and,<br> therefore,<br> in<br> general,<br>are<br> unpredictable,<br> uncommon<br> and<br> have<br> high<br> mortality.<br> Idiosyn-<br>cratic<br> reactions<br> are<br> part<br> of<br> this<br> group<br> B<br> (which<br> are<br> related<br> to<br> genetic<br>polymorphisms)<br> and<br> allergic<br> hypersensitivity<br> reactions<br> (triggered<br>by<br> an<br> immune<br> mechanism,<br> which<br> include<br> the<br> 4-type,<br> I–IV,<br> Gell|Type<br> of<br>abnormality<br>Adverse<br> reactio|n<br>Example<br> drug|\n||Allergic<br> or<br>hypersensitive<br>Anaphylaxis<br>Angioedema<br>Allergic<br> reactio<br>Anaphylactic<br> sh<br>DRESS<br> syndrom<br>Cardiac<br>Arrhythmia<br>Atrioventricular<br>Heart<br> failure<br>Cardiomyopath<br>Cardiorespirato<br>Syncope<br>Torsade<br> de<br> poin<br>Dermatological<br>Erythema<br>Erythema<br> multi<br>Toxic<br> epiderma<br>necrolysis<br>Stevens-Johnso<br>syndrome<br>Digestive<br>Diarrhoea<br>Gastrointestina<br>perforation<br>Gastric<br> or<br> duod<br>Vomiting<br>Endocrinology<br>Metabolic<br> acido<br>Hyperglycaemi<br>Hyperthyroidis<br>Hypoglycaemia<br>Hypothyroidism<br>Cushing’s<br> syndr<br>Syndrome<br> of<br>inappropriate<br> A<br>secretion<br>Haematological<br>Aplastic<br> anaemi<br>Haemolytic<br> ana<br>Agranulocytosis<br>Leukopenia<br>Neutropenia<br>Pancytopenia<br>Thrombocytope<br>Haemorrhage<br>Hematoma<br>Haemorrhage<br>Hepatobiliary<br>Increase<br> in<br> liver<br>Hepatitis<br>Jaundice<br>Pancreatitis<br>Hydroelectrolytic<br>Hypercalcemia<br>Hyperkalaemia<br>Hypocalcaemia<br>Hypokalaemia<br>Hyponatremia<br>Infectious<br>Infections<br>Sepsis<br>Muscular<br>Myopathy<br>Rhabdomyolysi<br>Neurological<br>Convulsion<br>Decreased<br> cons<br>or<br> coma<br>Encephalopathy<br>Aseptic<br> mening<br>Neuropathy<br>Acute<br> confusion<br>or<br> delirium<br>Parkinsonism<br>Ophthalmic<br>Diplopia<br>Glaucoma<br>Optic<br> neuritis<br>Pulmonary<br>Bronchospasm<br>Pulmonary<br> fbro<br>Respiratory<br> fail<br>Pneumonitis<br>Renal<br>Acute<br> kidney<br> fa<br>Nephropathy|Penicillin<br>Enalapril<br>n<br>Iodinated<br> contrast<br>ock<br>Metamizole<br>e<br>Allopurinol<br>Digoxin<br><br> block<br>Propranolol<br>Diclofenac<br>y<br>Hydroxychloroquine<br>ry<br> arrest<br>Morphine<br>Venlafaxine<br>tes<br>Haloperidol<br>Amoxicillin<br>forme<br>Sulfamides<br>l<br>Allopurinol<br>n<br>Lamotrigine<br>Amoxicillin<br> clavulanic<br>l<br>Piroxicam<br>enal<br> ulcer<br>Dexketoprofen<br>Levodopa<br>sis<br>Isoniazid<br>a<br>Methylprednisolone<br>m<br>Alemtuzumab<br>Insulin<br><br>Amiodarone<br>ome<br>Prednisone<br>DH<br>Citalopram<br>a<br>AAS<br>emia<br>Hydralazine<br><br>Metamizole<br>Cefazolin<br>Cyclophosphamide<br>Cotrimoxazole<br>nia<br>Enoxaparin<br>Acenocoumarol<br>Clopidogrel<br><br> enzymes<br>Atorvastatin<br>Isoniazid<br>Ceftriaxone<br>Azathioprine<br>Vitamin<br> D<br>Captopril<br>Zoledronic<br> acid<br>Salbutamol<br>Furosemide<br>Immunosuppressors<br>Chemotherapists<br>Atorvastatin<br>s<br>Simvastatin<br>Imipenem<br>ciousness<br>Morphine<br><br>Cefepime<br>itis<br>Ibuprofen<br>Docetaxel<br>al<br> state<br>Tramadol<br>Quetiapine<br>Topiramate<br>Imipramine<br>Ethambutol<br>AAS<br>sis<br>Nitrofurantoin<br>ure<br>Amiodarone<br>Rituximab<br>ilure<br>Vancomycin<br>Contrast<br> medium|\n\n",
+      "start_word": 0,
+      "end_word": 634,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 8,
+      "section": "**Table 1**",
+      "text": "## **Table 1**\n\n\n\n The most common ADRs in hospitalized patients, especially in the elderly, are gastrointestinal bleeding, abnormal blood pressure, renal failure, hypoglycaemia, bradycardia, drowsiness, confusion, changes in the number of bowel movements, haematological abnormalities and allergic reactions. In contrast, skin rashes, nausea/vomiting, peripheral oedema, dizziness and myalgia are more common in outpatients. Among the predisposing factors to suffer adverse reactions are age and sex (they are more common in the elderly and women), comorbidity (mainly kidney failure), polypharmacy (due to multiple pharmacological interactions), as well as race, smoking, atopy, previous exposure, environmental, pharmacogenetic and immune \n",
+      "start_word": 300,
+      "end_word": 396,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 9,
+      "section": "**Criteria for suspecting an adverse drug reaction**",
+      "text": "## **Criteria for suspecting an adverse drug reaction**\n\n In general, any disorder could be caused or triggered by a drug and should always be considered in the assessment of the differential diagnosis of the patient. For this, a complete pharmacological history-taking is essential. The main disorders or syndromes that might be susceptible to having a pharmacological aetiology are listed in Table 1, as well as some examples of drugs that produce them either frequently or in a characteristic way. The algorithms for determining the attribution of causality between the reaction and the suspected drug are multiple and varied because none of them is universally recognized; the most popular are the Naranjo algorithm, the WHO criteria, the Karch and Lasagna criteria and, specifically in our field, the algorithm of the Spanish Pharmacovigilance System (SEFV). The main limitation of some methods is that they are significantly subjected to the evaluator’s subjectivity; however, they share the main accountability criteria, which include chronological aspects, biological plausibility and previous published cases. The results of the evaluation make it possible to classify the causality of the ADR in categories as “definite”, “probable”, “possible” or “doubtful”. \n",
+      "start_word": 0,
+      "end_word": 189,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 10,
+      "section": "**Classification and types of adverse drug reactions**",
+      "text": "## **Classification and types of adverse drug reactions**\n\n According to Rawlins and Thompson, ADRs are mainly classified into 2-types: A and B (Table 2). Type A reactions (augmented) are the result of an increase in the pharmacological action of the administered drug, therefore, they depend on its mechanism of action and, in general, are predictable, common, dose-dependent and have low mortality. They may be related to an exaggeration of the main or therapeutic pharmacological effect (side effect) or related to other non-primary pharmacological effects (collateral effect). Type B reactions (bizarre) are reactions that are not related to the mechanism of action of the drug and, therefore, in general, are unpredictable, uncommon and have high mortality. Idiosyncratic reactions are part of this group B (which are related to genetic polymorphisms) and allergic hypersensitivity reactions (triggered by an immune mechanism, which include the 4-type, I–IV, Gell and Coombs classification). Subsequently, Grahame-Smith and Aronson added 2 more categories to the ADR classification: type C\n180 E. Montané, J. Santesmases / Med Clin (Barc). 2020; **154(5)** :178–184\n\n\n\n \n",
+      "start_word": 0,
+      "end_word": 173,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 11,
+      "section": "**Pharmacovigilance and its origins**",
+      "text": "## **Pharmacovigilance and its origins**\n\n |Type<br> of|Adverse<br> reaction|Example<br> drug|\n|---|---|---|\n|abnormality<br>Rheumatology|Erythema<br> nodosum<br>Systemic<br> lupus|Nilotinib<br>Procainamide|\n||erythematosus||\n|Vascular|Tendinopathy<br>Vasculitis<br>Arterial<br> hypertension<br>Arterial<br> hypotension|Quinolones<br>Carbimazole<br>NSAID<br>Captopril|\n||Pulmonary<br> embolism|Hormonal<br> contraceptives|\n||Thrombosis|Immunoglobulins|\n|Other|Fever<br>Suicide<br> attempt<br>Pharmacological<br>poisoning|Antibiotics<br>Oseltamivir<br>Digoxin|\n||Osteonecrosis|Denosumab|\n||Neuroleptic<br> malignant<br>syndrome<br>Serotonergic<br> syndrome|Clozapine<br>Fluoxetine|\n\n\n\n The objectives of pharmacovigilance are the identification, Erythema nodosum Nilotinib quantification, evaluation and prevention of the risks associated Systemic lupus Procainamide with the use of medicinal products once they are marketed. erythematosus It has its origins in the early 60s of the last century, after the Tendinopathy Quinolones identification of hundreds of newborns with thalidomide-related Vasculitis Carbimazole Arterial hypertension NSAID phocomelia, an antiemetic agent authorized in 1957. In DecemArterial hypotension Captopril ber 1961, Dr. McBride published a letter in The Lancet in which Pulmonary embolism Hormonal contraceptives he reported these malformations and asked if other doctors had Thrombosis Immunoglobulins observed similar effects. Based on this situation, the need to Fever Antibiotics establish a permanent information system on the risks of drugs Suicide attempt Oseltamivir Pharmacological Digoxin was determined and, in 1968, WHO Program for International poisoning Drug Monitoring (PIDM) was created. Last year marked the 50th Osteonecrosis Denosumab anniversary of this program, in which, initially, 10 countries particNeuroleptic malignant Clozapine ipated (Germany, Australia, Canada, Czechoslovakia, USA, Holland, syndrome Serotonergic syndrome Fluoxetine Ireland, New Zealand, United Kingdom and Sweden), which established the spontaneous reporting system of suspicion of ADR. Over a ADH: antidiuretic hormone; NSAIDs: non-steroidal antitotal of 161 countries (134 member states and 27 associated states) Drug Rash with Eosinophilia and Systemic Symptoms.. et al.[] have been incorporated during this half century. Spain joined the program in 1984. The information on efficacy and safety of a drug when first are related to the duration of the treatment marketed is limited because the information comes mainly from of doses. Among them, there is tolerance, clinical trials with few patients (hundreds or even a few thoudose increase is required to achieve the same sand) and of short duration. In addition, patients have been strictly continued administrations. Type D reactions selected according to their clinical characteristics (studies with litobserved long after taking the drug, such tle external validity) and evaluated under strict control conditions. teratogenesis.[] Other types of reactions are Often, these patients differ from those treated in routine clinical of treatment),), which appear after abrupt withpractice, whether because of age, associated comorbidities, concould be avoided with a progressive decrease comitant drugs, the disease’s own characteristics, etc. For all this, \n",
+      "start_word": 0,
+      "end_word": 394,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 12,
+      "section": "**Pharmacovigilance and its origins**",
+      "text": "The objectives of pharmacovigilance are the identification, Erythema nodosum Nilotinib quantification, evaluation and prevention of the risks associated Systemic lupus Procainamide with the use of medicinal products once they are marketed. erythematosus It has its origins in the early 60s of the last century, after the Tendinopathy Quinolones identification of hundreds of newborns with thalidomide-related Vasculitis Carbimazole Arterial hypertension NSAID phocomelia, an antiemetic agent authorized in 1957. In DecemArterial hypotension Captopril ber 1961, Dr. McBride published a letter in The Lancet in which Pulmonary embolism Hormonal contraceptives he reported these malformations and asked if other doctors had Thrombosis Immunoglobulins observed similar effects. Based on this situation, the need to Fever Antibiotics establish a permanent information system on the risks of drugs Suicide attempt Oseltamivir Pharmacological Digoxin was determined and, in 1968, WHO Program for International poisoning Drug Monitoring (PIDM) was created. Last year marked the 50th Osteonecrosis Denosumab anniversary of this program, in which, initially, 10 countries particNeuroleptic malignant Clozapine ipated (Germany, Australia, Canada, Czechoslovakia, USA, Holland, syndrome Serotonergic syndrome Fluoxetine Ireland, New Zealand, United Kingdom and Sweden), which established the spontaneous reporting system of suspicion of ADR. Over a ADH: antidiuretic hormone; NSAIDs: non-steroidal antitotal of 161 countries (134 member states and 27 associated states) Drug Rash with Eosinophilia and Systemic Symptoms.. et al.[] have been incorporated during this half century. Spain joined the program in 1984. The information on efficacy and safety of a drug when first are related to the duration of the treatment marketed is limited because the information comes mainly from of doses. Among them, there is tolerance, clinical trials with few patients (hundreds or even a few thoudose increase is required to achieve the same sand) and of short duration. In addition, patients have been strictly continued administrations. Type D reactions selected according to their clinical characteristics (studies with litobserved long after taking the drug, such tle external validity) and evaluated under strict control conditions. teratogenesis.[] Other types of reactions are Often, these patients differ from those treated in routine clinical of treatment),), which appear after abrupt withpractice, whether because of age, associated comorbidities, concould be avoided with a progressive decrease comitant drugs, the disease’s own characteristics, etc. For all this,\n\n",
+      "start_word": 300,
+      "end_word": 667,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 13,
+      "section": "**Pharmacovigilance and its origins**",
+      "text": "## **Pharmacovigilance and its origins**\n\n AAS: acetylsalicylic acid; ADH: antidiuretic hormone; NSAIDs: non-steroidal antiinflammatory drug; DRESS: Drug Rash with Eosinophilia and Systemic Symptoms.. Source: Adapted from Pedrós et al.[]\n\n reactions (chronic) that are related to the duration of the treatment or to the accumulation of doses. Among them, there is tolerance, which occurs when a dose increase is required to achieve the same effect in repeated or continued administrations. Type D reactions (delayed) occur or are observed long after taking the drug, such as carcinogenesis and teratogenesis.[] Other types of reactions are those of type E (end of treatment),), which appear after abrupt withdrawal of the drug and could be avoided with a progressive decrease in doses until treatment is suppressed.\n\n **Table 2**\n\n of adverse reactions (ADR).\n\n |ADR|||||Characteristics|Characteristics||||||||||||||||||||||Examples|Examples||||||||||||\n|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n|Type<br>|A<br>|Augmented|||Depend<br> on<br> the<br>||mechanism<br>|||||||of<br>||action<br>||||of<br>|||the<br>|||drug||-<br>|Diuretic-induced<br> hyponatremia||||||||||||\n||||||Dose-dependent|||||||||||||||||||||||-<br>|NSAID-induced<br> gastrointestinal<br> ulcer||||||||||||\n||||||Predictable|||||||||||||||||||||||-<br>|Immunosuppressive<br> drug<br> infections||||||||||||\n||||||Common|||||||||||||||||||||||-<br>|ACEI-induced<br> hyperkalaemia||||||||||||\n||||||Low<br> mortality|||||||||||||||||||||||-<br>|Anticoagulant<br> or<br> antiplatelet-associated<br> bleeding||||||||||||\n|||||||||||||||||||||||||||||-<br>|Neutropenia<br> caused<br> by<br> immunosuppressants||||||||||||\n|||||||||||||||||||||||||||||-<br>|Opioid-induced<br> vomiting||||||||||||\n|||||||||||||||||||||||||||||-<br>|Chemotherapy-induced<br> alopecia||||||||||||\n||||||Collateral<br> effect<br>||Side<br>||||effect|||||||||||||||||-<br>|Dry<br> mouth<br> associated<br> with<br> tricyclic<br> antidepressants||||||||||||\n|||||||||||||||||||||||||||||-<br>|Bradycardia<br> or<br> atrioventricular<br> block<br> associated<br>|||||with<br>||beta<br>||blockers|||\n|Type<br>|B<br>|Bizarre|||Non-related<br> to<br>||the<br>|||mechanism<br>|||||||of<br>||action<br>|||||of<br>|||the|-<br>|NSAID-induced<br> interstitial<br> nephritis||||||||||||\n||||||drug||||||||||||||||||||||||||||||||||||\n||||||Unpredictable|||||||||||||||||||||||-<br>|Allopurinol-induced<br> Stevens-Johnson<br> syndrome||||||||||||\n||||||Uncommon|||||||||||||||||||||||-<br>|Carbamazepine-induced<br> DRESS<br> syndrome||||||||||||\n||||||High<br> mortality|||||||||||||||||||||||-<br>|Amoxicillin-clavulanic<br> acid-induced<br> hepatitis||||||||||||\n|||||||||||||||||||||||||||||-<br>|Metamizole-induced<br> agranulocytosis||||||||||||\n||||||~~Idiosyncrasy~~<br> ~~Hypersensitivity~~|||||||||||||||||||||||~~-~~<br>|~~Sulphonamide-induced~~<br> ~~haemolytic~~<br> ~~anaemia~~<br>|||~~in~~<br>|~~patients~~<br>||||~~with~~<br>||~~G6PH~~<br>|~~defciency~~|\n|||||||||||||||||||||||||||||-<br>|Penicillin-induced<br> anaphylactic<br> shock||||||||||||\n|Type<br>|C<br>|Chronic|||Related<br> to<br> the<br>|dose<br>|||||and<br>||the<br>||duration<br>||||||of|||||||-<br>|Corticosteroid-induced<br> HPA<br> axis<br> suppression||||||||||||\n||||||treatment<br> (cumulative<br>|||||||doses)|||||||||||||||||||||||||||||\n|||||||||||||||||||||||||||||-|Corticosteroid<br> or<br> heparin-induced<br> osteoporosis||||||||||||\n|||||||||||||||||||||||||||||-<br>|Amiodarone-induced<br> liver<br> fbrosis||||||||||||\n|||||||||||||||||||||||||||||-<br>|Benign<br> liver<br> tumour<br> associated<br> with<br> oral<br>|hormonal<br>|||||contraceptives||||||\n||||||Tolerance|||||||||||||||||||||||-<br>|Morphine||||||||||||\n|Type<br>|D<br>|Delayed|||They<br> occur<br> or<br>|are<br>|||observed<br>||||||long<br>|||after<br>||||the<br>|||end|||-<br>|Thalidomide-induced<br> phocomelia||||||||||||\n||||||of<br> treatment||||||||||||||||||||||||||||||||||||\n|||||||||||||||||||||||||||||-|Misoprostol-induced<br> Moebius<br> syndrome||||||||||||\n|||||||||||||||||||||||||||||-<br>|Carbamazepine-induced<br> neural<br> tube<br> defects||||||||||||\n|||||||||||||||||||||||||||||-<br>|Phenytoin<br> or<br> cyclophosphamide-induced<br>||lymphoma||||||||||\n|||||||||||||||||||||||||||||-<br>|Adalimumab-induced<br> thymoma||||||||||||\n|||||||||||||||||||||||||||||-<br>|Fingolimod-induced<br> melanoma||||||||||||\n||||||Teratogenicity||||||||||||||||||||||||||||||||||||\n||||||Carcinogenesis||||||||||||||||||||||||||||||||||||\n|Type<br>|E<br>|End<br>|of<br>|treatment|They<br> occur<br> after<br>|||abrupt<br>|||||drug<br>|||withdrawal||||||||||||-<br>|Opioid<br> withdrawal<br> syndrome||||||||||||\n|||||||||||||||||||||||||||||-<br>|SSRI<br> discontinuation<br> syndrome||||||||||||\n\n\n\n AV: atrioventricular; NSAIDs: non-steroidal anti-inflammatory drugs; DRESS: Drug Rash with Eosinophilia and Systemic Symptoms; HPA: hypothalamus-pituitary-adrenal; ACEI: angiotensin converting enzyme inhibitors; G6PD: glucose 6 phosphate dehydrogenase; SSRIs: selective serotonin reuptake inhibitors.\nE. Montané, J. Santesmases / Med Clin (Barc). 2020; **154(5)** :178–184\n\n 181\n\n monitoring of the safety profile of the newly marketed drugs is essential, which will allow us to identify uncommon ADRs, with prolonged latency periods or due to interactions with other drugs. These safety data are evaluated throughout the life of the medicinal product and, if at any time, the benefit-risk balance is considered unfavourable, marketing is suspended. When the decision to recall a drug from the market is taken, the evidence comes mostly from isolated cases, it is carried out 6 years after identification and only in very few cases withdrawn worldwide; hepatotoxicity is the most \n",
+      "start_word": 600,
+      "end_word": 981,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 14,
+      "section": "**Pharmacovigilance and its origins**",
+      "text": "monitoring of the safety profile of the newly marketed drugs is essential, which will allow us to identify uncommon ADRs, with prolonged latency periods or due to interactions with other drugs. These safety data are evaluated throughout the life of the medicinal product and, if at any time, the benefit-risk balance is considered unfavourable, marketing is suspended. When the decision to recall a drug from the market is taken, the evidence comes mostly from isolated cases, it is carried out 6 years after identification and only in very few cases withdrawn worldwide; hepatotoxicity is the most \n",
+      "start_word": 900,
+      "end_word": 996,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 15,
+      "section": "common cause.",
+      "text": "## common cause. \n",
+      "start_word": 0,
+      "end_word": 3,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 16,
+      "section": "**reporting of suspected**",
+      "text": "## **reporting of suspected** \n",
+      "start_word": 0,
+      "end_word": 4,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 17,
+      "section": "**adverse reactions**",
+      "text": "## **adverse reactions** \n",
+      "start_word": 0,
+      "end_word": 3,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 18,
+      "section": "**Spontaneous**",
+      "text": "## **Spontaneous**\n\n The spontaneous reporting of suspected ADR is the most used method to generate pharmacovigilance signals and identify new safety problems, with recognized advantages, such as their simplicity and relative low cost; in addition, it allows the monitoring of ADR without interfering with prescription habits. However, one of its main limitations is under-reporting, which decreases the sensitivity of the method, can delay the detection of new signals and make the system more sensitive to selective reporting. The most important or priority ADRs to report are those produced by a recently commercialized drug (in the last 5 years), those that are not previously described and those that are serious, that is, that cause the death of the patient, can be life-threatening, lead to hospitalization or stay prolongation, cause a significant or persistent disability, or cause a congenital anomaly or birth defect. \n",
+      "start_word": 0,
+      "end_word": 141,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 19,
+      "section": "**Medicines under additional monitoring**",
+      "text": "## **Medicines under additional monitoring**\n\n Drugs that have been approved by a rapid procedure called PRIME (PRIority Medicines) by the European Medicines Agency (EMA) or fast track approval by Food and Drug Administration (FDA), whose purpose is to facilitate its development and expedite its access for the treatment of serious diseases without alternatives, are more likely to generate safety alerts or be recalled than drugs approved by a standard procedure. Some health authorities, such as the Australian, propose, as a measure to prevent harm to the patient, the creation of records of patients treated with such drugs. The inverted black triangle (▼) in the leaflet and the summary of product characteristics indicates the need for additional monitoring. Recently marketed drugs or those that have represented a safety problem are paradigms of drugs under additional monitoring. The EMA periodically publishes and updates the list of medicines under additional monitoring. Valproic acid is an example of a drug recently classified under additional monitoring after decades of commercialization: data from new studies have linked it to behavioural alterations in children of mothers exposed to the drug during pregnancy and, as a consequence, AEMPS has created a Pregnancy Prevention Program that must be followed by women of childbearing age treated with valproic acid. Immune checkpoint blocking monoclonal antibodies, also known as cancer immunotherapy, is a recently marketed group that is subject to additional monitoring. They are drugs with high survival expectations for patients with melanoma or non-small cell lung carcinoma, which have been linked to adverse immune reactions, mainly hepatitis and enterocolitis, although the involvement of other organs (such as hypophysitis, myocarditis, pancreatitis, pneumonitis, thyroiditis and uveitis) has also been described. They are treated with glucocorticoids at high doses and in the absence of response other immunosuppressants be useful. \n",
+      "start_word": 0,
+      "end_word": 295,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 20,
+      "section": "**of new adverse reactions**",
+      "text": "## **of new adverse reactions**\n\n Reporting suspected ADRs is carried out by health profession(doctors, pharmacists and nurses) and, since 2013, complying\n\n with the European Directive, also patients through a web page (www.notificaRAM.es). The SEFV collaborates with AEMPS in monitoring the safety of medicinal products. Periodic analysis of reported ADR suspicions makes it possible to determine if new signals appear, that is, possible risks not previously known or changes in the severity or frequency of risks already known. An example of a recently identified signal from the patients’ own notifications is the association between anxiety or panic attack and desogestrel (progestogen that is used alone or in combination with ethinyl estradiol), which was recognized as a possible ADR due to symptom improvement or disappearance after drug withdrawal. The SEFV is made up of 17 regional centres, which are responsible for evaluating suspected ADRs reported in Spain and registering them in the FEDRA database (Spanish Pharmacovigilance Data on suspected adverse reactions); in parallel they are sent electronically to the European EudraVigilance[®] database (www.adrreports.eu/en) and the worldwide VigiBase[TM] database, which brings together more than 19 million suspected ADRs sent by WHO member states (www.vigiaccess.org). In the USA the database that collects reports of suspected ADRs is the FDA’s Adverse Event Reporting System (FAERS, www.fda.gov). All these databases have the common objective of identifying drug safety signs and promote the issuance of safety alerts or provide data for epidemiological studies. Through Vigibase[TM] it was detected that the association between neuropsychiatric disorders and montelukast was more common in children than in adults ; through FAERS, a previously issued alert was confirmed on the increased risk of ketoacidosis due to sodium-glucose type 2 (or gliflozin) cotransporter inhibitors compared with dipeptidyltransferase (DPP4) (or gliptin) inhibitors. In addition, through data mining analysis, opioids were identified as the analgesics that produce the highest mortality, as well as to know the characteristics of the patients affected. \n",
+      "start_word": 0,
+      "end_word": 316,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 21,
+      "section": "**of new adverse reactions**",
+      "text": "with the European Directive, also patients through a web page (www.notificaRAM.es). The SEFV collaborates with AEMPS in monitoring the safety of medicinal products. Periodic analysis of reported ADR suspicions makes it possible to determine if new signals appear, that is, possible risks not previously known or changes in the severity or frequency of risks already known. An example of a recently identified signal from the patients’ own notifications is the association between anxiety or panic attack and desogestrel (progestogen that is used alone or in combination with ethinyl estradiol), which was recognized as a possible ADR due to symptom improvement or disappearance after drug withdrawal. The SEFV is made up of 17 regional centres, which are responsible for evaluating suspected ADRs reported in Spain and registering them in the FEDRA database (Spanish Pharmacovigilance Data on suspected adverse reactions); in parallel they are sent electronically to the European EudraVigilance[®] database (www.adrreports.eu/en) and the worldwide VigiBase[TM] database, which brings together more than 19 million suspected ADRs sent by WHO member states (www.vigiaccess.org). In the USA the database that collects reports of suspected ADRs is the FDA’s Adverse Event Reporting System (FAERS, www.fda.gov). All these databases have the common objective of identifying drug safety signs and promote the issuance of safety alerts or provide data for epidemiological studies. Through Vigibase[TM] it was detected that the association between neuropsychiatric disorders and montelukast was more common in children than in adults ; through FAERS, a previously issued alert was confirmed on the increased risk of ketoacidosis due to sodium-glucose type 2 (or gliflozin) cotransporter inhibitors compared with dipeptidyltransferase (DPP4) (or gliptin) inhibitors. In addition, through data mining analysis, opioids were identified as the analgesics that produce the highest mortality, as well as to know the characteristics of the patients affected.\n\n Data obtained from studies conducted with large public health databases are also useful in order to identify new ADR signals. These are pharmacoepidemiologic studies, which assess the pharmacological effects (beneficial or adverse) of drugs in real clinical practice. There are 2 large databases for pharmacoepidemiologic research in Primary Care in Spain: BIFAP (with data from patients of 9 autonomous communities), which has been useful for the evaluation of risks such as gastrointestinal bleeding associated with non-steroidal anti-inflammatory drugs, antibiotic hepatotoxicity or severe benzodiazepine skin reactions and SIDIAP (with data from patients in Catalonia), which has allowed evaluating, among others, the safety of cilostazol in peripheral arterial disease and the acute coronary effects of analgesics in patients with osteoarthritis. The main drug monitoring records available in Spain are Biobadaser, Biobadaderm and the Spanish Hepatotoxicity Registry. \n",
+      "start_word": 300,
+      "end_word": 729,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 22,
+      "section": "**of new adverse reactions**",
+      "text": "Data obtained from studies conducted with large public health databases are also useful in order to identify new ADR signals. These are pharmacoepidemiologic studies, which assess the pharmacological effects (beneficial or adverse) of drugs in real clinical practice. There are 2 large databases for pharmacoepidemiologic research in Primary Care in Spain: BIFAP (with data from patients of 9 autonomous communities), which has been useful for the evaluation of risks such as gastrointestinal bleeding associated with non-steroidal anti-inflammatory drugs, antibiotic hepatotoxicity or severe benzodiazepine skin reactions and SIDIAP (with data from patients in Catalonia), which has allowed evaluating, among others, the safety of cilostazol in peripheral arterial disease and the acute coronary effects of analgesics in patients with osteoarthritis. The main drug monitoring records available in Spain are Biobadaser, Biobadaderm and the Spanish Hepatotoxicity Registry.\n\n Following the evaluation of the benefit-risk relationship of medicinal products and in coordination with the EMA and with the agencies of the other 27 EU states, the Pharmacovigilance Risk Assessment Committee evaluates the signals and takes the relevant regulatory measures such as the issuance of safety alerts, changes of in the summary of product characteristics or market recall. \n",
+      "start_word": 600,
+      "end_word": 792,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 23,
+      "section": "**Measures to avoid adverse reactions**",
+      "text": "## **Measures to avoid adverse reactions**\n\n If we follow the recommended steps to perform an appropriate prescription as specified in WHO’s Guide to Good Prescribing, we can avoid most of the ADRs or decrease their occurrence rate.\n\n As a summary, the first decision a doctor should make the diagnosis of a certain disease is whether it requires\n\n immunosuppressants may\n\n als (doctors,\n\n after the\n**Table 3** Regulatory measures \n",
+      "start_word": 0,
+      "end_word": 67,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 24,
+      "section": "issued",
+      "text": "## issued\n\n of \n",
+      "start_word": 0,
+      "end_word": 3,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 25,
+      "section": "alerts",
+      "text": "## alerts\n\n the AEMPS.\n\n |Regulatory<br> measure<br>Patient<br> monitoring<br> and<br> control<br>Restrictions<br> of<br> use<br> according<br> to:<br>Age<br>Indication<br>Off-label<br>Comorbidities<br>Regimen<br>~~Concomitant~~<br> ~~drugs~~<br>Pregnancy<br>Restriction<br> of<br> the<br> scope<br> of<br> prescription<br>(hospital<br> diagnosis)<br>Suspension<br> of<br> marketing<br> authorisation<br>Recalled<br>Other|Examples<br>Hydrochlorothiazide:<br> risk<br> of<br> non-melanocytic<br> skin<br> cancer<br>Cladribine:<br> risk<br> of<br> progressive<br> multifocal<br> leukoencephalopathy<br>Codeine:<br> risk<br> of<br> intoxication<br> in<br> children<br>Quinolones:<br> risk<br> of<br> musculoskeletal<br> reactions<br>Flutamide:<br> hepatitis<br> risk<br>Aceclofenac:<br> cardiovascular<br> risk<br>Zolpidem:<br> risk<br> of<br> drowsiness<br>~~Amiodarone~~<br> ~~and~~<br> ~~direct-acting~~<br> ~~antivirals:~~<br> ~~risk~~<br> ~~of~~<br> ~~arrhythmias~~<br>Retinoids:<br> risk<br> of<br> teratogenicity<br>Strontium<br> ranelate:<br> cardiovascular<br> risk<br>Strontium<br> ranelate:<br> cardiovascular<br> risk<br>Fusafungine:<br> allergic<br> reaction<br>Inzitan®: allergic<br> reaction<br>Leuprorelin:<br> risk<br> of<br> lack<br> of<br> effcacy<br> due<br> to<br> reconstitution<br> process<br> error<br>Fentanyl:<br> risk<br> of<br> patch<br> transfer<br> toxicity<br>Posaconazole:<br> risk<br> of<br> error<br> after<br> changing<br> presentation<br> (tablets<br> and<br> oral<br>|suspension)|MUH<br> reference<br> <br>13/2018<br>13/2017<br>3/2015<br>14/2018<br>3/2017<br>15/2014<br>5/2014<br>~~6/2015~~<br>6/2018<br>9/2014<br>1/2014<br>9/2016<br>12/2017<br>18/2014<br>7/2014<br>13/2016|(FV)|\n|---|---|---|---|---|\n\n\n\n by\nE. Montané, J. Santesmases / Med Clin (Barc). 2020; **154(5)** :178–184\n\n 183\n\n pharmacological treatment. Second, the prescription must have a positive benefit-risk balance for the patient. For this, the prescription should be individualized taking into account the risk factors of suffering an ADR, such as the presence of renal failure (which predisposes, for example, to central nervous system abnormalities in patients treated with cephalosporins) or the contraindications of medicinal products that will be prescribed (such as a history of allergy to a certain active substance or to a drug with similar chemical structure), as well as the presence of certain genetic polymorphisms (such as HLA-B*5701, which is associated with serious skin reactions such as StevensJohnson syndrome in patients treated with the antiretroviral abacavir). Finally, it would be advisable to inform the patient about the adverse effects that may occur, how to avoid them and what to do with the medicinal product in case they occur.\n\n Alerts associated with the electronic prescription system are also useful measures to avoid ADRs, since they report pharmacological interactions, dose adjustments according to renal function, recommendations for use or monitoring of parameters; however, they could be over generated and therefore, ignored. Other more specific measures for certain drugs are the potential risk management plans identified before marketing. On the other hand, the AEMPS, advised by the Committee for the Safety of Medicinal Products for Human Use (expert committee on drug safety), prepares monthly newsletters on safety and risk prevention and, periodically, issues ¨safety information notes¨or ¨alerts¨on contraindications, recommendations or restrictions on the use of certain medicinal products (Table 3). They are based on information obtained from spontaneous reports of suspected ADRs, as well as metaanalysis, clinical trials, observational or pharmacoepidemiologic studies, specific records and scientific publications of cases or case series. Another method of reporting risks to health professionals is the Dear Doctor Letter or Direct Health Professional Communication, prepared by pharmaceutical companies and sent directly to doctors who may be involved in the use of the drug (these letters are available on the AEMPS website). \n",
+      "start_word": 0,
+      "end_word": 437,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 26,
+      "section": "alerts",
+      "text": "Alerts associated with the electronic prescription system are also useful measures to avoid ADRs, since they report pharmacological interactions, dose adjustments according to renal function, recommendations for use or monitoring of parameters; however, they could be over generated and therefore, ignored. Other more specific measures for certain drugs are the potential risk management plans identified before marketing. On the other hand, the AEMPS, advised by the Committee for the Safety of Medicinal Products for Human Use (expert committee on drug safety), prepares monthly newsletters on safety and risk prevention and, periodically, issues ¨safety information notes¨or ¨alerts¨on contraindications, recommendations or restrictions on the use of certain medicinal products (Table 3). They are based on information obtained from spontaneous reports of suspected ADRs, as well as metaanalysis, clinical trials, observational or pharmacoepidemiologic studies, specific records and scientific publications of cases or case series. Another method of reporting risks to health professionals is the Dear Doctor Letter or Direct Health Professional Communication, prepared by pharmaceutical companies and sent directly to doctors who may be involved in the use of the drug (these letters are available on the AEMPS website). \n",
+      "start_word": 300,
+      "end_word": 486,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 27,
+      "section": "**The future**",
+      "text": "## **The future** \n",
+      "start_word": 0,
+      "end_word": 3,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 28,
+      "section": "**of adverse reactions and pharmacovigilance**",
+      "text": "## **of adverse reactions and pharmacovigilance**\n\n The future of the identification and prevention of ADRs will depend on the different actors involved in the safety of medicinal products: patients, doctors, pharmacovigilance centres, pharmaceutical industry and health authorities. In addition, automating intellectual tasks through machines will enable artificial intelligence to contribute to safety. As for the patients, it is foreseeable that they will be more involved in making medicinal products safer for different reasons, 1) they will have more information about the undesirable effects related to their treatment, 2) they will be more skilled in identifying that the signs or symptoms they experience could be caused by the drug they are taking and 3) they will report more suspicions of ADR. In addition, doctors will have more electronic aids or pharmacogenetic tests to detect patients with high susceptibility to develop a certain ADR and avoid it. As for the health authorities, they will create new programs for drugs undergoing additional monitoring so that these medicinal products are closely monitored. Recently, the European Commission created a controlled access program for infusion solutions containing hydroxyethyl starch due to safety concerns that require the validation of the hospital or health center and prescribing doctor certification.\n\n In recent years it is becoming clear that, with artificial intelligence and automated data extraction, predictive ADR models will be developed, which will increase the safety of medicinal products.[] However, it is necessary that the data entered into the\n\n products.[] However,\n\n databases (sourced from medical records) be of quality so that, once the artificial intelligence algorithm is applied, the results are valid and convincing. There are studies that begin to show that monitoring social networks such as Facebook or Twitter provide useful information for certain security alerts before they are issued by the regulatory agency. For example, when the FDA issued an alert for dronedarone-associated vasculitis in 2012, patients had previously described the signs and symptoms of such adverse effects on social networks. \n",
+      "start_word": 0,
+      "end_word": 324,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 29,
+      "section": "**of adverse reactions and pharmacovigilance**",
+      "text": "databases (sourced from medical records) be of quality so that, once the artificial intelligence algorithm is applied, the results are valid and convincing. There are studies that begin to show that monitoring social networks such as Facebook or Twitter provide useful information for certain security alerts before they are issued by the regulatory agency. For example, when the FDA issued an alert for dronedarone-associated vasculitis in 2012, patients had previously described the signs and symptoms of such adverse effects on social networks. \n",
+      "start_word": 300,
+      "end_word": 382,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 30,
+      "section": "",
+      "text": "## \n",
+      "start_word": 0,
+      "end_word": 1,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 31,
+      "section": "**of**",
+      "text": "## **of** \n",
+      "start_word": 0,
+      "end_word": 2,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 32,
+      "section": "**interests**",
+      "text": "## **interests**\n\n The authors declare no conflict of interest. \n",
+      "start_word": 0,
+      "end_word": 9,
+      "type": "body",
+      "page_num": 6
+    }
+  ],
+  "footnote_chunks": [
+    {
+      "chunk_id": "fn_0",
+      "text": "24.    McBride WG. Thalidomide and congenital abnormalities. The Lancet. products. 59   However, 1961;278:1358.",
+      "type": "footnote_whole",
+      "word_count": 13
+    }
+  ],
+  "image_chunks": [
+    {
+      "chunk_id": "img_0",
+      "section": "Extracted Figure",
+      "text": "This image is a header/branding banner from the journal *Medicina Clínica*, published by Elsevier. It is not a scientific data visualization (such as a graph or diagram) but rather a formal institutional identifier used for document branding and navigation.\n\n### 1. Type of Visualization\nThis is a **branding and navigational header graphic**. It serves as a visual masthead for the journal’s digital or print content.\n\n### 2. Main Visual Elements\n*   **Left side:** The iconic \"Elsevier Tree\" logo, which depicts a scholar standing beneath a tree with the Latin motto \"NON SOLUS\" (Not Alone) on a ribbon, with the word \"ELSEVIER\" in orange text below it.\n*   **Center:** A large, light-gray horizontal band containing the journal title \"MEDICINA CLINICA\" in a watermark-style font, with the URL \"www.elsevier.es/medicinaclinica\" in blue text centered below it.\n*   **Right side:** A thumbnail-sized preview of the journal’s table of contents or cover page, which provides a visual reference for the specific issue.\n\n### 3. Key Patterns and Conclusions\n*   **Purpose:** The primary function of this image is to establish the source of the document, confirm the publisher (Elsevier), and provide a direct link to the journal's website.\n*   **Context:** The presence of the journal title and the thumbnail of the issue contents indicates that this graphic is intended to be placed at the top of an article or review paper to maintain consistent branding across the journal's publication portfolio.\n*   **No Data:** There are no data series, axes, or statistical trends present; therefore, no scientific conclusions regarding adverse drug reactions (the topic of the paper) can be drawn from this specific image.\n\n### 4. Visible Text and Labels\n*   **\"ELSEVIER\"**: The publisher's brand name.\n*   **\"NON SOLUS\"**: The publisher's historical motto.\n*   **\"MEDICINA CLINICA\"**: The name of the medical journal.\n*   **\"www.elsevier.es/medicinaclinica\"**: The web address for the journal’s portal.\n*   **Thumbnail text**: The small preview on the right contains microscopic text listing various article titles and sections typical of a journal index page, though the specific text is not legible at this resolution.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/1-s2.0-S2387020620300371-main.pdf-0001-02.png",
+      "page_num": 1,
+      "image_size": "1089x153",
+      "type": "figure"
+    }
+  ]
+}

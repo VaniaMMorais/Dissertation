@@ -1,0 +1,456 @@
+{
+  "metadata": {
+    "filename": "ijms-22-08661.pdf",
+    "filepath": "../data/PDFs/ijms-22-08661.pdf",
+    "title": "Current and Future Development in Lung Cancer Diagnosis",
+    "author": "Reem Nooreldeen and Horacio Bach",
+    "total_pages": 18,
+    "doi": "10.3390/ijms22168661"
+  },
+  "document_type": "article",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "section": "Document Start",
+      "text": "International Journal of _**Molecular Sciences**_\n\n\n\n\n\n\n\n \n",
+      "start_word": 0,
+      "end_word": 5,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 1,
+      "section": "_Review_",
+      "text": "## _Review_ \n",
+      "start_word": 0,
+      "end_word": 2,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 2,
+      "section": "**Current and Future Development in Lung Cancer Diagnosis**",
+      "text": "## **Current and Future Development in Lung Cancer Diagnosis** \n",
+      "start_word": 0,
+      "end_word": 9,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 3,
+      "section": "**Reem Nooreldeen and Horacio Bach ***",
+      "text": "## **Reem Nooreldeen and Horacio Bach ***\n\n Division of Infectious Diseases, Faculty of Medicine, The University of British Columbia, Vancouver, BC V6H 3Z6, Canada; reemnooreldeen@gmail.com\n\n ***** Correspondence: hbach@mail.ubc.ca; Tel.: +1-604-875-4111 (ext. 62107)\n\n **Abstract:** Lung cancer is the leading cause of cancer-related deaths in North America and other developed countries. One of the reasons lung cancer is at the top of the list is that it is often not diagnosed until the cancer is at an advanced stage. Thus, the earliest diagnosis of lung cancer is crucial, especially in screening high-risk populations, such as smokers, exposure to fumes, oil fields, toxic occupational places, etc. Based on the current knowledge, it looks that there is an urgent need to identify novel biomarkers. The current diagnosis of lung cancer includes different types of imaging complemented with pathological assessment of biopsies, but these techniques can still not detect early lung cancer developments. In this review, we described the advantages and disadvantages of current methods used in diagnosing lung cancer, and we provide an analysis of the potential use of body fluids as carriers of biomarkers as predictors of cancer development and progression.\n\n **Keywords:** lung cancer; diagnosis; imaging; biomarkers; predictors; body fluids \n",
+      "start_word": 0,
+      "end_word": 197,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 4,
+      "section": "��������� **�������**",
+      "text": "## ��������� **�������**\n\n **Citation:** Nooreldeen, R.; Bach, H. Current and Future Development in Lung Cancer Diagnosis. _Int. J. Mol. Sci._ **2021** , _22_ , 8661. https://doi.org/ 10.3390/ijms22168661\n\n Academic Editor: Sven Perner\n\n Received: 6 July 2021 Accepted: 10 August 2021 Published: 12 August 2021\n\n **Publisher’s Note:** MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.\n\n\n\n\n\n **Copyright:** © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). \n",
+      "start_word": 0,
+      "end_word": 93,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 5,
+      "section": "**1. Introduction**",
+      "text": "## **1. Introduction**\n\n Lung cancer is the most common cause of cancer-related deaths in North America and other developed countries. According to the 2020 special report on lung cancer, this disease is the most commonly diagnosed cancer and the leading cause of cancer death in Canada . The impact imposed is highlighted by statistics reporting a higher number of Canadians dying of lung cancer than colorectal, pancreatic, and breast cancers combined. For instance, approximately 30,000 Canadians will be diagnosed with lung cancer, with a projection of 21,000 death in 2020. Globally, the cancer burden is projected to double by 2050, with lung cancer at the top of the list .\n\n People die from lung cancer because it is often not diagnosed until the cancer is at an advanced stage. Detailed pathogenesis, effective early detection, and suitable drugs help in the effective therapy of lung cancer. Thus, the earliest diagnosis of lung cancer is crucial, especially in screening high-risk populations (e.g., smokers, exposure to fumes, oil fields, toxic occupational places, etc.) with an urgent need to identify novel biomarkers. Furthermore, accurate diagnosis is vital for the most suitable treatment of individual patients with lung cancer. Thus, there is an urgent need to identify sensitive and specific biomarkers for early diagnosis.\n\n Currently, low-dose CT (LDCT) is routinely used for lung cancer screening. In addition, a trial (NELSON) has shown that this particular screening has a selectivity of 85% and a specificity of 99% compared to no screening . A recent study showed that the overall false-positive rate reached 81% . This very high number required additional imaging or testing to confirm the results.\n\n This review will focus on the current screenings for early diagnosis of lung cancer, the use of potential biomarkers, and the current state of liquid biopsy-based approaches for screening will be discussed as well. \n",
+      "start_word": 0,
+      "end_word": 305,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 6,
+      "section": "**1. Introduction**",
+      "text": "Currently, low-dose CT (LDCT) is routinely used for lung cancer screening. In addition, a trial (NELSON) has shown that this particular screening has a selectivity of 85% and a specificity of 99% compared to no screening . A recent study showed that the overall false-positive rate reached 81% . This very high number required additional imaging or testing to confirm the results.\n\n This review will focus on the current screenings for early diagnosis of lung cancer, the use of potential biomarkers, and the current state of liquid biopsy-based approaches for screening will be discussed as well.\n\n _Int. J. Mol. Sci._ **2021** , _22_ , 8661. https://doi.org/10.3390/ijms22168661\n\n https://www.mdpi.com/journal/ijms\n\n 2 of 18 \n",
+      "start_word": 300,
+      "end_word": 410,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 7,
+      "section": "**2. Lung Cancer Staging**",
+      "text": "## **2. Lung Cancer Staging**\n\n To understand the timing of the screening and the progress of lung cancer, a brief explanation of the staging follows.\n\n Lung cancer is divided into two major groups, the Small-Cell Lung Cancer (SCLC) and Non-Smal-Cell Lung Cancer (NSCLC).\n\n SCLC stage. This is a central tumor arising from the airway submucosa as a peri-hilar mass. Histological studies found that this type of cancer originates from neuroendocrine cells of the basal bronchial epithelium . The cells are small, spindle or round cells with scanty cytoplasm, granular chromatin, and the observation of necrosis is a common finding . SCLC can be subtyped into pure or combined with NSCLC. This cancer is characterized because it may metastasize to the brain, liver, and bone and is classified as limited or extensive stages .\n\n The limited SCLC stage is confined to a single radiation point, the ipsilateral mediastinum, and the ipsilateral mediastinal or supraclavicular lymph nodes. In the supraclavicular lymph nodes, it is considered in that category as long it is present on the same side of the cancer chest.\n\n On the other hand, the extensive SCLC is not limited to a single radiation point in the lung and metastasizes to the second lung lobe, lymph nodes, and other parts of the body, such as bone marrow.\n\n NSCLC stage. This type of cancer is histologically divided into adenocarcinoma, large-cell carcinoma, and squamous cell carcinoma, and the stages categorized it. The nomenclature of the stages was formulated by the American Joint Committee on Cancer (AJCC) , and it is defined as the TNM staging system. The TNM system helps to determine the stage of cancer using the size of the primary tumor (T), the spread of the tumor to lymph nodes (N), and the presence of metastasis (M). Thus, the final TNM classification involves the combination of tumor characteristics (T) categorized as T1 to T4, the lymph nodes involved (N0-N3), and the presence (M1) or absence of metastasis (M0) (Table 1). \n",
+      "start_word": 0,
+      "end_word": 329,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 8,
+      "section": "**2. Lung Cancer Staging**",
+      "text": "NSCLC stage. This type of cancer is histologically divided into adenocarcinoma, large-cell carcinoma, and squamous cell carcinoma, and the stages categorized it. The nomenclature of the stages was formulated by the American Joint Committee on Cancer (AJCC) , and it is defined as the TNM staging system. The TNM system helps to determine the stage of cancer using the size of the primary tumor (T), the spread of the tumor to lymph nodes (N), and the presence of metastasis (M). Thus, the final TNM classification involves the combination of tumor characteristics (T) categorized as T1 to T4, the lymph nodes involved (N0-N3), and the presence (M1) or absence of metastasis (M0) (Table 1).\n\n **Table 1.** TNM of malignant tumor classification.\n\n ||Tumor Size (cm)||Lymph Nodes||Metastasis|\n|---|---|---|---|---|---|\n|T1|<3|N0|No lymph nodes|M0|No|\n|T2|T2a 3–5<br>T2b 5–7|N1|Ipsilateral bronchopulmonar/hilar<br>lymph nodes|M1|Present|\n|T3|>7|N2|Ipsilateral mediastinal/subcarinal<br>lymph nodes|||\n|T4|Invasion<br>Mediastinal organs<br>Vertebral bodies|N3|Contralateral/hilar/mediastinal<br>supraclavicular lymph nodes|||\n||Stage I||Stage II|||\n|IA|T1, N0, M0||IIA||T2b, N0, M0|\n|IB|T2a, N0, M0||IIA||T1, N1, M0|\n||||IIA||T2a, N1, M0|\n||||IIB||T2b, N1, M0|\n||||IIB||T3, N0, M0|\n\n\n\n According to tumor characteristics, in the T2 category, atelectasis or incomplete lung inflation can be seen in part of the lung. The tumor could be found to invade the visceral pleura and the main bronchus more than 2 cm from the carina. This extends in the T3, where atelectasis develops to the whole lung. The tumor invades the phrenic nerve, diaphragm, chest wall, mediastinal pleura, and approaches closer to the main bronchus, less than 2 cm from the carina. Stage T4, or the invasion stage, is when the tumor invades mediastinal organs, vertebral bodies, and the lung carina.\n\n 3 of 18\n\n Concerning lymph node involvement, defined as N0 to N3 (Table 1), lymph node involvement ranges from no lymph nodes to ipsilateral to contralateral involvement according to the stage.\n\n Metastasis is only staged upon the presence of M1, where bilateral lesions, distant metastasis, and malignant pleural effusion could be seen. On the other hand, the absence \n",
+      "start_word": 300,
+      "end_word": 619,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 9,
+      "section": "**2. Lung Cancer Staging**",
+      "text": "Concerning lymph node involvement, defined as N0 to N3 (Table 1), lymph node involvement ranges from no lymph nodes to ipsilateral to contralateral involvement according to the stage.\n\n Metastasis is only staged upon the presence of M1, where bilateral lesions, distant metastasis, and malignant pleural effusion could be seen. On the other hand, the absence\n\n The main challenge imposed by lung cancer on public health is its poor prognosis because of the advanced stage, as most patients (>75%) have either a stage III or IV disease at diagnosis. Moreover, the prognosis of patients with lung cancer is strongly correlated to the disease stage. For example, whereas patients with clinical stage IA have a 5-year survival of about 60%, the clinical stage II-IV disease has a 5-year survival rate ranges from 40% to less than 5%.\n\n Over two-thirds of the patients have regional lymph node involvement or distant disease at the time of presentation . This is due to the lack of effective early detection strategies that allow for higher potential cure rates. In addition, lung cancer is commonly resistant to standard therapeutic modalities such as chemotherapy and radiation, which together with the lack of successful treatment for metastatic disease, adds to the dismal outcome .\n\n Historically, the only diagnostic tests available for detecting lung cancer in its early stages were chest radiography and sputum cytology. However, results showed that these two screening methods failed in clinical trials and could not demonstrate their efficacy as mass screening tools . Currently, screening for lung cancer with LDCT is recommended in high-risk populations defined as persons who are 55 to 74 years of age with a minimum smoking history of 30 pack-years or more (pack-years = number of cigarette packs smoked per day _×_ the number of years smoked), who currently smoke, or have quit in the past 15 years and are disease-free at the time of screening . Furthermore, recent developments in genomics have been used to define high-risk populations, making them more suitable for lung cancer screening for early diagnosis . \n",
+      "start_word": 600,
+      "end_word": 940,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 10,
+      "section": "**2. Lung Cancer Staging**",
+      "text": "Historically, the only diagnostic tests available for detecting lung cancer in its early stages were chest radiography and sputum cytology. However, results showed that these two screening methods failed in clinical trials and could not demonstrate their efficacy as mass screening tools . Currently, screening for lung cancer with LDCT is recommended in high-risk populations defined as persons who are 55 to 74 years of age with a minimum smoking history of 30 pack-years or more (pack-years = number of cigarette packs smoked per day _×_ the number of years smoked), who currently smoke, or have quit in the past 15 years and are disease-free at the time of screening . Furthermore, recent developments in genomics have been used to define high-risk populations, making them more suitable for lung cancer screening for early diagnosis .\n\n There is a body of knowledge related to predisposing factors and natural history for lung cancer that together with pathological findings can lead to the identification of cancer, but many questions are still open. It is well believed that identifying pre-invasive lesions might develop promising early intervention methods and a shift of therapeutic studies targeting only clinically verified lung cancer .\n\n Lung cancer represents one of the most studied cancers regarding immunology. This is because lung cancer is driven by genetic and epigenetic aberrations explained by mutations affecting proto-oncogenes and tumor suppressors with the emergence of host immune deregulation. Advances in immune-genomic technologies have provided a platform for a better understanding of lung tumors on a molecular and genomic level. In this regard, genomic surveys of pre-malignant lung cancers have shed light on early alterations in their evolution, which allows the identification of therapeutic targets “tumor-type agnostic therapies” for early treatment and diagnosis . \n",
+      "start_word": 900,
+      "end_word": 1189,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 11,
+      "section": "**3.**",
+      "text": "## **3.**\n\n As mentioned above, lung cancers are classified into two main histological types, SCLC and NSCLC . SCLCs are aggressive lung tumors often caused by smoking and encompass 15–20% of all primary lung cancers. Interestingly, the gene amplification of the transcription regulators _MYC_ is common in SCLC . NSCLC can be divided into four subtypes: Lung adenocarcinoma (LUAD), lung squamous cell carcinoma (LUSC), large-cell carcinoma, and bronchial carcinoid tumor. Among these, LUAD is the most prevalent subtype of NSCLC and the most common primary lung tumor. LUAD frequently arises among female non-smokers, a category often missed on screening. It adopts a histologically glandular pattern with activating mutations affecting driver genes such as the oncogenes _KRAS_ and _BRAF_ and the epidermal growth factor receptor _EGFR_ .\n\n 4 of 18 \n",
+      "start_word": 0,
+      "end_word": 129,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 12,
+      "section": "**4. SCLC**",
+      "text": "## **4. SCLC**\n\n This type of lung cancer is a poorly differentiated and high-grade neuroendocrine tumor, accounting for 10–15% of all lung cancers. SCLC is characterized by short tumor doubling time and metastasis at an early stage, with more than half of the patients diagnosed at an advanced stage. Therefore, screening and early diagnosis could lead to a better prognosis. The standard treatment for SCLC patients comprises chemotherapy combined with chest radiotherapy .\n\n The immune system plays a crucial role in controlling tumor growth and progression via cancer immune surveillance, as suggested by current immune-oncology research. However, tumors can escape immune surveillance by inducing regulatory T cells to promote T cells’ dysfunctions and natural killer cells. This immunosuppressive state in patients with SCLC can influence their prognosis. Thus, aiming towards reversing the immunosuppressive status of SCLC provides hope for immunotherapy for SCLC patients. Preclinical and clinical trials on immune checkpoint inhibitors and adoptive cell therapy can introduce SCLC treatment modalities with a parallel investigation of new biomarkers to achieve precise treatment and early diagnosis .\n\n Clinically, seven immune checkpoint inhibitor antibodies have been approved by the United States Food and Drug Administration (FDA) for the treatment of a variety of tumors: Ipilimumab that blocks cytotoxic T-lymphocyte antigen-4, and six antibodies that block PD-1/PD-L1 including pembrolizumab, nivolumab, atezolizumab, durvalumab, cemiplimab, and avelumab. These antibodies have achieved promising results in the treatment of recurrent SCLC. On the other hand, tumor vaccines, immunomodulators, cellular immunity, and other immunotherapy methods can play an increasingly important role in comprehensive tumor therapy. Reasonable treatment timing and optimal combined strategy are the hotspots of SCLC immunotherapy . \n",
+      "start_word": 0,
+      "end_word": 270,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 13,
+      "section": "**5. NSCLC**",
+      "text": "## **5. NSCLC**\n\n Over the last decade, tissue and/or blood biomarkers have helped guide patients’ treatment decisions with advanced NSCLC. Based on the detection of biomarkers, this has provided a channel for subgrouping patients. Evidence shows that treatment with targeted therapies has superior clinical outcomes than traditional cytotoxic chemotherapy .\n\n Newly diagnosed NSCLC patients are opted to take biomarker testing for determining optimal treatment. Practical guidelines such as the CAP/IASLC/AMP, ASCO, and National Comprehensive Cancer Network guidelines help select the most appropriate biomarkers and assays to use .\n\n There are many different types of tissue- and blood-based assays available for biomarker testing, all with their advantages and disadvantages that clinicians should understand when deciding which assays to use. For example, plasma-based assays have many advantages over tissue-based tests because the test is non-invasive, fast, and easily repeatable over time. Still, they may be less sensitive than tissue-based assays and cannot serve as stand-alone testing for patients with NSCLC. For example, the most common targetable mutation ( _EGFR_ ) testing has been part of the standard practice since 2011.\n\n NSCLC serves as a model for the successful application of “precision medicine” or the concept of using advanced genetic analysis of a patient’s tumor to obtain an individualized therapy plan in contrast with cancer treatment regimens assigned in a definite manner, based mainly on the organ of origin. The NCI-MATCH Trial (Molecular Analysis for Therapy Choice) is an example of an advanced precision medicine clinical trial, where genomic sequencing of a patient’s tumor is performed. The cancer treatment regimen is derived based on the genomic findings, not the organ in which cancer originated. Further advances in precision medicine depend on the development of novel diagnostic assays, which are needed to provide feedback (preferably quantitative) to oncologists regarding the efficacy of therapy . \n",
+      "start_word": 0,
+      "end_word": 300,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 14,
+      "section": "**5. NSCLC**",
+      "text": "NSCLC serves as a model for the successful application of “precision medicine” or the concept of using advanced genetic analysis of a patient’s tumor to obtain an individualized therapy plan in contrast with cancer treatment regimens assigned in a definite manner, based mainly on the organ of origin. The NCI-MATCH Trial (Molecular Analysis for Therapy Choice) is an example of an advanced precision medicine clinical trial, where genomic sequencing of a patient’s tumor is performed. The cancer treatment regimen is derived based on the genomic findings, not the organ in which cancer originated. Further advances in precision medicine depend on the development of novel diagnostic assays, which are needed to provide feedback (preferably quantitative) to oncologists regarding the efficacy of therapy .\n\n Checkpoint immunotherapy (CPI) in metastatic NSCLC and the emergence of predictive biomarkers for CPI efficacy reinforces the importance of testing for both treatable\n\n 5 of 18\n\n genomic abnormalities and immune-related biomarkers. To this point, current national and international guidelines now recommend testing for alterations of the oncogenic targets _EGFR_ , _ALK_ , _ROS1_ , _BRAF_ , _RET_ , _MET_ , and _HER2_ , along with immune biomarkers such as PD-L1 and tumor mutational burden (TMB) .\n\n As highlighted above, both SCLC and NSCLC benefit from using biomarkers in early diagnosis and follow-up of a treatment and even choosing a treatment protocol. \n",
+      "start_word": 300,
+      "end_word": 523,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 15,
+      "section": "**6. Traditional Diagnosis and Screening**",
+      "text": "## **6. Traditional Diagnosis and Screening** \n",
+      "start_word": 0,
+      "end_word": 6,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 16,
+      "section": "_6.1. Screening High-Risk Groups_",
+      "text": "## _6.1. Screening High-Risk Groups_\n\n Screening of high-risk groups allows for early detection at a treatable and curable stage. As mentioned above, high-risk involves a history of heavy smoking (more than 30 packyear), current smokers, or smokers who have quit less than 15 years ago, and between 55 and 80 years. Given that the American Cancer Society predicted 135,720 lung cancer deaths in 2020, more widespread screening could save 30,000–60,000 lives in the United States each year. The US Preventive Services Task Force USPSTF recommended lowering the starting age for screening from 55 to 50 years and the smoking history requirements from 30 to 20 pack-years. Medical providers have also recommended getting familiar with lung cancer screening guidelines and prescribing these exams for high-risk patients. Currently, only a fraction of the recommended population is screened . \n",
+      "start_word": 0,
+      "end_word": 136,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 17,
+      "section": "_6.2. Radiographic Screening and Diagnosis_",
+      "text": "## _6.2. Radiographic Screening and Diagnosis_\n\n In Japan, a study observed that annual clinic-based chest X-ray screening for lung cancer reduced 25% of lung cancer mortality for subjects screened annually . Interestingly, results published from a study performed in Osaka, Japan, showed that high-risk smoker screening using low-dose helical computed tomography (LDCT) showed a reduction of 20% in lung cancer compared to standard radiographic screening .\n\n In lung cancer diagnosis using chest radiography, the sensitivity for tumor detection is roughly 1 cm in diameter, which already has over 10 cells with a potential of disrupted bronchial and vascular epithelia. CT is more effective in detecting peripheral lung lesions than plain radiography or conventional tomography of the whole lung. Spiral CT scans can continuously acquire data resulting in a shorter scanning time, a lower radiation exposure, and improved diagnostic accuracy than plain radiography. Then, this technique can image the whole chest in a very short time (one or two breath-holds), with a concomitant reduction in artifacts with a better outcome in missing nodules. Nodules as small as 1–5 mm can be shown with modern spiral CT technology. Lung cancer screening is now routinely done using CT, with or without additional adjunct tests such as sputum cytology. Two barriers that discourage its implementation for the general population are cost and accessibility. Furthermore, exposure to low-dose radiation increases the risk of a patient eventually developing breast, thyroid, or lung cancer, especially if they undergo multiple CT scans. LDCT may identify abnormalities that are not cancer (false positives) that require patients to undergo more invasive testing such as biopsies and surgery to remove the anomaly, presenting additional intra- and post-operative risks and complications .\n\n Spiral CT scans have shown a better diagnostic ability for peripherally small tumor identification. However, the sensitivity of spiral CT for more centrally located tumors (primarily squamous cell carcinoma) is significantly lower than for peripherally located tumors . Notably, approximately 40% of all participants recruited in the LDCT of the National Lung Screening Trial showed at least one positive screen, registering 96% false positives . The high percentage of false-positive can be translated into costly screening and invasive procedures on smoking subjects free of lung cancer. Taken together, the screening of lung cancer using less expensive instruments and non-invasive techniques is a high priority in diagnosing lung cancer. \n",
+      "start_word": 0,
+      "end_word": 388,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 18,
+      "section": "_6.2. Radiographic Screening and Diagnosis_",
+      "text": "Spiral CT scans have shown a better diagnostic ability for peripherally small tumor identification. However, the sensitivity of spiral CT for more centrally located tumors (primarily squamous cell carcinoma) is significantly lower than for peripherally located tumors . Notably, approximately 40% of all participants recruited in the LDCT of the National Lung Screening Trial showed at least one positive screen, registering 96% false positives . The high percentage of false-positive can be translated into costly screening and invasive procedures on smoking subjects free of lung cancer. Taken together, the screening of lung cancer using less expensive instruments and non-invasive techniques is a high priority in diagnosing lung cancer.\n\n 6 of 18 \n",
+      "start_word": 300,
+      "end_word": 411,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 19,
+      "section": "_6.3. Sputum Examination_",
+      "text": "## _6.3. Sputum Examination_\n\n Another diagnostic procedure of lung cancer is the cytological examination of sputa, especially multiple samples, which helps detect central tumors from the larger bronchi (e.g., squamous- and small-cell carcinomas). In general, sputum samples failed to detect small adenocarcinomas (diameter _≤_ 2 cm) that originated from the airway ramifications, such as small bronchi, bronchioles, and alveoli. This has become of greater importance because cigarette exposure changes (filters and decreased nicotine content) have increased adenocarcinomas and decreased squamous carcinomas. Sputum cytology’s sensitivity for early lung cancer is only in the 20–30% range from screening studies. Early studies showed that the ability to detect pre-malignant conditions depends on different factors such as the number and type of cells (deeper airways) . Studies have also concluded that sputum cytology was insufficiently insensitive or accurate to be included in the routine workup of any patient suspected of having lung cancer .\n\n Studies have shown that perhaps immunostaining could provide a more favorable outcome compared to sputum cytology. For example, an 8-year study at the Johns Hopkins hospital collected annual sputum specimens from individuals screened with known clinical outcomes. The sputum specimens were archived and screened for biomarkers that could indicate lung tumors in an early or pre-invasive stage . As a result of this investigation, two monoclonal antibodies were studied to distinguish the pattern of marker expression. Results showed that positive staining with these antibodies predicted subsequent lung cancer approximately two years before clinical recognition of the disease based on chest X-ray and cytology. In addition, one of these antibodies (703D4) showed higher sensitivity and was later identified as recognizing the protein heterogeneous nuclear ribonucleoprotein (hnRNP) A2/B1 . Following this study, the role of hnRNP A2/B1 overexpression for detecting pre-clinical lung cancer was studied in a large high-risk population, including 6000 Chinese tin miners who were heavy smokers and had an elevated lung cancer rate. This study indicated that the expression of hnRNP A2/B1 in epithelium cells from sputum was 2- to 3-fold more sensitive for early detection of lung cancer than standard chest X-ray and sputum cytology methods . \n",
+      "start_word": 0,
+      "end_word": 349,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 20,
+      "section": "_6.3. Sputum Examination_",
+      "text": "Studies have shown that perhaps immunostaining could provide a more favorable outcome compared to sputum cytology. For example, an 8-year study at the Johns Hopkins hospital collected annual sputum specimens from individuals screened with known clinical outcomes. The sputum specimens were archived and screened for biomarkers that could indicate lung tumors in an early or pre-invasive stage . As a result of this investigation, two monoclonal antibodies were studied to distinguish the pattern of marker expression. Results showed that positive staining with these antibodies predicted subsequent lung cancer approximately two years before clinical recognition of the disease based on chest X-ray and cytology. In addition, one of these antibodies (703D4) showed higher sensitivity and was later identified as recognizing the protein heterogeneous nuclear ribonucleoprotein (hnRNP) A2/B1 . Following this study, the role of hnRNP A2/B1 overexpression for detecting pre-clinical lung cancer was studied in a large high-risk population, including 6000 Chinese tin miners who were heavy smokers and had an elevated lung cancer rate. This study indicated that the expression of hnRNP A2/B1 in epithelium cells from sputum was 2- to 3-fold more sensitive for early detection of lung cancer than standard chest X-ray and sputum cytology methods . \n",
+      "start_word": 300,
+      "end_word": 499,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 21,
+      "section": "_6.4. Bronchoscopy and Lung Tissue Biopsy_",
+      "text": "## _6.4. Bronchoscopy and Lung Tissue Biopsy_\n\n White light bronchoscopy (WLB) is the most commonly used diagnostic tool for obtaining a definite histological diagnosis of lung cancer. However, bronchoscopy has significant diagnostic limitations for pre-malignant lesions. These lesions are hard to detect visually because they are composed of a few layers of cells with a thickness of 0.2–1 mm and a diameter of a few millimeters.\n\n It appears that the visualization or detection of these small squamous lesions requires a high level of training, as only 29% of the cases were detected by an experienced bronchoscopist. The development of fluorescence bronchoscopy addressed this limitation. However, although this method could localize early invasive and in situ cancers, the detection of dysplasia remained problematic. Furthermore, photodynamic diagnostic systems’ development was hampered by problems in sensitizing and interference with tissue autofluorescence. A new laser photodynamic diagnostic system was developed using tumor-specific drug fluorescence at 630 nm wavelength to overcome this. This wavelength is well separated from the typical endogenous fluorescence of the tissues, which ranges 500–580 nm.\n\n Using a high-quality charge-coupled device and unique algorithm, the LIFE-lung Fluorescence Endoscopy was developed under the principle that dysplastic and malignant tissues reduce autofluorescence signals compared with normal tissues .\n\n Several studies have been performed comparing the diagnostic specificity and sensitivity of LIFE bronchoscopy vs. WLB in diagnosing pre-invasive and early invasive lesions. Most of the studies reported a higher diagnostic sensitivity of LIFE bronchoscopy in detecting pre-malignant and early malignant lesions at the cost of lower specificity (i.e., more false-positive results). Surprisingly, the prevalence of pre-invasive and early lung\n\n 7 of 18\n\n cancer varies widely from one study to another. These fluctuations can be the result of the experience level of the operators.\n\n Interestingly, the use of LIFE bronchoscopy identified a new morphological entity defined as Angiogenic Squamous Dysplasia (ASD). In a morphological study, angiodysplasia changes were frequently found in pre-neoplastic and early malignant lesions in the bronchi. This finding has been confirmed in pre-neoplasia among smokers. Thus, the significance of ASD for long-term follow-up and future studies evaluating the role of ASD as a biomarker for early lesions is an area of great interest . \n",
+      "start_word": 0,
+      "end_word": 361,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 22,
+      "section": "_6.4. Bronchoscopy and Lung Tissue Biopsy_",
+      "text": "Interestingly, the use of LIFE bronchoscopy identified a new morphological entity defined as Angiogenic Squamous Dysplasia (ASD). In a morphological study, angiodysplasia changes were frequently found in pre-neoplastic and early malignant lesions in the bronchi. This finding has been confirmed in pre-neoplasia among smokers. Thus, the significance of ASD for long-term follow-up and future studies evaluating the role of ASD as a biomarker for early lesions is an area of great interest . \n",
+      "start_word": 300,
+      "end_word": 373,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 23,
+      "section": "**7. Lung Tissue Biopsies**",
+      "text": "## **7. Lung Tissue Biopsies**\n\n The gold standard for cancer confirmation is a biopsy of the tissues. Lung tissue biopsy samples must have adequate tissue material to identify the subtype of lung cancer by histopathology procedures. The initial biopsy is critical to confirm early diagnosis, avoiding repeating the biopsy with increased risk of complications and a delay in treatment initiation. Many commonly used procedures in diagnosing lung cancer include fiber optic bronchoscopy with or without transbronchial needle aspiration, endobronchial ultrasonography, image-guided trans-thoracic needle aspiration, mediastinoscopy, pleural fluid analysis (thoracentesis), thoracoscopy, and surgical approaches. These procedures are costly, prone to complications, and there is a possible need for more samples . \n",
+      "start_word": 0,
+      "end_word": 110,
+      "type": "body",
+      "page_num": 7
+    },
+    {
+      "chunk_id": 24,
+      "section": "_Bridging between Traditional and New Screening Methods_",
+      "text": "## _Bridging between Traditional and New Screening Methods_\n\n The introduction of testing for biomarkers made the most use of lung tissue biopsies by testing for mutations. The most common targetable mutation in the gene _EGFR_ , for which testing has been part of the standard practice since 2011, is not continuously assessed. It has been suggested that reflex testing can reduce the time to initiating treatment. Another setback is that tissue samples from biopsies are often sufficient for diagnosis but inadequate for biomarker testing, requiring recurrent biopsies, which might be challenging from a risk, cost, and patient preference standpoint. Tests may fail due to technical reasons. Proper diagnosis needs the collaboration of a multi-disciplinary system working with pulmonology or interventional radiology to ensure enough tissue is obtained at diagnosis for testing .\n\n Oncomine (testing _EGFR_ , _BRAF_ , and _ROS1_ only), MSK IMPACT (Integrated Mutation Profiling of Actionable Cancer Targets), and Foundation One CDx are FDA-approved nextgeneration sequencing (NGS)-based platforms for molecular testing. Broader NGS-based assays can evaluate emerging biomarkers in a single test to reduce the cost, test more patients, and reduce the need for recurrent biopsies.\n\n One of the basic NGS assays commonly used in clinical molecular laboratories is the amplicon-based assay using multiple PCR primers to amplify genomic regions of interest directly. However, these assays have limitations in the number of genes and areas that can be effectively covered at once. As a result, these assays are typically small panels covering hot spots or highly selected clinical interest regions .\n\n One of the critical issues facing practicing oncologists is whether to test tissue biopsy vs. liquid biopsy, primarily plasma-based circulating tumor DNA (ctDNA) assays, and whether ctDNA can now replace a biopsy or recurrent biopsies in some clinical settings . However, this analysis is not practical for lung cancer diagnosis because mutations observed in cfDNA in peripheral blood do not necessarily coincide with the tumor-derived DNA from the same individual. Moreover, cfDNA can also be found in healthy individuals , making it a complicated task to differentiate cfDNA from non-tumor tissues. Although an alternative to circumvent this issue is the sequence of mutations in these cfDNA, non-tumor tissues might develop mutations that originated from the hematopoietic stem cells. These mutations originate from clonal hematopoiesis of indeterminate potential (CHIP) as a result of somatic mutations acquired with age . \n",
+      "start_word": 0,
+      "end_word": 391,
+      "type": "body",
+      "page_num": 7
+    },
+    {
+      "chunk_id": 25,
+      "section": "_Bridging between Traditional and New Screening Methods_",
+      "text": "One of the critical issues facing practicing oncologists is whether to test tissue biopsy vs. liquid biopsy, primarily plasma-based circulating tumor DNA (ctDNA) assays, and whether ctDNA can now replace a biopsy or recurrent biopsies in some clinical settings . However, this analysis is not practical for lung cancer diagnosis because mutations observed in cfDNA in peripheral blood do not necessarily coincide with the tumor-derived DNA from the same individual. Moreover, cfDNA can also be found in healthy individuals , making it a complicated task to differentiate cfDNA from non-tumor tissues. Although an alternative to circumvent this issue is the sequence of mutations in these cfDNA, non-tumor tissues might develop mutations that originated from the hematopoietic stem cells. These mutations originate from clonal hematopoiesis of indeterminate potential (CHIP) as a result of somatic mutations acquired with age .\n\n Barriers to early lung cancer screening and diagnosis by traditional methods (discussed earlier) could be overcome with a simple, accurate, reproducible, and inexpensive\n\n 8 of 18\n\n yearly test as a general screening tool. Several biomarkers are emerging as tools for detecting early diagnosis. Because serologic biomarkers can be analyzed conveniently and economically, they are adequate for mass screening. Serologic biomarkers that are currently available for NSCLC are carcinoembryonic antigen (CEA) and serum cytokeratin 19 fragments (CYFRA 21-1) detailed below .\n\n Peripheral biofluids, such as sera, are a preferred source of samples for identifying biomarkers for the early detection of tumors. Research has suggested that the early detection of lung cancer could be achieved by analyzing biomarkers in tissue samples from within the respiratory tract, including sputum, saliva, nasal/bronchial airway epithelial cells, and exhaled breath condensate. Moreover, the use of blood-borne biomarkers (liquid biopsies) includes circulating nucleic acids, proteins, and tumor cells (CTCs). Although the evaluation of these biomarkers requires a minimally invasive approach, it is also repeatable and inexpensive compared to imaging . \n",
+      "start_word": 300,
+      "end_word": 611,
+      "type": "body",
+      "page_num": 7
+    },
+    {
+      "chunk_id": 26,
+      "section": "_Bridging between Traditional and New Screening Methods_",
+      "text": "Peripheral biofluids, such as sera, are a preferred source of samples for identifying biomarkers for the early detection of tumors. Research has suggested that the early detection of lung cancer could be achieved by analyzing biomarkers in tissue samples from within the respiratory tract, including sputum, saliva, nasal/bronchial airway epithelial cells, and exhaled breath condensate. Moreover, the use of blood-borne biomarkers (liquid biopsies) includes circulating nucleic acids, proteins, and tumor cells (CTCs). Although the evaluation of these biomarkers requires a minimally invasive approach, it is also repeatable and inexpensive compared to imaging . \n",
+      "start_word": 600,
+      "end_word": 693,
+      "type": "body",
+      "page_num": 7
+    },
+    {
+      "chunk_id": 27,
+      "section": "**8. Transition to Biomarker Applications**",
+      "text": "## **8. Transition to Biomarker Applications**\n\n In practice, the cornerstones of lung cancer assessment are radiology and tissue biopsies, as discussed earlier. Between missing early diagnosis, cost, and their risks, especially thoracic oncology biopsies, introducing the use of techniques as simple as a blood test provides a much safer and faster option. A review at the MD Anderson Cancer Center assessing cancer biopsies showed more than 17% adverse effects for thoracic biopsies . \n",
+      "start_word": 0,
+      "end_word": 73,
+      "type": "body",
+      "page_num": 8
+    },
+    {
+      "chunk_id": 28,
+      "section": "_8.1. cfDNA_",
+      "text": "## _8.1. cfDNA_\n\n This is a liquid biopsy that analyzes circulating free DNA (cfDNA) and CTCs via a non-invasive method, such as a routine blood draw or urine sample. cfDNA is released by normal cells and cells exhibiting pathologic processes (e.g., inflammation and neoplasia). Circulating tumor DNA (ctDNA) is a subset of cfDNA released by tumor cells that occurs through a combination of apoptosis, necrosis, and secretion. Analysis of the genetic alterations include point mutations, methylation patterns, chromosomal rearrangements, structural rearrangements, and copy number variations. Examples of cells contributing to cfDNA include the cells turning over due to: (i) Normal processes (e.g., lining of the gut), (ii) inflammatory events or other immune-mediated processes, and (iii) neoplastic phenomena. Thus, ctDNA is a tumor shed product. Normally, phagocytes clear cellular debris; however, this does not happen competently in solid tumors since cellular debris accumulates and is released into the blood . Epigenetic screening is concerned with structural changes in chromosomal regions unrelated to DNA changes that mark altered activity states and show potential lung cancer diagnostic markers. DNA methylation and histone modification modulate gene expression that could influence early lung cancer detection .\n\n Although the use of cfDNA showed promising results, further analyses of the published studies showed a different picture. For instance, a metanalysis comprised of 10 studies using cfDNA showed that a pool sensitivity of 0.8 was calculated with a range of 0.48 to 0.91 across the studies . In the case of the specificity, a pool specificity of 0.77 was calculated, ranging between 0.47 to 1. Following this line of variation between the studies, an inconsistency of 86.6% and 93.4% was calculated by I-square . These results signify that the pooled sensitivity and specificity of the studies are the result of heterogeneity rather than chance. \n",
+      "start_word": 0,
+      "end_word": 296,
+      "type": "body",
+      "page_num": 8
+    },
+    {
+      "chunk_id": 29,
+      "section": "_8.2. Blood Circulating Antigens_",
+      "text": "## _8.2. Blood Circulating Antigens_\n\n A number of antigens found in blood have been assessed over the years as potential biomarkers of lung cancer. The most studied biomarkers include CYFRA 21-1, carcinoembriogenic antigen (CEA), neuron specific enolase (NSE), and squamous cell carcinoma antigen (SCC-Ag). The following table is provided as an illustration of the sensitivities and specificities reported by clinical trials (Table 2).\n\n 9 of 18\n\n **Table 2.** Sensitivity and specificity analysis of common antigens found in lung cancer.\n\n |**Antigen Name**|**Type**|**Sensitivity (%)**|**Specifcity (%)**|**Reference**|\n|---|---|---|---|---|\n|CYFRA|||||\n||SCLC|34|95||\n||NSCLC|49|95||\n||ND|43|89||\n||ND|85.1|88.3||\n||NSCLC|59|94||\n||SQC|68|94||\n||SCLC|19|94||\n||NSCLC|40|95||\n|CEA|||||\n||NSCLC|29|95||\n||ND|69|68||\n||ND|55|79.6||\n||NSCLC|42|95||\n|SCC|||||\n||NSCLC|17|95||\n||ND|35.6|71.2||\n||SQC|95|32||\n||NSCLC|19|95||\n|NSE|||||\n||SCLC|54|95||\n||ND|23.4|91.2||\n\n\n\n SCLC, Small-Cell Lung Cancer (SCLC); NSCLC, Non-Small-Cell Lung Cancer (NSCLC); SQC, squamous cell lung cancer; ND, not defined.\n\n As shown in Table 2, variations are observed across the different types of lung cancers. These variations could have originated in the cancer stage at the moment of blood collection and/or other methodologies used for the analysis, such as differences in the ELISA kits from different suppliers, including the threshold of the antigen values set by the company. Taken together, it appears that a unique antigen biomarker is not valuable for diagnostic and likely, a multi-antigen approach should be considered in combination or not with other biomarkers. \n",
+      "start_word": 0,
+      "end_word": 211,
+      "type": "body",
+      "page_num": 8
+    },
+    {
+      "chunk_id": 30,
+      "section": "_8.3. Cell-Free DNA (cfDNA) and Circulating Tumor Cells (CTCs)_",
+      "text": "## _8.3. Cell-Free DNA (cfDNA) and Circulating Tumor Cells (CTCs)_\n\n The first discovery of circulating DNA and RNA in the plasma of healthy and sick individuals commenced in 1948 . This discovery was later acknowledged more than 30 years later when increased amounts were found in cancer patients. Throughout the decade of 2000–2010, studies implying a direct relation between cfDNA and cancer found an increase in the tumor size and the quantity of cellular debris . It was also found that cfDNA exists at stable levels with a concomitant increase due to cell injury. Hence, cfDNA was proposed as a marker of cancer cell death. Efforts to use cfDNA as a diagnostic and screening biomarker have been shown to identify early-stage lung cancer. The detection of ctDNA in plasma depends upon cfDNA shed, which is calculated via the difference in rates between the release of DNA by tumor cells vs. the renal clearance. Among the key variables are the mitotic rate and tumor. For example, it would favor ctDNA detection when metastasis, bone, or the liver is involved. On average, the amount of cfDNA found in a normal person ranges 5–10 ng/mL . In cancer patients, depending on the type of cancer and stage, the cfDNA concentration might range up to 50 times more than the normal concentration.\n\n Another way to investigate the cfDNA is by the use of the polymerase chain reaction (PCR). A study examined the levels of plasma DNA in 84 patients with NSCLC, which was compared to 43 healthy blood donor controls . This study stated that healthy controls could be distinguished from patients with lung tumors. Even in patients with stage 1A, the amount of cfDNA in plasma was significantly higher than in the control patients. However, another study that also measured cfDNA as a screening tool found that cfDNA could not \n",
+      "start_word": 0,
+      "end_word": 307,
+      "type": "body",
+      "page_num": 9
+    },
+    {
+      "chunk_id": 31,
+      "section": "_8.3. Cell-Free DNA (cfDNA) and Circulating Tumor Cells (CTCs)_",
+      "text": "Another way to investigate the cfDNA is by the use of the polymerase chain reaction (PCR). A study examined the levels of plasma DNA in 84 patients with NSCLC, which was compared to 43 healthy blood donor controls . This study stated that healthy controls could be distinguished from patients with lung tumors. Even in patients with stage 1A, the amount of cfDNA in plasma was significantly higher than in the control patients. However, another study that also measured cfDNA as a screening tool found that cfDNA could not\n\n 10 of 18\n\n distinguish differences in a cohort of approximately 1000 high-risk smokers, suggesting that progression to lung cancer could not be predicted. Although cfDNA might not be an effective marker for screening high-risk smokers, it could still play a role in diagnosing whether nodules identified by LDCT are either benign or malignant. Studies have revealed limitations towards the advanced use of biomarkers in the clinic to facilitate physician adoption as part of their standard of care, mainly validity and maintaining general mass use of biomarkers in liquid biopsies .\n\n Another predictor for cancer development is the quantification of CTC. CellSearch can perform this quantification. This platform uses whole blood to evaluate CTCs of epithelial origin in extensive clinical studies for breast and prostate cancer as markers of response to therapy and indicators of prognosis. Studies have revealed that CTCs in the blood are associated with a decrease in overall survival in patients treated for metastatic breast, colorectal, or prostate cancer. Thus, CTCs offer the opportunity to capture and profile individual aspects of a patient’s malignancy and have proven to be a vital cornerstone of precision medicine. Technical advances have now made it possible to detect and characterize single CTCs in the blood of patients. The identification of CTCs in the blood torrent platform measures the epithelial cell adhesion molecule (EpCAM) . Non-EpCAM approaches for CTC capture and quantification are also under investigation. For instance, a further classification of CTCs using markers of transition from epithelial to mesenchymal markers could be used to monitor the progress of the disease. \n",
+      "start_word": 300,
+      "end_word": 648,
+      "type": "body",
+      "page_num": 9
+    },
+    {
+      "chunk_id": 32,
+      "section": "_8.3. Cell-Free DNA (cfDNA) and Circulating Tumor Cells (CTCs)_",
+      "text": "Another predictor for cancer development is the quantification of CTC. CellSearch can perform this quantification. This platform uses whole blood to evaluate CTCs of epithelial origin in extensive clinical studies for breast and prostate cancer as markers of response to therapy and indicators of prognosis. Studies have revealed that CTCs in the blood are associated with a decrease in overall survival in patients treated for metastatic breast, colorectal, or prostate cancer. Thus, CTCs offer the opportunity to capture and profile individual aspects of a patient’s malignancy and have proven to be a vital cornerstone of precision medicine. Technical advances have now made it possible to detect and characterize single CTCs in the blood of patients. The identification of CTCs in the blood torrent platform measures the epithelial cell adhesion molecule (EpCAM) . Non-EpCAM approaches for CTC capture and quantification are also under investigation. For instance, a further classification of CTCs using markers of transition from epithelial to mesenchymal markers could be used to monitor the progress of the disease. \n",
+      "start_word": 600,
+      "end_word": 769,
+      "type": "body",
+      "page_num": 9
+    },
+    {
+      "chunk_id": 33,
+      "section": "**9. Liquid Biopsies Use in Lung Cancer**",
+      "text": "## **9. Liquid Biopsies Use in Lung Cancer**\n\n The use of liquid biopsies could be in the form of introducing lung cancer genetic, transcriptomic, and epigenetic screening biomarkers to determine potential high-risk subjects as a preliminary screening before the use of CT. Thus, early diagnostic using biomarkers could diagnose intermediate nodules identified by CT, leading to selecting subjects that need a surgical biopsy and saving others who do not need it.\n\n Liquid biopsies have clinical applications in early detection, tracking primary and metastatic foci, assessing and monitoring treatment, and treatment resistance. However, they come with a setback regarding mass implementation in that they require complicated analytical methods to analyze. Nevertheless, projects like the FDA Sequencing Quality Control Phase II (SEQC2) project and the Blood Profiling Atlas in Cancer (BloodPAC) consortium have focused on these aspects .\n\n Liquid biopsies allow for the non-invasive analysis of body fluids for DNA-shed products and aberrant circulating cells. They have also been assessed as a pillar in the precision medicine field, as genetic analysis provides quantitative feedback and monitors patient responses, enabling a more precise, personalized, and practical approach towards individualized treatment.\n\n The ability to use these non-invasive methods of analyzing liquid biopsies, such as plasma, saliva, pleural effusions, CSF, or urine at the clinic, is considered technological progress in immune-oncology.\n\n Extensively studying and subtyping NSCLC through genetic analyses enables molecular understanding, resulting in more effective therapeutic options, significantly reducing toxicity profiles through target treatment of NSCLC subtypes (e.g., _EGFR_ , _ALK_ , and _ROS1_ ). Unfortunately, not many patients use target therapies. Nearly 80% of cancer patients do not have genetic mutation results available during the initial consult with an oncologist, and approximately25% begin cancer treatment before receiving results. Molecular diagnostic companies offer rapid services to overcome this issue, where whole blood is shipped overnight to identify ctDNA mutations (in _EGFR_ and _KRAS_ ) using commercially available droplet digital PCR (ddPCR), and the results are reported within 72 h . \n",
+      "start_word": 0,
+      "end_word": 326,
+      "type": "body",
+      "page_num": 10
+    },
+    {
+      "chunk_id": 34,
+      "section": "**9. Liquid Biopsies Use in Lung Cancer**",
+      "text": "Extensively studying and subtyping NSCLC through genetic analyses enables molecular understanding, resulting in more effective therapeutic options, significantly reducing toxicity profiles through target treatment of NSCLC subtypes (e.g., _EGFR_ , _ALK_ , and _ROS1_ ). Unfortunately, not many patients use target therapies. Nearly 80% of cancer patients do not have genetic mutation results available during the initial consult with an oncologist, and approximately25% begin cancer treatment before receiving results. Molecular diagnostic companies offer rapid services to overcome this issue, where whole blood is shipped overnight to identify ctDNA mutations (in _EGFR_ and _KRAS_ ) using commercially available droplet digital PCR (ddPCR), and the results are reported within 72 h .\n\n One of the challenges in using liquid biopsies to detect mutations arises from the difficulty of very low-frequency mutation detection. This might happen after lung cancer surgery for a curative intent (i.e., a small, localized tumor) as the source of ctDNA shed was removed, due to the continued clearance of ctDNA by the kidneys. In these cases,\n\n 11 of 18\n\n postoperative blood potentially requires the detection of mutations of _≤_ 0.1%. Therefore, the improvement of specificity and sensitivity of lung biopsies is a field of technological research that could be used as adjuvant therapy and cancer screening. \n",
+      "start_word": 300,
+      "end_word": 507,
+      "type": "body",
+      "page_num": 10
+    },
+    {
+      "chunk_id": 35,
+      "section": "**10. Applications of Biomarkers in Clinical Samples**",
+      "text": "## **10. Applications of Biomarkers in Clinical Samples**\n\n The clinical samples available for biomarker measurements are: \n",
+      "start_word": 0,
+      "end_word": 16,
+      "type": "body",
+      "page_num": 11
+    },
+    {
+      "chunk_id": 36,
+      "section": "_10.1. Sputum_",
+      "text": "## _10.1. Sputum_\n\n Although cytological examination of sputum is a helpful screening tool for early diagnosis of lung cancer, peripheral tumors, such as adenocarcinomas arising from the smaller airways, can be missed.\n\n PCR techniques have been used for the possible detection of molecular biomarkers for early lung cancer. This was highlighted in a study performed on 15 patients from a project called The Johns Hopkins Lung Project (JHLP) . In this study, approximately 50% of the recruited patients ( _n_ = 15) with adenocarcinoma or large-cell carcinoma were detected by mutations in sputum cells before the clinical diagnosis (1–13 months) when traditional methods would have probably missed them.\n\n Another gene of interest is the p16 gene, commonly inactivated or mutated in lung cancer . The measurement of hypermethylation of the CpG islands in the sputum of lung cancer patients demonstrated a high correlation with early stages of NSCL cancer, suggesting that p16 CpG hypermethylation could be helpful in the early diagnosis of lung cancer.\n\n The potential use of plasma microRNAs (miRNAs) as novel biomarkers for early detection of lung cancer has been studied. miRNA biomarkers also have the potential for lung cancer screening and early detection. These are non-coding RNAs with a length of 22 nucleotides targeting specific regions or mRNA sequences, usually found in the 3 _[′]_ untranslated regions of mRNA, which either prevent translation or promote mRNA degradation and lead to down-regulation of particular genes. Being more stable than mRNA, miRNA used as a marker for lung cancer risk or diagnosis is more practical for clinical application.\n\n Studies have shown that these miRNAs differentially circulate in plasma samples of lung cancer patients. These miRNAs include miR-155, miR-197, and miR-182, which have demonstrated high specificity and sensitivity to discriminate all cancer stages, including stage I of lung cancer, from cancer-free controls. Once validated in a large-scale clinical trial, these markers may be used as a non-invasive confirmatory screening test complementary to the LDCT screening procedure and used as a clinical test for monitoring and clinical follow-up of patients with lung cancer . \n",
+      "start_word": 0,
+      "end_word": 343,
+      "type": "body",
+      "page_num": 11
+    },
+    {
+      "chunk_id": 37,
+      "section": "_10.1. Sputum_",
+      "text": "Studies have shown that these miRNAs differentially circulate in plasma samples of lung cancer patients. These miRNAs include miR-155, miR-197, and miR-182, which have demonstrated high specificity and sensitivity to discriminate all cancer stages, including stage I of lung cancer, from cancer-free controls. Once validated in a large-scale clinical trial, these markers may be used as a non-invasive confirmatory screening test complementary to the LDCT screening procedure and used as a clinical test for monitoring and clinical follow-up of patients with lung cancer .\n\n Several studies have explored the utility of miRNA-based biomarkers in sputum samples. miRNA profiles in the sputum could be used to identify NSCLC. More recently, studies were also able to identify and distinguish miRNA profiles that could be used in the early detection of SCC or adenocarcinoma. For example, an SCC signature of three miRNAs diagnosed the presence of a stage I SCC in patients’ sputum. The adenocarcinoma signature composed of four miRNAs detected no overlap between the two signatures in sputum in patients with stage I adenocarcinoma. Seven different miRNAs were identified in these two signatures, and these miRNAs could be used as risk factors for lung cancer. In bronchial tissue studies profiling miRNA in pre-malignant airway lesions, 69 miRNA were found to evolve in high-risk patients from a pre-invasive stage to a higher stage in the multistep process of lung carcinogenesis .\n\n Although airway miRNA expression may serve as an early detection biomarker, it is limited to bronchial biopsies of pre-malignant airway lesions .\n\n microRNA and methylome in plasma or urine.\n\n 12 of 18 \n",
+      "start_word": 300,
+      "end_word": 560,
+      "type": "body",
+      "page_num": 11
+    },
+    {
+      "chunk_id": 38,
+      "section": "_10.2. Bronchoalveolar Lavage (BAL)_",
+      "text": "## _10.2. Bronchoalveolar Lavage (BAL)_\n\n Routine cytopathological analysis of bronchoalveolar lavage (BAL) specimens has been used as a common diagnosis over the years. Currently, BAL is another specimen sample where the use of molecular biomarkers for early diagnosis is exploited. BAL involves the infusion and respiration of a sterile saline solution in distal segments of the lung via a fiberoptic bronchoscope. Molecular markers including _p53_ mutations, _KRAS_ mutation, the methylation status of the CpG island of the _p16_ gene, and microsatellite alteration were studied in BAL samples. In addition, a study examined a series of 50 resected NSCLC tumor patients and compared the tumors and BALs concerning those molecular biomarkers. With the possible exception of the test for microsatellite alteration, all trials had relatively high sensitivity, detecting mutant cells in the presence of a significant excess of normal cells. The results showed that _p53_ mutations were predominant in squamous cell tumors, whereas the _KRAS_ mutations were predominant in adenocarcinoma tumors. Except for microsatellite alterations, the exact genetic change in the BAL sample as in tumors was always found. Unfortunately, small, peripherally located tumor results were the least specific, representing tumors where early intervention would be of great value. Further studies using these markers are necessary to apply to populations with increased risk, such as smokers without lung cancer and survivors of previous cancer . \n",
+      "start_word": 0,
+      "end_word": 224,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 39,
+      "section": "_10.3. Peripheral Blood_",
+      "text": "## _10.3. Peripheral Blood_\n\n As discussed before, the limited accessibility of lung carcinomas has led to efforts to identify tumor-associated soluble markers in more accessible and non-invasive samples like serum or plasma. With the development of DNA technologies and the use of PCR techniques able to detect nanogram quantities of DNA circulating in the blood, it was found that the plasma and serum of cancer patients are enriched four times in DNA compared to free DNA from normal controls .\n\n A comparison of microsatellite alterations in tumor and plasma DNAs was made in SCLC patients. Results showed that 93% of the patients with microsatellite alterations in tumor DNA also showed modifications in the plasma DNA . These results suggest that modifications of circulating DNA can be used as an early detection biomarker. Another type of modification in circulating DNA is related to aberrant DNA methylation. The hypermethylated DNA was found in all cancer stages, opening up the possibility of an early lung cancer detection marker. Other gene mutations like _p53_ and _RAS_ gene mutations settled as markers in the plasma and serum of patients of other cancers like colorectal and pancreatic malignancies have not yet been established in lung cancer . In addition, geneexpression alterations in circulating white blood cells have been identified in lung tumors.\n\n Although the identification of a gene-expression biomarker in the blood is desirable by measuring mRNAs in the blood, studies have been relatively limited because of RNA degradation, restricting the use of blood-based transcriptomic biomarkers for early detection of lung cancer. For instance, a study analyzed gene expression in peripheral blood mononuclear cell samples of smokers with histologically diagnosed NSCLC tumors , and identified a signature of 29 genes that separate patients with and without lung cancer. Another study analyzed gene expression of lung tissue using serum RNA in whole peripheral blood collected using PAXgene blood RNA tubes. The study included patients with adenocarcinoma and controls to identify differential expression patterns of lung cancer genes that could be tested in blood to improve the identification of risky patients in the future. They showed that RNA-stabilized whole-blood samples could potentially be developed into a gene-expression-based classifier to discriminate between NSCLC patients and controls . \n",
+      "start_word": 0,
+      "end_word": 368,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 40,
+      "section": "_10.3. Peripheral Blood_",
+      "text": "Although the identification of a gene-expression biomarker in the blood is desirable by measuring mRNAs in the blood, studies have been relatively limited because of RNA degradation, restricting the use of blood-based transcriptomic biomarkers for early detection of lung cancer. For instance, a study analyzed gene expression in peripheral blood mononuclear cell samples of smokers with histologically diagnosed NSCLC tumors , and identified a signature of 29 genes that separate patients with and without lung cancer. Another study analyzed gene expression of lung tissue using serum RNA in whole peripheral blood collected using PAXgene blood RNA tubes. The study included patients with adenocarcinoma and controls to identify differential expression patterns of lung cancer genes that could be tested in blood to improve the identification of risky patients in the future. They showed that RNA-stabilized whole-blood samples could potentially be developed into a gene-expression-based classifier to discriminate between NSCLC patients and controls .\n\n The stability of miRNA is attractive to explore because of its potential use as a blood biomarker for the early detection of lung cancer. Previous studies showed the applicability of miRNA in cancer diagnosis. For instance, a panel of seven miRNAs was differentially expressed in patients with cancer, as demonstrated by ultra-deep sequencing of blood sam-\n\n 13 of 18\n\n ples from 10 patients with NSCLC and 10 healthy controls . These results showed that miRNA signatures that predict lung cancer development and prognosis were identified.\n\n When miRNA was analyzed in parallel to oncogene mutations, a better predictive occurrence of cancer was observed after finding a signature of six miRNA specific for lung cancer . This finding is important because it connects a potential link between genetic damage and postgenomic control generated by the miRNA mechanism. This analysis is non-invasive, and both the miRNA and the oncogene mutations can be detected in the same sample. Moreover, deciphering oncogenic mutations, which might represent an individual signature, could be applied in the development of a personalized medicine in cancer prevention. \n",
+      "start_word": 300,
+      "end_word": 629,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 41,
+      "section": "_10.3. Peripheral Blood_",
+      "text": "When miRNA was analyzed in parallel to oncogene mutations, a better predictive occurrence of cancer was observed after finding a signature of six miRNA specific for lung cancer . This finding is important because it connects a potential link between genetic damage and postgenomic control generated by the miRNA mechanism. This analysis is non-invasive, and both the miRNA and the oncogene mutations can be detected in the same sample. Moreover, deciphering oncogenic mutations, which might represent an individual signature, could be applied in the development of a personalized medicine in cancer prevention.\n\n In summary, the use of miRNA is still questionable as more studies should demonstrate its applicability as a diagnosis of lung cancer.\n\n The ELISA-based method for detecting the open reading frame 1 protein (ORF1p) in serum biomarkers can be used to identify patients at high risk of developing lung cancer based on LDCT findings. As such, ORF1p quantification in serum may provide a minimally invasive technique that can complement current lung cancer screening with LDCT . \n",
+      "start_word": 600,
+      "end_word": 768,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 42,
+      "section": "_10.4. Urine_",
+      "text": "## _10.4. Urine_\n\n Urine is seldom examined in the search for biomarkers. However, urine shows potential for use as a biomarker of lung cancer. Different analytes, such as a signature of volatile organic compounds (VOCs) and proteomic analyses, have been proposed as potential biomarkers for lung cancer diagnosis.\n\n In the case of the VOC signature, it is expected that each individual would develop a unique signature. A study that aimed to assess the feasibility of VOC measurement to find biomarkers recruited patients with various lung cancer types. Urine samples were collected and analyzed using a urine cartridge sensor with an array of 73 spots . Results showed that accuracies with sensitivities and specificities varied, with values of 36–95.5% and 60–97.6, respectively. These variations were obtained when different cancers were compared to the controls . Although VOCs are very promising, more studies are necessary to validate the test for clinical. Moreover, it is clear that the VOC signature will fluctuate according to the phenotype of the individual as well as the diet and ethnic group. Thus, all these factors would have a direct effect on the baseline of the VOCs. Another limitation of the study is the sample size, but preliminary results are encouraging.\n\n Another recently evaluated test is the conversion of the antiviral FDA-approved drug amantadine. It has been reported that the drug amantadine is acetylated by the enzyme spermine spermidine N -acetyltransferase or SSAT-1 , and the levels of acetylated amantadine can be detected in urine samples as the acetylated product is not catalyzed anymore . SSAT-1 is an enzyme upregulated in lung cancer, probably because of its function in the cell cycle . The amantadine test is simple, and an individual is required to consume the amantadine pill and provide a urine sample (time = 0). After 2 h, a second urine sample is collected (time = 2 h). The measurement of acetyl amantadine levels in urine can be used to indicate the progress of cancer, and it is non-invasive (urine sample), simple, with clinical applicability for lung cancer diagnosis. For example, a receiver operating characteristic analysis showed an area under the curve = 0.689 when comparing lung cancer patients vs. healthy controls in a clinical trial. Thus, the levels of acetylated amantadine could be used as a helpful and straightforward screening test for early diagnosis of lung cancer . Other applications could be monitoring individuals working with carcinogenetic materials (e.g., asbestos), smokers, high-risk populations, and monitoring cancer recurrence after therapy. \n",
+      "start_word": 0,
+      "end_word": 413,
+      "type": "body",
+      "page_num": 13
+    },
+    {
+      "chunk_id": 43,
+      "section": "_10.4. Urine_",
+      "text": "Another recently evaluated test is the conversion of the antiviral FDA-approved drug amantadine. It has been reported that the drug amantadine is acetylated by the enzyme spermine spermidine N -acetyltransferase or SSAT-1 , and the levels of acetylated amantadine can be detected in urine samples as the acetylated product is not catalyzed anymore . SSAT-1 is an enzyme upregulated in lung cancer, probably because of its function in the cell cycle . The amantadine test is simple, and an individual is required to consume the amantadine pill and provide a urine sample (time = 0). After 2 h, a second urine sample is collected (time = 2 h). The measurement of acetyl amantadine levels in urine can be used to indicate the progress of cancer, and it is non-invasive (urine sample), simple, with clinical applicability for lung cancer diagnosis. For example, a receiver operating characteristic analysis showed an area under the curve = 0.689 when comparing lung cancer patients vs. healthy controls in a clinical trial. Thus, the levels of acetylated amantadine could be used as a helpful and straightforward screening test for early diagnosis of lung cancer . Other applications could be monitoring individuals working with carcinogenetic materials (e.g., asbestos), smokers, high-risk populations, and monitoring cancer recurrence after therapy.\n\n Recently, the potential use of extracellular vesicles was proposed . These vesicles were isolated from different body fluids, including urine, BAL, and serum of mice. The EpCAM levels were measured in these vesicles, as this protein has a role in tumorigenesis as a cell-cell adhesion mediator . When mice were subjected to smoking, an increase in the vesicle concentration in BAL was observed, suggesting that the detection of vesicles in\n\n 14 of 18\n\n different body fluids might be potentially applicable for an early diagnosis of lung cancer. However, it is noteworthy that vesicles have not been tested in humans, and more studies should be performed for the validation of the test. \n",
+      "start_word": 300,
+      "end_word": 621,
+      "type": "body",
+      "page_num": 13
+    },
+    {
+      "chunk_id": 44,
+      "section": "_10.4. Urine_",
+      "text": "Recently, the potential use of extracellular vesicles was proposed . These vesicles were isolated from different body fluids, including urine, BAL, and serum of mice. The EpCAM levels were measured in these vesicles, as this protein has a role in tumorigenesis as a cell-cell adhesion mediator . When mice were subjected to smoking, an increase in the vesicle concentration in BAL was observed, suggesting that the detection of vesicles in\n\n 14 of 18\n\n different body fluids might be potentially applicable for an early diagnosis of lung cancer. However, it is noteworthy that vesicles have not been tested in humans, and more studies should be performed for the validation of the test. \n",
+      "start_word": 600,
+      "end_word": 711,
+      "type": "body",
+      "page_num": 13
+    },
+    {
+      "chunk_id": 45,
+      "section": "_10.5. Metabolomics_",
+      "text": "## _10.5. Metabolomics_\n\n Metabolomics data have the advantage of providing information on the levels of metabolites that can characterize the stage of the disease. Recently, the application of metabolomics for predicting cancer development has been reported in different fluids, such as serum, sputum, urine, and sweat, with promising results .\n\n Metabolomic studies using serum showed that the discriminating metabolites aspartic acid and pyruvic acid differentiated individuals with lung cancer from healthy controls . However, another study showed a different set of discriminating metabolites, such as glycerophospho-β-arachidonoyl ethanolamine and sphingosine with sensitivities and specificities of 77% and 93%, and 97% and 90%, respectively .\n\n When sputum was analyzed to discriminate lung cancer patients from healthy controls, the metabolites cardiolipin (derivatives), hexanal, cysteic acid, and hydroxypyruvic acid were significant, with AUC ranging between 0.81–1.0 . In sweat analysis, the trisaccharide MG (22:2), nonanedioic acid, and unidentified tetrahexose and trihexose showed sensitivities and specificities of 80% and 79%, which were calculated with a false-positive and -negative factor of approximately 20% .\n\n Lastly, hypothesizing that the level of SSAT-1 increased in lung cancer and taking into consideration that this enzyme is involved in the polyamine metabolism , it is reasonable to assess the polyamine pathways fluctuations. Thus, a panel of six metabolites corresponding to the polyamine pathway discriminated lung cancer patients from healthy controls with an area under the curve (AUC) = 0.97 . Interestingly, an AUC > 0.9 was measured when liquid biopsies corresponding to the early stage of NSCLC were assessed using five metabolites. These data allowed for the differentiation of stages I and II from healthy controls .\n\n Although metabolomics is an emergent field in cancer diagnosis, more studies should be implemented to validate its use consistently. Many factors might contribute to heterogenic results when comparing metabolomics in the same fluid. Some of the fluctuations might originate from the time of sampling, daily changes of the metabolites, methods used for the analysis, including variations in the commercial kits or in-house analysis, stage of the lung cancer, and the individual size of the study. Taken together, the validation of metabolomics requires confirmatory studies for its use in clinical diagnosis. \n",
+      "start_word": 0,
+      "end_word": 357,
+      "type": "body",
+      "page_num": 14
+    },
+    {
+      "chunk_id": 46,
+      "section": "_10.5. Metabolomics_",
+      "text": "Although metabolomics is an emergent field in cancer diagnosis, more studies should be implemented to validate its use consistently. Many factors might contribute to heterogenic results when comparing metabolomics in the same fluid. Some of the fluctuations might originate from the time of sampling, daily changes of the metabolites, methods used for the analysis, including variations in the commercial kits or in-house analysis, stage of the lung cancer, and the individual size of the study. Taken together, the validation of metabolomics requires confirmatory studies for its use in clinical diagnosis. \n",
+      "start_word": 300,
+      "end_word": 390,
+      "type": "body",
+      "page_num": 14
+    },
+    {
+      "chunk_id": 47,
+      "section": "**11. Conclusions and Future Venues**",
+      "text": "## **11. Conclusions and Future Venues**\n\n The early diagnosis of lung cancer remains a challenge because most of the available techniques and methodologies currently in use can detect cancer in advanced stages when treatment and a cure may not be efficient to control the disease. Thus, although significant progress happened over the last years, early diagnosis is still not accurate.\n\n Lung cancer is mainly diagnosed by bronchoscopy and biopsies. In the case of bronchoscopy, it appears that the experience of the bronchoscopist is crucial for an accurate diagnosis. Although bronchoscopy is a minimally invasive technique with discomfort for the patients, complications can arise, especially if biopsies are taken from the suspicious tissue. Then, screening for early lung cancer development is required for an early therapy that can improve the outcome of the disease.\n\n In recent years, the search for biomarkers in human fluids has been an attractive methodology that has progressed in the right way. For instance, studies have shown that sputum, blood, and urine samples can answer the demand for biomarkers. Most of the published biomarkers are detected by PCR, metabolomics, or by other molecular biology techniques that will provide fast results for early intervention. In addition, the use of urine samples has proven that the detection of a metabolite in lung cancer is feasible, and it can be performed in a matter of hours.\n\n 15 of 18\n\n In summary, we believe that the trend in the development of more reliable tests for early diagnosis of lung cancer should be focused on biomarker discovery that will alleviate the discomfort of the patients, as well as the burden for the health authorities, as the techniques and methodologies currently in use are expensive.\n\n **Author Contributions:** R.N. performed the literature review, wrote the original draft of the manuscript, and revised the final version. H.B. conceptualized the study, reviewed, and edited the final version. The funders had no role in the design of the study, in the collection, analyses, or interpretation of data, in the writing of the manuscript, or in the decision to publish the results. Both authors have read and agreed to the published version of the manuscript. \n",
+      "start_word": 0,
+      "end_word": 357,
+      "type": "body",
+      "page_num": 14
+    },
+    {
+      "chunk_id": 48,
+      "section": "**11. Conclusions and Future Venues**",
+      "text": "**Author Contributions:** R.N. performed the literature review, wrote the original draft of the manuscript, and revised the final version. H.B. conceptualized the study, reviewed, and edited the final version. The funders had no role in the design of the study, in the collection, analyses, or interpretation of data, in the writing of the manuscript, or in the decision to publish the results. Both authors have read and agreed to the published version of the manuscript.\n\n **Funding:** This study was supported by a MITACS grant #IT22349 in collaboration with BioMark Diagnostics Inc. (Richmond, BC, Canada).\n\n **Conflicts of Interest:** Authors reported no conflict of interest. \n",
+      "start_word": 300,
+      "end_word": 403,
+      "type": "body",
+      "page_num": 14
+    }
+  ],
+  "footnote_chunks": [],
+  "image_chunks": []
+}

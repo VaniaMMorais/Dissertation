@@ -241,7 +241,7 @@ FORMATTED RESPONSE:
 
     try:
         response = client.models.generate_content(
-            model='gemini-3-flash-preview', # <--- CORRIGIDO PARA O MODELO QUE FUNCIONA
+            model='gemini-3.1-flash-lite-preview', # <--- CORRIGIDO PARA O MODELO QUE FUNCIONA
             contents=prompt,
             config={
                 'temperature': 0.4,  
@@ -280,7 +280,7 @@ User question: {user_query}
     
     try:
         response = client.models.generate_content(
-            model='gemini-2.5-flash-lite',
+            model='gemini-3.1-flash-lite-preview',
             contents=prompt
         )
         return response.text.strip()

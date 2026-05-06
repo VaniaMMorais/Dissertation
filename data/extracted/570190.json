@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "filename": "570190.pdf",
+    "filepath": "../data/PDFs/570190.pdf",
+    "title": "",
+    "author": "José Luís de Magalhães Guimarães",
+    "total_pages": 31,
+    "doi": ""
+  },
+  "document_type": "article",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "section": "Document Start",
+      "text": "\n\n\n\nMESTRADO INTEGRADO EM MEDICINA\n\n **Deucravacitinib in the treatment of psoriasis** Tomás Miguel Estevinho Alves Martins \n",
+      "start_word": 0,
+      "end_word": 15,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 1,
+      "section": "**M**",
+      "text": "## **M**\n\n\n\n\n\n **2022** \n",
+      "start_word": 0,
+      "end_word": 3,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 2,
+      "section": "**Deucravacitinib in the treatment of psoriasis**",
+      "text": "# **Deucravacitinib in the treatment of psoriasis**\n\n Artigo de Revisão Bibliográfica\n\n Dissertação de Mestrado Integrado em Medicina\n\n Instituto de Ciências Biomédicas Abel Salazar – Universidade do Porto \n",
+      "start_word": 0,
+      "end_word": 27,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 3,
+      "section": "**Estudante:**",
+      "text": "## **Estudante:**\n\n Tomás Miguel Estevinho Alves Martins\n\n tomas.estevinho@gmail.com\n\n Mestrado Integrado em Medicina\n\n Instituto de Ciências Biomédicas Abel Salazar – Universidade do Porto \n",
+      "start_word": 0,
+      "end_word": 22,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 4,
+      "section": "**Orientador:**",
+      "text": "## **Orientador:**\n\n Professor Doutor Tiago da Costa Ferreira Torres\n\n Assistente Graduado do Serviço de Dermatologia do Centro Hospitalar do Porto\n\n Professor Auxiliar Convidado do Instituto de Ciências Biomédicas Abel Salazar – Universidade do Porto\n\n Junho de 2022 \n",
+      "start_word": 0,
+      "end_word": 37,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 5,
+      "section": "**Estudante** :",
+      "text": "## **Estudante** :\n\n\n\n\n\n (Tomás Miguel Estevinho Alves Martins) \n",
+      "start_word": 0,
+      "end_word": 8,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 6,
+      "section": "**Orientador** :",
+      "text": "## **Orientador** :\n\n\n\n\n\n Junho de 2022 \n",
+      "start_word": 0,
+      "end_word": 6,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 7,
+      "section": "**Dedication**",
+      "text": "## **Dedication**\n\n Ao meu avô Francisco. \n",
+      "start_word": 0,
+      "end_word": 6,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 8,
+      "section": "**Acknowledgments**",
+      "text": "## **Acknowledgments**\n\n Ao meu orientador, Prof. Doutor Tiago Torres, por me ter suscitado o interesse na área e pela disponibilidade, amabilidade e ajuda prestada ao longo da realização desta dissertação.\n\n i \n",
+      "start_word": 0,
+      "end_word": 31,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 9,
+      "section": "**Resumo**",
+      "text": "## **Resumo**\n\n **Introdução:** A psoríase é uma doença inflamatória crónica da pele, imunomediada e comum, que apresenta um impacto negativo e significativo na qualidade de vida dos doentes. Habitualmente, a doença moderada a grave requere o uso de terapêuticas sistémicas. Os agentes sistémicos atualmente disponíveis, apesar de serem largamente utilizados, apresentam inúmeras desvantagens. Desta forma, novos tratamentos eficazes e seguros são necessários. O deucravacitinib é um inibidor seletivo da _tyrosine kinase_ 2 (TYK2) de administração oral, atualmente em ensaios clínicos de fase 3 para o tratamento da psoríase, que se apresenta como uma alternativa promissora às terapêuticas sistémicas disponíveis.\n\n **Objetivos:** Esta revisão bibliográfica visa explorar e sintetizar a literatura científica atual acerca do deucravacitinib, o seu mecanismo de ação, bem como a sua eficácia e segurança no tratamento da psoríase, apresentando e sumariando os resultados dos ensaios clínicos que têm vindo a ser publicados.\n\n **Metodologia:** Procedeu-se a uma pesquisa bibliográfica, recorrendo às bases de dados PubMed, Google Scholar, Science Direct, Cochrane Library e ClinicalTrials.gov. Foram selecionados artigos originais e de revisão escritos em língua inglesa ou portuguesa. A recuperação de artigos relevantes da lista de referências bibliográficas de artigos originais foi também realizada.\n\n **Discussão:** A patogénese da psoríase é complexa e não está totalmente esclarecida. Contudo, acredita-se que esta doença constitua um distúrbio complexo tanto do sistema imune inato como do adaptativo, em que o eixo interleucina (IL)-23/IL-17 tem um papel preponderante. A via de sinalização _Janus kinase and signal transducer and activator of transcription_ (JAK-STAT) desempenha um papel central na sinalização intracelular de citocinas envolvidas em processos fisiológicos e patológicos, inclusive na psoríase. A TYK2, membro da família _Janus kinase_ (JAK), está envolvida na sinalização de recetores de citocinas críticas na patogénese da psoríase, especialmente a IL-23, IL-12 e os interferons (IFNs) tipo I. O deucravacitinib apresenta um mecanismo de ação distinto dos outros inibidores JAK, que lhe confere uma elevada seletividade para a TYK2, sendo expectável que, por conseguinte, possua um melhor perfil de segurança comparativamente com outros inibidores JAK menos seletivos. Ensaios clínicos de fase 2 e 3 avaliaram a segurança e eficácia do deucravacitinib no tratamento da psoríase moderada a grave e os seus resultados são encorajadores. \n",
+      "start_word": 0,
+      "end_word": 361,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 10,
+      "section": "**Resumo**",
+      "text": "**Discussão:** A patogénese da psoríase é complexa e não está totalmente esclarecida. Contudo, acredita-se que esta doença constitua um distúrbio complexo tanto do sistema imune inato como do adaptativo, em que o eixo interleucina (IL)-23/IL-17 tem um papel preponderante. A via de sinalização _Janus kinase and signal transducer and activator of transcription_ (JAK-STAT) desempenha um papel central na sinalização intracelular de citocinas envolvidas em processos fisiológicos e patológicos, inclusive na psoríase. A TYK2, membro da família _Janus kinase_ (JAK), está envolvida na sinalização de recetores de citocinas críticas na patogénese da psoríase, especialmente a IL-23, IL-12 e os interferons (IFNs) tipo I. O deucravacitinib apresenta um mecanismo de ação distinto dos outros inibidores JAK, que lhe confere uma elevada seletividade para a TYK2, sendo expectável que, por conseguinte, possua um melhor perfil de segurança comparativamente com outros inibidores JAK menos seletivos. Ensaios clínicos de fase 2 e 3 avaliaram a segurança e eficácia do deucravacitinib no tratamento da psoríase moderada a grave e os seus resultados são encorajadores.\n\n **Conclusões:** O deucravacitinib demonstrou uma clara superioridade relativamente ao placebo e ao apremilast nos ensaios clínicos, tanto a nível de segurança como de eficácia, tendo o potencial para se tornar um tratamento seguro, eficaz e bem tolerado para pacientes com doença moderada a grave. Futuros estudos serão importantes para determinar o papel exato deste fármaco no tratamento da psoríase.\n\n **Palavras-chave:** Deucravacitinib; Psoriasis; TYK2; BMS-986165.\n\n ii \n",
+      "start_word": 300,
+      "end_word": 533,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 11,
+      "section": "**Abstract**",
+      "text": "## **Abstract**\n\n **Introduction:** Psoriasis is a common, chronic, immune-mediated, inflammatory skin disease that has a negative and significant impact on patients' quality of life. Moderate to severe disease often requires the use of systemic therapies. The currently available systemic agents, despite being widely used, have numerous disadvantages. Thus, new effective and safe treatments are needed. Deucravacitinib is an orally administered selective tyrosine kinase 2 (TYK2) inhibitor, currently in phase 3 clinical trials for the treatment of psoriasis, and a promising alternative to currently available systemic therapies.\n\n **Objectives:** This literature review aims to explore and summarize the current scientific literature on deucravacitinib, its mechanism of action, as well as its efficacy and safety for the treatment of psoriasis, presenting and summarizing the results of clinical trials that have been published.\n\n **Methods:** A bibliographic search was performed using the following databases: PubMed, Google Scholar, Science Direct, Cochrane Library, and ClinicalTrial.gov. Original and review articles written in English or Portuguese were selected. The retrieval of relevant articles from the list of bibliographic references of original articles was also performed.\n\n **Discussion:** The pathogenesis of psoriasis is complex and not fully understood; however, it is believed to be a complex disorder of both the innate and the adaptive immune systems, in which the interleukin (IL)-23/IL17 axis has a predominant role. The Janus kinase and signal transducer and activator of transcription (JAKSTAT) signaling pathway plays a central role in the intracellular signalization of cytokines involved in physiological and pathological processes, including psoriasis. TYK2, a member of the Janus kinase (JAK) family, is involved in the signaling of cytokine receptors that are critical in the pathogenesis of psoriasis, namely IL-23, IL-12, and type I interferons (IFNs). Deucravacitinib has a mechanism of action distinct from other JAK inhibitors, which gives it a high selectivity for TYK2, and it is therefore expected that this agent has a better safety profile compared to other less selective JAK inhibitors. Phase 2 and phase 3 clinical trials evaluated the safety and efficacy of deucravacitinib in the treatment of moderate to severe psoriasis, and their results are encouraging. \n",
+      "start_word": 0,
+      "end_word": 345,
+      "type": "body",
+      "page_num": 7
+    },
+    {
+      "chunk_id": 12,
+      "section": "**Abstract**",
+      "text": "**Discussion:** The pathogenesis of psoriasis is complex and not fully understood; however, it is believed to be a complex disorder of both the innate and the adaptive immune systems, in which the interleukin (IL)-23/IL17 axis has a predominant role. The Janus kinase and signal transducer and activator of transcription (JAKSTAT) signaling pathway plays a central role in the intracellular signalization of cytokines involved in physiological and pathological processes, including psoriasis. TYK2, a member of the Janus kinase (JAK) family, is involved in the signaling of cytokine receptors that are critical in the pathogenesis of psoriasis, namely IL-23, IL-12, and type I interferons (IFNs). Deucravacitinib has a mechanism of action distinct from other JAK inhibitors, which gives it a high selectivity for TYK2, and it is therefore expected that this agent has a better safety profile compared to other less selective JAK inhibitors. Phase 2 and phase 3 clinical trials evaluated the safety and efficacy of deucravacitinib in the treatment of moderate to severe psoriasis, and their results are encouraging.\n\n **Conclusions:** Deucravacitinib demonstrated a clear superiority over placebo and apremilast in clinical trials, both in terms of safety and efficacy, and has the potential to become a safe, effective, and well-tolerated treatment for patients with moderate to severe disease. Future studies will be important to determine the exact role of this drug in the treatment of psoriasis.\n\n **Keywords:** Deucravacitinib; Psoriasis; TYK2; BMS-986165.\n\n iii \n",
+      "start_word": 300,
+      "end_word": 532,
+      "type": "body",
+      "page_num": 7
+    },
+    {
+      "chunk_id": 13,
+      "section": "**List of Abbreviations**",
+      "text": "## **List of Abbreviations**\n\n **AMPs** - antimicrobial peptides **BSA** - body surface area **DLQI** - dermatology life quality index **HRQoL** - health-related quality of life **IFN** - interferon **IL** - interleukin **JAK** - Janus kinase **JAK-STAT** - Janus kinase and signal transducer and activator of transcription **PASI** - psoriasis area and severity index **PASI 100** - 100% reduction from baseline in PASI score **PASI 50** - 50% or greater reduction from baseline in PASI score **PASI 75** - 75% or greater reduction from baseline in PASI score **PASI 90** - 90% or greater reduction from baseline in PASI score **PUVA** - psoralen plus ultraviolet A **sPGA** - static Physician’s Global Assessment **ss-PGA** - scalp-specific Physician’s Global Assessment **STAT** - signal transducer and activator of transcription **Th1** - T helper 1 **Th17** - T helper 17 **TNF-α** - tumor necrosis factor α **TYK2** - tyrosine kinase 2 **UVB** - ultraviolet B\n\n iv \n",
+      "start_word": 0,
+      "end_word": 151,
+      "type": "body",
+      "page_num": 8
+    },
+    {
+      "chunk_id": 14,
+      "section": "**List of Tables**",
+      "text": "## **List of Tables**\n\n **Table I** - Phase 2 clinical trial - Efficacy at week 12…………………………………………………………………….12 **Table II** - POETYK PSO-1 and POETYK PSO-2 clinical trials – Efficacy at week 16………………...………13\n\n vi \n",
+      "start_word": 0,
+      "end_word": 32,
+      "type": "body",
+      "page_num": 10
+    },
+    {
+      "chunk_id": 15,
+      "section": "**List of Figures**",
+      "text": "## **List of Figures**\n\n **Figure 1** - The JAK-STAT signaling pathway…………………………………………………………………….…….….14 **Figure 2** - Deucravacitinib selective TYK2 inhibition _versus_ nonselective TYK2 inhibition..………..15\n\n vii \n",
+      "start_word": 0,
+      "end_word": 23,
+      "type": "body",
+      "page_num": 11
+    },
+    {
+      "chunk_id": 16,
+      "section": "**Introduction**",
+      "text": "## **Introduction**\n\n Psoriasis is a chronic, immune-mediated, inflammatory skin disease that has a negative and significant impact on patients' quality of life. The disease affects more than 125 million people worldwide, with an estimated global prevalence of 2-3%, being more common in adults and less common in children. It has a bimodal distribution in terms of age, one peak around 30-39 years and another around 50-69 years.\n\n Regarding its clinical features, psoriasis has several variants or subtypes, which exhibit different clinical characteristics. The main variants of psoriasis include plaque psoriasis, pustular psoriasis, guttate psoriasis, and erythrodermic psoriasis. Plaque psoriasis is by far the most common subtype, accounting for approximately 90% of cases. Patients with this subtype usually present sharply demarcated erythematous plaques covered by silvery-white lamellar scales, which can develop anywhere on the body; however, typically affected areas include the extensor surfaces (especially elbows and knees), scalp, and gluteal fold. Nail involvement is also very common in psoriasis (up to 50% of patients), with pitting, onycholysis, and oil-drop discoloration being the most frequently seen nail changes.\n\n Psoriasis is also a multisystem disorder, being associated with several comorbidities, such as psoriatic arthritis, cardiovascular disease, metabolic syndrome, obesity, diabetes, hypertension, autoimmune disorders, malignancy, inflammatory bowel disease, nonalcoholic fatty liver disease, and depression.\n\n Regarding the treatment of psoriasis, while in mild disease topical therapies are usually sufficient, in patients with moderate to severe disease systemic therapies are often required. There are various systemic therapy options, including conventional systemic therapies, apremilast, and biologics, that, despite being widely used, have some disadvantages. Conventional systemic therapies are usually associated with various adverse effects, end-organ toxicity, drug-drug interactions, and they also require close laboratory monitoring. Apremilast, on the other hand, has limited efficacy. Lastly, biologic agents require parenteral administration and present risk of immunogenicity, loss of efficacy over time, high cost, and increased risk of infection. \n",
+      "start_word": 0,
+      "end_word": 309,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 17,
+      "section": "**Introduction**",
+      "text": "Regarding the treatment of psoriasis, while in mild disease topical therapies are usually sufficient, in patients with moderate to severe disease systemic therapies are often required. There are various systemic therapy options, including conventional systemic therapies, apremilast, and biologics, that, despite being widely used, have some disadvantages. Conventional systemic therapies are usually associated with various adverse effects, end-organ toxicity, drug-drug interactions, and they also require close laboratory monitoring. Apremilast, on the other hand, has limited efficacy. Lastly, biologic agents require parenteral administration and present risk of immunogenicity, loss of efficacy over time, high cost, and increased risk of infection.\n\n The Janus kinase and signal transducer and activator of transcription (JAK-STAT) pathway is an important signaling mechanism that plays a pivotal role in the intracellular signaling of the most important cytokines involved in the pathogenesis of psoriasis. In fact, in the past few years, there has been a growing interest in inhibiting this pathway using Janus kinase (JAK) inhibitors as it may constitute a relevant therapeutic strategy for psoriasis.\n\n 1\nDeucravacitinib is an orally administered selective tyrosine kinase 2 (TYK2), member of the JAK family, inhibitor that is currently in phase 3 clinical trials for the treatment of psoriasis. Deucravacitinib is an extremely promising oral drug for the treatment of moderate to severe psoriasis and could be a safe, effective, and well-tolerated alternative to currently available systemic therapies. \n",
+      "start_word": 300,
+      "end_word": 527,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 18,
+      "section": "**Objectives**",
+      "text": "## **Objectives**\n\n This literature review aims to explore and summarize the current scientific literature on deucravacitinib, its mechanism of action, as well as its efficacy and safety for the treatment of psoriasis, presenting and summarizing the results of clinical trials that have been published. \n",
+      "start_word": 0,
+      "end_word": 44,
+      "type": "body",
+      "page_num": 13
+    },
+    {
+      "chunk_id": 19,
+      "section": "**Methods**",
+      "text": "## **Methods**\n\n To carry out this review, a bibliographic search was performed using the following databases: Pubmed, Google Scholar, Science Direct, Cochrane Library, and ClinicalTrial.gov. This review included original and review articles from 2006 to 2022, written in English or Portuguese, most of which are from 2015 onwards. The articles were selected based on their abstract and full text.\n\n The following terms were searched, alone or in association: “Psoriasis”, “Deucravacitinib”, “BMS-986165”, “TYK2”, “JAK”, “IL-23”, “IL-17”, “Treatment”, “Pathogenesis”, and “Trial”. In addition, retrieval of relevant articles from the list of bibliographic references of original articles was also performed.\n\n A total of 81 articles were consulted, and they are referenced at the end of this review (see References).\n\n 2 \n",
+      "start_word": 0,
+      "end_word": 117,
+      "type": "body",
+      "page_num": 13
+    },
+    {
+      "chunk_id": 20,
+      "section": "**Discussion**",
+      "text": "## **Discussion** \n",
+      "start_word": 0,
+      "end_word": 2,
+      "type": "body",
+      "page_num": 14
+    },
+    {
+      "chunk_id": 21,
+      "section": "**1. Pathogenesis of psoriasis**",
+      "text": "## **1. Pathogenesis of psoriasis**\n\n The pathogenesis of psoriasis is not fully understood; however, it is believed to be a complex disorder of both the innate and the adaptive immune systems. In the initial phase, the disease can be triggered by several factors, especially in genetically susceptible individuals, including medications (such as β-blockers and lithium), trauma, stress, infections (such as streptococcal infection), alcohol and cigarette smoking.\n\n In response to these triggers, keratinocytes secrete antimicrobial peptides (AMPs), such as LL-37. These peptides (especially LL-37) stimulate plasmacytoid dendritic cells to produce type I interferons (IFNs), namely IFN-α and IFN-β, which in turn will promote the activation and maturation of myeloid dendritic cells.\n\n When activated, myeloid dendritic cells act as antigen-presenting cells and secrete several inflammatory mediators, including tumor necrosis factor α (TNF-α), interleukin (IL)-23, and IL-12. IL-23 and IL-12 end up promoting the differentiation and proliferation of T helper 17 (Th17) and T helper 1 (Th1) cells, respectively.\n\n In psoriasis, the dominant T cell type is Th17 cells that, when activated, produce several cytokines, including IL-17A, IL-17F, IL-22, and TNF-α (the latter also produced by Th1 cells). These cytokines, with IL-17A being the most important effector cytokine in psoriasis, promote keratinocyte hyperproliferation (which leads to epidermal hyperplasia, a hallmark of psoriasis) and release of pro-inflammatory cytokines, chemokines, and antimicrobial peptides that act via a positive feedback loop to attract other innate and adaptive immune cells to further potentiate the psoriatic inflammation. Thus, the IL-23/IL-17 axis plays a predominant role in the pathogenesis of psoriasis.\n\n The IL-23/IL-17 axis (particularly IL-23), as well as IL-12 and type I IFNs, rely on the JAKSTAT signaling pathway to trigger their pathogenic effect. \n",
+      "start_word": 0,
+      "end_word": 276,
+      "type": "body",
+      "page_num": 14
+    },
+    {
+      "chunk_id": 22,
+      "section": "**1.1. JAK-STAT signaling pathway and the role of TYK2 in psoriasis**",
+      "text": "## **1.1. JAK-STAT signaling pathway and the role of TYK2 in psoriasis**\n\n The JAK-STAT signaling pathway plays a central role in the intracellular signalization of cytokines and other molecules involved in physiological and pathological processes, such as autoimmune and inflammatory diseases, including psoriasis.\n\n 3\nThe JAKs are tyrosine kinases that bind to the cytoplasmic region of type I and II cytokine receptors and, along with signal transducer and activator of transcription (STAT) proteins, play a major role in signal transduction. There are four different types of JAK proteins: JAK1, JAK2, JAK3, and TYK2; and seven types of STAT proteins: STAT1, STAT2, STAT3, STAT4, STAT5a, STAT5b, and STAT6.\n\n The signaling cascade is initiated by the binding of a cytokine (e.g., interleukins and interferons) to its transmembrane receptor and the consequent dimerization of the receptor. This leads to trans-phosphorylation and activation of the two receptor-bound JAKs by placing them in spatial proximity and inducing conformational changes that distance their kinase domains from inhibitory pseudokinase domains. Once activated, JAKs phosphorylate tyrosine residues within the cytoplasmic regions of the receptor, creating docking sites for proteins that contain SH2 domains, such as STAT proteins. The STAT proteins then attach to the receptor’s phosphorylated tyrosines, through their SH2 domains, and are phosphorylated by JAKs. This phosphorylation ultimately leads to the dimerization of the STATs and their translocation into the cell nucleus to directly regulate gene expression (Figure 1).\n\n TYK2 is one of the four members of the JAK family. This protein mediates the signaling of several cytokines receptors implicated in the pathogenesis of psoriasis, especially IL-12, IL-23, and type I IFNs.\n\n TYK2 pairs with JAK2 to mediate the signaling of IL-12 and IL-23 receptors. As previously mentioned, IL-12 and IL-23 are two critical pathogenic mediators of psoriasis. IL-12 is essential in the differentiation and proliferation of Th1 cells that produce IFN-γ and TNF-α, and IL-23 is central to the survival and proliferation of Th17 cells. \n",
+      "start_word": 0,
+      "end_word": 319,
+      "type": "body",
+      "page_num": 14
+    },
+    {
+      "chunk_id": 23,
+      "section": "**1.1. JAK-STAT signaling pathway and the role of TYK2 in psoriasis**",
+      "text": "TYK2 pairs with JAK2 to mediate the signaling of IL-12 and IL-23 receptors. As previously mentioned, IL-12 and IL-23 are two critical pathogenic mediators of psoriasis. IL-12 is essential in the differentiation and proliferation of Th1 cells that produce IFN-γ and TNF-α, and IL-23 is central to the survival and proliferation of Th17 cells.\n\n TYK2 also pairs with JAK1 to mediate the signaling of type I IFNs receptors, namely IFNα and IFN-β. Type I IFNs have several effects that also contribute to the pathogenesis of psoriasis: Th1 and Th17 cells polarization, dendritic cells maturation and activation, reduced regulatory T cells function, and increased B cells activation with subsequent antibody production.\n\n In 2010, TYK2 was identified in a genome-wide association study as a psoriasis susceptibility gene. In fact, in recent years, several studies have shown the high importance of TYK2 in the development and maintenance of psoriasis.\n\n TYK2 deficiency is linked with defects in various cytokine signaling pathways that play a crucial role in the pathogenesis of psoriasis, including type I IFNs, IL-12, and IL-23. A deactivating genetic variant of TYK2, which results in an impaired type I IFNs, IL-12 and IL-23 signaling, is highly protective against autoimmunity and does not lead to immunodeficiency.\n\n 4\nThus, given the main involvement of TYK2 in signaling and functional responses downstream of IL-23, IL-12, and type I IFNs receptors, TYK2 inhibition may play an important role in the treatment of psoriasis and present itself as a safe and effective solution. \n",
+      "start_word": 300,
+      "end_word": 546,
+      "type": "body",
+      "page_num": 14
+    },
+    {
+      "chunk_id": 24,
+      "section": "**2. Treatment of psoriasis**",
+      "text": "## **2. Treatment of psoriasis**\n\n The choice of treatment for psoriasis must take into account several factors, such as disease severity, patient age, presence of comorbidities (e.g., psoriatic arthritis), and access to health care.\n\n The severity of the disease is determined through assessment tools, such as the body surface area (BSA), the psoriasis area and severity index (PASI), and the dermatology life quality index (DLQI). The BSA assesses the percentage of body area affected by the disease, with the palmar surface of one hand corresponding to 1% of the body surface area.\n\n On the other hand, the PASI score assesses the erythema, thickness, and scaling of lesions, in combination with the percentage of affected area, resulting in a value ranging from 0 to 72 (the higher the score, the more severe the disease).\n\n Lastly, the DLQI is the most common measure of health-related quality of life (HRQoL) in patients with psoriasis. This tool consists of 10 questions concerning symptoms and feelings, daily activities, leisure, work or school, personal relationships, and treatment. The score ranges from 0 to 30, and a higher score reflects a larger impairment in HRQoL.\n\n Thus, using these three clinical tools, it is possible to classify psoriasis as mild or moderate to severe disease. Mild disease is defined as BSA ≤ 10 and PASI ≤ 10 and DLQI ≤ 10, and moderate to severe disease as BSA > 10 or PASI > 10 and DLQI > 10.\n\n In patients with mild psoriasis, topical therapies, such as corticosteroids, vitamin D analogs, or combinations are usually sufficient and adequate. Topical corticosteroids, which provide high efficacy and good safety, are currently the mainstay of topical psoriasis therapy and can frequently be used as monotherapy in patients with mild disease. Topical vitamin D analogs and retinoids are also effective as monotherapy for some patients; however, these agents should be used in combination with topical corticosteroids to increase the treatment efficacy and reduce possible side effects. Topical calcineurin inhibitors, although not approved for the treatment of psoriasis, are also widely used in areas that are sensitive to steroids, such as the face, flexures, and anogenital region. \n",
+      "start_word": 0,
+      "end_word": 354,
+      "type": "body",
+      "page_num": 16
+    },
+    {
+      "chunk_id": 25,
+      "section": "**2. Treatment of psoriasis**",
+      "text": "In patients with mild psoriasis, topical therapies, such as corticosteroids, vitamin D analogs, or combinations are usually sufficient and adequate. Topical corticosteroids, which provide high efficacy and good safety, are currently the mainstay of topical psoriasis therapy and can frequently be used as monotherapy in patients with mild disease. Topical vitamin D analogs and retinoids are also effective as monotherapy for some patients; however, these agents should be used in combination with topical corticosteroids to increase the treatment efficacy and reduce possible side effects. Topical calcineurin inhibitors, although not approved for the treatment of psoriasis, are also widely used in areas that are sensitive to steroids, such as the face, flexures, and anogenital region.\n\n In patients with moderate to severe disease, phototherapy is recommended as induction therapy, representing a safe and very effective treatment option. There are several\n\n 5\nphototherapy modalities, namely narrowband ultraviolet B (UVB), broadband UVB, excimer laser, and oral psoralen plus ultraviolet A (PUVA) therapy. Narrowband UVB is considered more effective than broadband UVB and is recommended as a first choice. PUVA is recommended if UVB phototherapy fails, and the excimer laser is intended for the targeted treatment of localized areas of psoriasis. Due to its impracticality and long-term side effects, phototherapy should not be used as a long-term therapy.\n\n In addition to phototherapy, systemic therapies are often required in moderate to severe disease patients. There are multiple options for systemic therapy in psoriasis, including conventional systemic therapies (namely methotrexate, cyclosporine, and acitretin), apremilast, and biologics.\n\n Conventional systemic agents have been used in psoriasis for decades, playing an important role in the treatment of the disease with their oral route of administration and low cost. However, these drugs also have some disadvantages, being associated with several adverse effects, end-organ toxicity, and drug-drug interactions; in addition, they require close laboratory monitoring, which limits their long-term use. \n",
+      "start_word": 300,
+      "end_word": 608,
+      "type": "body",
+      "page_num": 16
+    },
+    {
+      "chunk_id": 26,
+      "section": "**2. Treatment of psoriasis**",
+      "text": "Conventional systemic agents have been used in psoriasis for decades, playing an important role in the treatment of the disease with their oral route of administration and low cost. However, these drugs also have some disadvantages, being associated with several adverse effects, end-organ toxicity, and drug-drug interactions; in addition, they require close laboratory monitoring, which limits their long-term use.\n\n Methotrexate has been used in the treatment of psoriasis for over 50 years and is the most commonly prescribed systemic therapy worldwide for this disease. Despite this, methotrexate has several contraindications and is associated with several adverse effects, such as hepatotoxicity, teratogenicity, myelosuppression, renal failure, pneumonitis, pulmonary fibrosis, and infections.\n\n Cyclosporine is a highly effective systemic agent for the treatment of psoriasis, mainly due to its rapid onset. However, this drug requires close monitoring of nephrotoxicity and hypertension, adverse effects that limit the long-term use of cyclosporine.\n\n Acitretin is the systemic retinoid (vitamin A derivate) of choice for the treatment of psoriasis. This agent is often used in combination with other types of treatment, namely UVB or PUVA phototherapy, as it is more effective than monotherapy. Acitretin also has some drawbacks; it requires periodic monitoring of blood parameters due to the risk of hepatotoxicity and hypertriglyceridemia, and, owing to its teratogenicity, is contraindicated in pregnancy and usually avoided in women of childbearing age.\n\n Apremilast, a phosphodiesterase 4 inhibitor, is a relatively recent oral agent approved for the treatment of psoriasis. This drug is well-tolerated, has a good safety profile, and does not require routine laboratory testing. However, apremilast has somewhat limited efficacy, with a 75% or greater reduction from baseline in PASI score (PASI 75) rate of 33.1% at week 16 in its pivotal clinical trial.\n\n 6\nBiologic agents are usually considered in patients with moderate to severe psoriasis when phototherapy and conventional systemic agents are inadequate in response or if they are contraindicated or not tolerated. Several biologics that provide targeted inhibition of immune-mediated pathways of psoriasis, namely of the IL-23/IL-17 axis, are used in the treatment of the disease, including IL-17 inhibitors (secukinumab, ixekizumab, and brodalumab), IL-23 inhibitors (guselkumab, tildrakizumab, and risankizumab), IL-12/23 inhibitor (ustekinumab), and TNF-alpha inhibitors (etanercept, infliximab, adalimumab, and certolizumab pegol). \n",
+      "start_word": 600,
+      "end_word": 965,
+      "type": "body",
+      "page_num": 16
+    },
+    {
+      "chunk_id": 27,
+      "section": "**2. Treatment of psoriasis**",
+      "text": "Biologic agents are usually considered in patients with moderate to severe psoriasis when phototherapy and conventional systemic agents are inadequate in response or if they are contraindicated or not tolerated. Several biologics that provide targeted inhibition of immune-mediated pathways of psoriasis, namely of the IL-23/IL-17 axis, are used in the treatment of the disease, including IL-17 inhibitors (secukinumab, ixekizumab, and brodalumab), IL-23 inhibitors (guselkumab, tildrakizumab, and risankizumab), IL-12/23 inhibitor (ustekinumab), and TNF-alpha inhibitors (etanercept, infliximab, adalimumab, and certolizumab pegol).\n\n In general, biologics have excellent long-term and short-term efficacy and a good safety profile compared to conventional systemic therapies, as there is no evidence of cumulative toxicity or drug-drug interactions. Nevertheless, biological therapies have some disadvantages, namely parenteral administration (intravenous or subcutaneous), risk of immunogenicity, loss of efficacy over time, high cost, and increased risk of infection.\n\n Thus, there is a need to develop new oral therapies with a good safety profile and high efficacy for the treatment of moderate to severe disease. \n",
+      "start_word": 900,
+      "end_word": 1062,
+      "type": "body",
+      "page_num": 16
+    },
+    {
+      "chunk_id": 28,
+      "section": "**3. Deucravacitinib**",
+      "text": "## **3. Deucravacitinib**\n\n Deucravacitinib (BMS-986165) is an orally administered selective TYK2 inhibitor that is currently in phase 3 clinical trials for the treatment of psoriasis.\n\n Deucravacitinib has a mechanism of action distinct from other JAK inhibitors (Figure 2). This drug binds allosterically to the regulatory pseudokinase (JH2) domain of TYK2 rather than to the ATP-binding active site in the catalytic (JH1) domain, where other JAK inhibitors bind. Unlike the regulatory domain, the catalytic domain exhibits a high degree of similarity among the four members of the JAK family. This allosteric binding locks the regulatory domain into an inhibitory conformation with the catalytic domain, inactivating TYK2 and therefore preventing receptor-mediated activation and downstream signal transduction.\n\n Deucravacitinib inhibits TYK2 with high selectivity and shows minimal or no inhibition of JAK 1/2/3. This agent demonstrated high selectivity for the TYK2 regulatory pseudokinase domain _in vitro_ and, in cellular assays, deucravacitinib had more than 100-fold greater selectivity for TYK2 over JAK 1/3, and more than 2000-fold greater selectivity for TYK2 over JAK 2. Furthermore, another study concluded that deucravacitinib has high functional selectivity for TYK2 and does not inhibit JAK 1/2/3 at clinically relevant doses.\n\n 7\nThis high selectivity for TYK2 is expected to grant deucravacitinib a better safety profile, compared to other less selective JAK inhibitors, with fewer adverse effects generally associated with the other three members of the JAK family, such as hyperlipidemia, renal (increased serum creatinine levels) and hepatic abnormalities (increased liver enzyme levels), hematologic changes (anemia, thrombocytopenia, lymphopenia, and neutropenia), and infections, particularly herpes zoster and opportunistic infections (especially tuberculosis). Thus, deucravacitinib may be an effective and safe treatment for psoriasis. \n",
+      "start_word": 0,
+      "end_word": 271,
+      "type": "body",
+      "page_num": 18
+    },
+    {
+      "chunk_id": 29,
+      "section": "**3.1. Clinical Trials**",
+      "text": "## **3.1. Clinical Trials**\n\n In a phase 1 clinical trial involving 108 (83 active and 25 placebo) healthy participants, deucravacitinib has shown to be safe and overall well tolerated. No adverse events were observed, and the frequency of non-serious adverse events was similar in the active and placebo groups. The most frequently reported adverse events were headache, nausea, rash, and upper respiratory tract infection. After oral administration, the agent was rapidly absorbed and revealed an apparent elimination half-life of 8 to 15 hours.\n\n Deucravacitinib has also undergone a phase 2 trial involving 267 adult patients with moderate to severe psoriasis. The participants were randomly selected to receive the drug orally (3 mg every other day, 3 mg daily, 3 mg twice daily, 6 mg twice daily, or 12 mg daily) or placebo. This study showed that a remarkably higher percentage of participants attained PASI 75 at week 12 with deucravacitinib 3 mg daily (39%), 3 mg twice daily (69%), 6 mg twice daily (67%), and 12 mg daily (75%) compared to placebo (7%). The results mentioned above at week 12 (primary endpoint) and other relevant secondary efficacy endpoints are outlined in Table I.\n\n Adverse events were reported in 51% of the patients in the placebo group and in 55% to 80% of the patients in the active groups, with the highest percentage being recorded in the group receiving 6 mg twice daily. The most frequently reported adverse events were nasopharyngitis, headache, diarrhea, nausea, and upper respiratory tract infection.\n\n Three serious adverse events were reported in three different participants belonging to different dosage groups (gastroenteritis due to rotavirus, accidental eye injury, and dizziness due to vestibular dysfunction with a history of the same), and two serious adverse events were reported in one participant in the placebo group (hemorrhagic anemia and hemorrhoidal hemorrhage). One participant was diagnosed with an _in situ_ malignant melanoma 96 days after the first dose of 3 mg daily. \n",
+      "start_word": 0,
+      "end_word": 321,
+      "type": "body",
+      "page_num": 19
+    },
+    {
+      "chunk_id": 30,
+      "section": "**3.1. Clinical Trials**",
+      "text": "Three serious adverse events were reported in three different participants belonging to different dosage groups (gastroenteritis due to rotavirus, accidental eye injury, and dizziness due to vestibular dysfunction with a history of the same), and two serious adverse events were reported in one participant in the placebo group (hemorrhagic anemia and hemorrhoidal hemorrhage). One participant was diagnosed with an _in situ_ malignant melanoma 96 days after the first dose of 3 mg daily.\n\n 8\nDuring the trial, no cases of herpes zoster infection, opportunistic infections, tuberculosis, or cardiovascular events were reported, and no significant changes were observed from baseline in mean values of blood counts, serum levels of lipids, creatinine, liver enzymes, or immunoglobulins.\n\n Another phase 2 trial to evaluate the efficacy and safety of deucravacitinib in patients with active psoriatic arthritis, involving 203 participants with psoriatic arthritis, concluded that treatment with deucravacitinib is generally well-tolerated, and the safety and laboratory parameter profile of the agent demonstrated to be consistent with what was observed in the phase 2 psoriasis trial.\n\n Two large phase 3 trials (POETYK PSO-1 and POETYK PSO-2) that compared the efficacy and safety of deucravacitinib _versus_ placebo and apremilast in patients with plaque psoriasis are also available. These clinical trials involved a total of 1686 patients with moderate to severe psoriasis (666 in PSO-1 and 1020 in PSO-2), of whom at least one-third had been previously treated with biologics. Participants were randomized to deucravacitinib 6 mg once daily, apremilast 30 mg twice daily, or placebo (2:1:1). The trials ran for 52 weeks, during which time patients receiving placebo switched to deucravacitinib at week 16 in both trials, and patients receiving apremilast who relapsed (< PASI 50 in PSO-1 and < PASI 75 in PSO-2) switched to deucravacitinib at week 24. PSO-2 also included a randomized withdrawal phase starting at week 24, in which patients receiving deucravacitinib from day one who achieved a PASI 75 response were re-randomized to placebo or deucravacitinib (1:1), while those who did not achieve a PASI 75 response continued to receive deucravacitinib. \n",
+      "start_word": 300,
+      "end_word": 639,
+      "type": "body",
+      "page_num": 19
+    },
+    {
+      "chunk_id": 31,
+      "section": "**3.1. Clinical Trials**",
+      "text": "Two large phase 3 trials (POETYK PSO-1 and POETYK PSO-2) that compared the efficacy and safety of deucravacitinib _versus_ placebo and apremilast in patients with plaque psoriasis are also available. These clinical trials involved a total of 1686 patients with moderate to severe psoriasis (666 in PSO-1 and 1020 in PSO-2), of whom at least one-third had been previously treated with biologics. Participants were randomized to deucravacitinib 6 mg once daily, apremilast 30 mg twice daily, or placebo (2:1:1). The trials ran for 52 weeks, during which time patients receiving placebo switched to deucravacitinib at week 16 in both trials, and patients receiving apremilast who relapsed (< PASI 50 in PSO-1 and < PASI 75 in PSO-2) switched to deucravacitinib at week 24. PSO-2 also included a randomized withdrawal phase starting at week 24, in which patients receiving deucravacitinib from day one who achieved a PASI 75 response were re-randomized to placebo or deucravacitinib (1:1), while those who did not achieve a PASI 75 response continued to receive deucravacitinib.\n\n In both studies, deucravacitinib demonstrated to be notably more effective than apremilast and placebo. At week 16, 58.7% and 53.6% (PSO-1 and PSO-2, respectively) of patients receiving deucravacitinib reached a PASI 75 response compared to 35.1% and 40.2% receiving apremilast, and 12.7% and 9.4% receiving placebo. Similarly, also in week 16, 53.6% and 50.3% of patients receiving deucravacitinib achieved a static Physician’s Global Assessment (sPGA) 0/1 response compared to 32.1% and 34.3% receiving apremilast, and 7.2% and 8.6% receiving placebo. The efficacy results mentioned above at week 16 (coprimary endpoints) and other pertinent secondary endpoints are outlined in Table II.\n\n At week 24, deucravacitinib maintained its superiority over apremilast, with 69% and 59.3% (PSO-1 and PSO-2, respectively) of patients reaching a PASI 75 response ( _versus_ 38.1% and 37.8% with apremilast), and 58.4% and 50.4% of patients achieving an sPGA 0/1 response ( _versus_ 31% and 29.5% with apremilast). \n",
+      "start_word": 600,
+      "end_word": 918,
+      "type": "body",
+      "page_num": 19
+    },
+    {
+      "chunk_id": 32,
+      "section": "**3.1. Clinical Trials**",
+      "text": "In both studies, deucravacitinib demonstrated to be notably more effective than apremilast and placebo. At week 16, 58.7% and 53.6% (PSO-1 and PSO-2, respectively) of patients receiving deucravacitinib reached a PASI 75 response compared to 35.1% and 40.2% receiving apremilast, and 12.7% and 9.4% receiving placebo. Similarly, also in week 16, 53.6% and 50.3% of patients receiving deucravacitinib achieved a static Physician’s Global Assessment (sPGA) 0/1 response compared to 32.1% and 34.3% receiving apremilast, and 7.2% and 8.6% receiving placebo. The efficacy results mentioned above at week 16 (coprimary endpoints) and other pertinent secondary endpoints are outlined in Table II.\n\n At week 24, deucravacitinib maintained its superiority over apremilast, with 69% and 59.3% (PSO-1 and PSO-2, respectively) of patients reaching a PASI 75 response ( _versus_ 38.1% and 37.8% with apremilast), and 58.4% and 50.4% of patients achieving an sPGA 0/1 response ( _versus_ 31% and 29.5% with apremilast).\n\n In POETYK PSO-1, participants who received continuous deucravacitinib treatment maintained PASI 75 and sPGA 0/1 responses (65.1% and 52.7%, respectively, at week 52) from\n\n 9\nweek 16 to week 52. Furthermore, participants who switched from placebo to deucravacitinib at week 16 exhibited PASI 75 and sPGA 0/1 responses at week 52 (68.3% and 53.8%, respectively) comparable to those observed in patients who received continuous deucravacitinib treatment.\n\n In POETYK PSO-2, the majority of deucravacitinib participants who achieved PASI 75 at week 24 maintained PASI 75 and sPGA 0/1 responses (80.4% and 70.3%, respectively, at week 52) on continuous treatment through week 52. On the other hand, those who discontinued treatment (placebo) had PASI 75 and sPGA 0/1 responses of 31.3% and 23.5%, respectively, at week 52.\n\n In both clinical trials, deucravacitinib proved to be safe and well-tolerated. At week 16, the deucravacitinib group had a slightly lower percentage of patients with adverse events leading to treatment discontinuation than the apremilast and placebo groups (2.4% vs. 5.2% vs. 3.8%, respectively). The most frequently reported adverse events with deucravacitinib were nasopharyngitis and upper respiratory tract infection. Headache, diarrhea, and nausea were also reported, with a similar frequency in the deucravacitinib and placebo groups and a higher frequency in the apremilast group. In terms of laboratory parameters, no significant changes were observed in total cholesterol, creatine phosphokinase, neutrophils, or platelets. No cases of herpes zoster were serious or led to discontinuation, and no cases of opportunistic infections or tuberculosis were reported with deucravacitinib. \n",
+      "start_word": 900,
+      "end_word": 1298,
+      "type": "body",
+      "page_num": 19
+    },
+    {
+      "chunk_id": 33,
+      "section": "**3.1. Clinical Trials**",
+      "text": "In both clinical trials, deucravacitinib proved to be safe and well-tolerated. At week 16, the deucravacitinib group had a slightly lower percentage of patients with adverse events leading to treatment discontinuation than the apremilast and placebo groups (2.4% vs. 5.2% vs. 3.8%, respectively). The most frequently reported adverse events with deucravacitinib were nasopharyngitis and upper respiratory tract infection. Headache, diarrhea, and nausea were also reported, with a similar frequency in the deucravacitinib and placebo groups and a higher frequency in the apremilast group. In terms of laboratory parameters, no significant changes were observed in total cholesterol, creatine phosphokinase, neutrophils, or platelets. No cases of herpes zoster were serious or led to discontinuation, and no cases of opportunistic infections or tuberculosis were reported with deucravacitinib. \n",
+      "start_word": 1200,
+      "end_word": 1324,
+      "type": "body",
+      "page_num": 19
+    },
+    {
+      "chunk_id": 34,
+      "section": "**Conclusions**",
+      "text": "## **Conclusions**\n\n Psoriasis has a significant prevalence worldwide and a markedly negative impact on patients' quality of life. Although there is a wide range of systemic therapies for the treatment of moderate to severe disease, due to the numerous disadvantages that these drugs possess, there is still an unmet need for safe, well-tolerated, and effective oral therapies.\n\n TYK2 plays a key role in the pathogenesis of psoriasis by mediating IL-12, IL-23, and type I IFNs receptors signaling and functional responses downstream. Furthermore, several studies have shown that TYK2 inhibition leads to impaired signaling of these cytokines without causing immunodeficiency and thus could be a viable therapeutic option for psoriasis.\n\n Thanks to its unique mechanism of action, deucravacitinib has become a very promising drug for the treatment of psoriasis that could fill the existing gap in systemic therapies. The ability to bind allosterically to the regulatory domain rather than to the active site in the catalytic\n\n 10\ndomain confers to deucravacitinib a high selectivity for TYK2, since, contrary to the regulatory domain, the catalytic domain is similar in all members of the JAK family. Hence, inhibition with deucravacitinib is expected to avoid the adverse effects that arise from JAK 1-3 inhibition.\n\n Overall, in phase 2 and phase 3 trials, deucravacitinib showed promising results, both in terms of safety and efficacy.\n\n In the phase 2 trial, the use of deucravacitinib at doses of 3 mg daily and higher resulted in greater clearance of psoriasis compared to placebo. The efficacy was significantly higher with deucravacitinib 3 mg twice daily, 6 mg twice daily, and 12 mg once daily. Improvements in quality of life were only seen in the groups receiving 3 mg twice daily and higher doses of deucravacitinib.\n\n In both phase 3 trials, deucravacitinib 6 mg once daily showed a far superior efficacy compared to apremilast 30 mg twice daily (active control) and placebo, at week 16. At week 24, the superiority of deucravacitinib over apremilast was even greater, with a proportion of patients achieving a PASI 75 response 1.8 and 1.6 times (PSO-1 and PSO-2, respectively) higher than the active control. Deucravacitinib also demonstrated superior efficacy results in scalp psoriasis, as well as a greater impact on quality of life ( _versus_ apremilast and placebo). \n",
+      "start_word": 0,
+      "end_word": 374,
+      "type": "body",
+      "page_num": 21
+    },
+    {
+      "chunk_id": 35,
+      "section": "**Conclusions**",
+      "text": "In both phase 3 trials, deucravacitinib 6 mg once daily showed a far superior efficacy compared to apremilast 30 mg twice daily (active control) and placebo, at week 16. At week 24, the superiority of deucravacitinib over apremilast was even greater, with a proportion of patients achieving a PASI 75 response 1.8 and 1.6 times (PSO-1 and PSO-2, respectively) higher than the active control. Deucravacitinib also demonstrated superior efficacy results in scalp psoriasis, as well as a greater impact on quality of life ( _versus_ apremilast and placebo).\n\n At week 52, in PSO-1, patients who received continuous deucravacitinib treatment maintained clinical responses, and patients who switched from placebo to deucravacitinib at week 16 had similar responses to those who received continuous deucravacitinib treatment from day 1. In PSO-2, clinical responses were also maintained on continuous treatment through week 52 in the majority of deucravacitinib patients who achieved PASI 75 at week 24, and durable responses were observed after withdrawal of treatment in week 24 responders.\n\n Globally, deucravacitinib was well-tolerated and safe. The safety results were consistent with the mechanism of action of deucravacitinib and its high selectivity for TYK2, with no relevant adverse effects associated with JAK 1-3 inhibition observed. Overall, it had low rates of adverse events, with the most frequently reported being nasopharyngitis, upper respiratory tract infection, headache, diarrhea, and nausea.\n\n In short, deucravacitinib has the potential to become a safe, effective, and welltolerated treatment for patients with moderate to severe psoriasis. Future studies evaluating long-term response beyond 52 weeks and comparing deucravacitinib _versus_ biologic agents will be important to determine the exact role of this drug in the treatment of psoriasis.\n\n 11 \n",
+      "start_word": 300,
+      "end_word": 575,
+      "type": "body",
+      "page_num": 21
+    }
+  ],
+  "footnote_chunks": [],
+  "image_chunks": [
+    {
+      "chunk_id": "img_0",
+      "section": "Extracted Figure",
+      "text": "This figure is a schematic diagram illustrating the canonical **JAK-STAT (Janus kinase-Signal Transducer and Activator of Transcription) signaling pathway**. It depicts the sequential molecular events from extracellular cytokine binding to the initiation of nuclear gene transcription.\n\n### 1. Type of Visualization\nThis is a biological pathway diagram, utilizing a flow-based layout to represent protein-protein interactions, phosphorylation events, and cellular translocation.\n\n### 2. Main Visual Elements\n*   **Cell Membrane:** Represented by parallel horizontal lines separating the extracellular space from the cytoplasm.\n*   **Receptors:** Transmembrane proteins (blue) associated with intracellular JAK proteins (red ovals).\n*   **Signaling Proteins:** STAT proteins (green shapes) and cytokines (yellow triangle).\n*   **Nuclear Envelope:** A curved line representing the boundary of the cell nucleus.\n*   **DNA:** A double-stranded helix structure inside the nucleus serving as the site for transcriptional activation.\n*   **Annotations:** Numbered circles (1–4) indicate the chronological sequence of the pathway.\n\n### 3. Key Patterns and Conclusions\nThe pathway follows a logical cascade of activation:\n*   **Initiation (Step 1):** Cytokine binding induces receptor dimerization, which brings the associated JAKs into proximity, leading to the phosphorylation of the receptor chains.\n*   **Recruitment (Step 2):** Inactive STAT proteins are recruited from the cytoplasm to the phosphorylated docking sites on the receptor.\n*   **Activation (Step 3):** JAKs phosphorylate the recruited STAT proteins, which then dissociate from the receptor and form STAT-STAT dimers.\n*   **Nuclear Action (Step 4):** The phosphorylated STAT dimers translocate into the nucleus, bind to specific DNA sequences, and promote the transcription of target genes (symbolized by a green light/activation icon).\n\n### 4. Visible Text and Labels\n*   **\"Cytokine\":** Labels the yellow ligand.\n*   **\"Cytokine binding induces receptor dimerization leading to phosphorylation of receptor chains by JAKs\":** Describes the initial activation step.\n*   **\"STATs are recruited to the phosphorylated cytokine receptor\":** Describes the recruitment phase.\n*   **\"STATs are phosphorylated by JAKS leading to dimerization\":** Describes the activation and dimerization phase.\n*   **\"Translocation to the nucleus and activation of target gene transcription\":** Describes the final effector function.\n*   **Labels within shapes:** \"JAK\", \"STAT\", and \"P\" (representing phosphate groups).",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/570190.pdf-0025-02.png",
+      "page_num": 25,
+      "image_size": "932x684",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_1",
+      "section": "Extracted Figure",
+      "text": "This figure is a **schematic diagram** illustrating the mechanism of action of selective versus nonselective TYK2 (Tyrosine Kinase 2) inhibitors.\n\n### **Main Visual Elements**\n*   **Left side:** A baseline representation of the TYK2 protein, composed of two distinct regions: a magenta **regulatory domain** (containing an allosteric site) and a blue **catalytic domain** (containing an active site).\n*   **Right side:** Three distinct scenarios presented in separate boxes, showing how different molecules interact with the TYK2 protein:\n    1.  **Top Box:** Shows the binding of an **ATP substrate** (represented by a blue circle) to the catalytic domain.\n    2.  **Middle Box:** Shows the binding of **nonselective inhibitors** (Brepocitinib and PF-06826647, represented by a light purple circle) to the catalytic domain, effectively blocking it.\n    3.  **Bottom Box:** Shows the binding of **Deucravacitinib** (represented by a magenta triangle) to the allosteric site within the regulatory domain.\n\n### **Key Patterns and Conclusions**\n*   **Mechanism of Selectivity:** The diagram highlights the functional difference between catalytic site inhibition and allosteric inhibition. \n*   **Conformational Change:** The bottom panel indicates that when Deucravacitinib binds to the allosteric site, it induces a **conformational change** in the TYK2 protein. This change is visually represented by the alteration of the catalytic active site's shape, which prevents the binding of substrates or other molecules.\n*   **Contrast:** The figure effectively contrasts the competitive inhibition of the catalytic domain (used by nonselective JAK1–3 inhibitors) with the highly selective allosteric inhibition utilized by Deucravacitinib.\n\n### **Text and Labels**\n*   **Protein Components:** \"TYK2,\" \"Regulatory domain,\" \"Catalytic domain,\" \"Allosteric Site,\" and \"Active site.\"\n*   **Inhibitors/Substrates:**\n    *   \"ATP substrate\"\n    *   \"JAK1–3 inhibitors,\" \"Brepocitinib,\" and \"PF-06826647\"\n    *   \"Deucravacitinib,\" labeled specifically as an \"Allosteric inhibitor.\"\n*   **Annotations:** The text \"Active site (conformational change)\" in the bottom right box explains the downstream effect of allosteric binding on the catalytic domain's geometry.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/570190.pdf-0026-02.png",
+      "page_num": 26,
+      "image_size": "887x470",
+      "type": "figure"
+    }
+  ]
+}

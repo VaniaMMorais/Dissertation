@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "filename": "hmed.2021.0459.pdf",
+    "filepath": "../data/PDFs/hmed.2021.0459.pdf",
+    "title": "",
+    "author": "",
+    "total_pages": 7,
+    "doi": "10.12968/hmed.2021.0459"
+  },
+  "document_type": "article",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "section": "Breast cancer: presentation, investigation and management",
+      "text": "## Breast cancer: presentation, investigation and management\n\n Chie Katsura Innocent Ogunmwonyi Hadyn KN Kankam Sunita Saha\n\n Author details can be found at the end of this article\n\n Correspondence to: Chie Katsura; chie.katsura@nhs.net \n",
+      "start_word": 0,
+      "end_word": 32,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 1,
+      "section": "**Abstract**",
+      "text": "## **Abstract**\n\n Breast cancer is the most common global malignancy and the leading cause of cancer deaths. Despite this, undergraduate and postgraduate exposure to breast cancer is limited, impacting on the ability of clinicians to accurately recognise, assess and refer appropriate patients. This article provides a comprehensive review of the pathology, epidemiology, clinical presentation, referral pathways and management of breast cancer in the UK. It also describes how to conduct a thorough clinical breast examination.\n\n Key words: Breast cancer; Breast examination; Breast surgery; Hormone therapy; Referral pathway\n\n Submitted: 26 August 2021; accepted following double-blind peer review: 4 October 2021 \n",
+      "start_word": 0,
+      "end_word": 99,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 2,
+      "section": "**Introduction**",
+      "text": "## **Introduction**\n\n Breast cancer describes a range of malignancies occurring in the mammary glands, which collectively is the most prevalent cancer in the UK and worldwide . Clinicians must be proficient and confident in recognising, assessing and referring patients with suspected breast cancer. However, both undergraduate and postgraduate education on breast cancer is limited . In the UK, dedicated exposure for general surgical trainees subspecialising in breast surgery is limited . The clinical breast examination is also a challenging skill to both teach and perform effectively . This review provides junior doctors with a comprehensive overview of breast cancer, including the epidemiology, pathology, clinical breast examination technique, diagnostic criteria, referral pathways and treatment options. \n",
+      "start_word": 0,
+      "end_word": 114,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 3,
+      "section": "**Epidemiology**",
+      "text": "## **Epidemiology**\n\n Breast cancer is the most common cancer in the UK, accounting for 55 000 (15%) new cancer cases per year. This is predicted to rise by 2% by 2035 . Women are overwhelmingly affected, with the incidence increasing with age – more than 80% of breast cancers are diagnosed in women over 50 years old. Breast cancer is the leading cause of cancer deaths, with 685 000 deaths worldwide in 2020 . \n",
+      "start_word": 0,
+      "end_word": 74,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 4,
+      "section": "**Pathology**",
+      "text": "## **Pathology**\n\n How to cite this article: Katsura C, Ogunmwonyi I, Kankam HKN, Saha S. Breast cancer: presentation, investigation and management. Br J Hosp Med. 2022. https://doi.org/10.12968/ hmed.2021.0459\n\n The majority of breast cancers are adenocarcinomas, with 85% of adenocarcinoma cases arising from the breast ducts and 15% from the lobular epithelium. The ductal pathology ranges from ductal carcinoma in situ, to invasive carcinomas which have spread beyond the basement membrane into adjacent breast parenchyma. Other forms of breast cancer include Paget’s disease of the breast, inflammatory breast cancers and papillary carcinomas. Sarcomas, such as malignant phyllodes and angiosarcomas, are rare. Tumorigenesis occurs as a result of dysregulation of the pathways controlling cell proliferation and apoptosis. The presence or absence of oestrogen receptors, progesterone receptors and human epidermal growth factor 2 receptors on breast cancer cells are important in determining treatment options .\n\n\n**1\b** \n",
+      "start_word": 0,
+      "end_word": 143,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 5,
+      "section": "**Presentation**",
+      "text": "## **Presentation**\n\n Breast cancer commonly presents as a lump in the breast and is usually painless. However, 90% of breast masses are benign in nature, such as fibroadenomata, cysts and fibrocystic change . Breast cancers may present as:\n\n - A breast and/or axillary lump which may have hard, immobile, irregular or fixed features\n\n - Breast swelling or changes in shape and size\n\n - Skin changes including erythema, dimpling, pitting, ulceration and peau d’orange\n\n - Nipple changes such as inversion, skin changes or discharge.\n\n Although extremely common, breast pain in isolation without other signs is rarely a presentation of breast cancer . \n",
+      "start_word": 0,
+      "end_word": 101,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 6,
+      "section": "**Factors associated with breast cancer**",
+      "text": "## **Factors associated with breast cancer**\n\n Several factors, modifiable and non-modifiable, are associated with an increased risk of developing breast cancer. Modifiable risk factors may be changed or avoided and include obesity, a sedentary lifestyle and exposure to exogenous hormones. Factors such as a person’s genetic predisposition and aging are non-modifiable and are unavoidable ( **Table 1** ). \n",
+      "start_word": 0,
+      "end_word": 58,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 7,
+      "section": "**Referral pathway**",
+      "text": "## **Referral pathway**\n\n In the UK there are two major referral pathways for patients with suspected breast cancer. Approximately 52% of cases of breast cancer are diagnosed via referrals from primary care physicians through the suspected cancer referral pathway, also known as the ‘twoweek-wait’ pathway. The other major pathway to diagnosis is through the NHS Breast Screening Programme, which accounts for 27% of diagnoses of breast cancer . All women aged 50–71 years old are invited to attend the NHS Breast Screening Programme every 3 years. Higher risk patients, such as those with BRCA1 or 2 gene mutations, may be screened earlier depending on their lifetime risk . \n",
+      "start_word": 0,
+      "end_word": 108,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 8,
+      "section": "**Assessment**",
+      "text": "## **Assessment**\n\n Patients suspected of having breast cancer are triaged to a rapid diagnostic breast clinic, where patients undergo a ‘triple assessment’ consisting of a:\n\n **Table 1. Risk and protective factors associated with breast cancer**\n\n\n\n\n\n _From Feng et al _\n\n\n**2\b**\n\n 1. Thorough history and clinical breast examination\n\n 2. Radiological investigation, such as an ultrasound and/or mammogram of the breasts and axilla\n\n 3. Biopsy of any suspicious lesions.\n\n For lesions involving the skin or suspected cases of Paget’s disease of the nipple, a punch biopsy under local anaesthetic may be performed. Deeper lesions require a core biopsy, which is usually guided by imaging. If a core biopsy is not possible, fine needle aspiration cytology may be performed to initially characterise the lesion. Mammograms are not routinely performed in patients under 40 years old or in patients who are breastfeeding as a mammogram will not accurately reflect the pathology in the relatively dense breast tissue . \n",
+      "start_word": 0,
+      "end_word": 155,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 9,
+      "section": "**Clinical breast examination**",
+      "text": "## **Clinical breast examination**\n\n The clinical breast exam involves an assessment of bilateral breasts, chest, axillae and regional lymph nodes . This consists of: \n",
+      "start_word": 0,
+      "end_word": 24,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 10,
+      "section": "**Inspection**",
+      "text": "## **Inspection**\n\n The patient should sit on an examination bench set up to 30–45°. The skin is visually examined for any changes, including puckering, tethering, erythema, scars, masses and nipple changes or discharge. The patient should then lift their arms above and behind their head, followed by pressing their hands on their hips. The examiner should observe for any resultant skin changes from these movements. \n",
+      "start_word": 0,
+      "end_word": 65,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 11,
+      "section": "**Palpation**",
+      "text": "## **Palpation**\n\n The palmar aspect of the proximal and middle phalanges of the index, middle and ring fingers are used to gently palpate from the superior to inferior margins of each breast, as well as from the medial to lateral aspects, allowing the examiner to detect differences in the density of the breast tissue. The tips of the index, middle and ring fingers are subsequently used to palpate the texture of the breast tissue within the four quadrants and nipple-areola complex in the superficial, intermediate and deep planes. Benign masses generally cause no skin changes and are often smooth, mobile and well demarcated. However, fibroadenomata and tense cysts are firm . To palpate the axillary nodes, the patient’s forearm is supported from below and the four borders of the axilla and the deep axillary nodes are palpated with the fingertips of the opposite hand. Finally, the supraclavicular nodes are palpated bilaterally . \n",
+      "start_word": 0,
+      "end_word": 152,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 12,
+      "section": "**Investigations**",
+      "text": "## **Investigations**\n\n Patients with invasive cancer and evidence of lymph node involvement should undergo further imaging (such as a computed tomography scan of the thorax, abdomen and pelvis) to look for evidence of distant metastases .\n\n Radiological imaging is the most important investigation for the visualisation and characterisation of abnormalities. An ultrasound scan allows for a focused examination of a clinically palpated abnormality and a mammogram further characterises the area of concern and screens the rest of the breast tissue. Digital breast tomosynthesis provides three-dimensional X-ray images of the breast tissue and augments the findings of a mammogram. Some patients will need contrast magnetic resonance imaging to facilitate decision making, such as whether to consider breast conservative surgery, to determine tumour size where there is a discrepancy in size between imaging modalities, or to monitor the patient’s response to neoadjuvant chemotherapy. A staging computed tomography scan of the chest, abdomen and pelvis, and a bone scan might be performed if the patient or clinician are suspicious of distant metastasis .\n\n Histopathological assessments of the biopsy and cytology specimens are taken. Disease staging uses the American Joint Committee on Cancer grouping . This involves anatomical staging, as defined by tumour size (T), regional lymph node involvement (N) and evidence of metastasis (M) ( **Table 2** ), and prognostic staging, which\n\n\n**3\b**\n\n incorporates anatomical staging, tumour grade and the expression of oestrogen receptors, progesterone receptors and human epidermal growth factor 2 receptors. The Nottingham prognostic index is a well-established system commonly used for prognosis staging . \n",
+      "start_word": 0,
+      "end_word": 254,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 13,
+      "section": "**Treatment**",
+      "text": "## **Treatment**\n\n Diagnosis comprises clinical staging followed by a patient-centred discussion on treatment options in the presence of a clinical nurse specialist who can support the patient throughout their treatment journey. Treatment should be provided by a multidisciplinary team consisting of breast surgeons, oncologists, radiologists, pathologists and clinical nurse specialists, as well as psychologists, physiotherapists and geneticists. Treatment is based on the diagnostic findings, but typically consists of a mixture of surgery, radiotherapy, chemotherapy, targeted therapies (such as trastuzumab and pertuzumab) and endocrine therapies . \n",
+      "start_word": 0,
+      "end_word": 85,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 14,
+      "section": "**Surgical management**",
+      "text": "## **Surgical management**\n\n The goals of surgery are cancer removal, pathological staging and good postoperative cosmesis . Breast-conserving surgery, such as a wide local excision, involves the resection of the tumour and a surrounding margin of macroscopically healthy tissue, which is histologically examined for invasive cells. Radiotherapy post-breastconserving surgery is strongly recommended to reduce the risk of recurrence. The alternative surgical approach is a mastectomy, which is offered when breast-conserving surgery is not possible as a result of tumour factors (such as high tumour to breast size ratio), when radiotherapy is contraindicated, poor cosmetic outcomes would be attained or because of patient choice . The recurrence rates (10–15%) and survival outcomes are similar for both methods . Patients positive for the BRCA1 or 2 genes are often counselled regarding the option for more radical surgery, such as unilateral or possible contralateral risk-reducing mastectomies. For masses not amenable to surgical intervention, neoadjuvant chemotherapy may be used with the primary objective of rendering locally advanced masses resectable. Neoadjuvant chemotherapy is also used in other cases depending on the tumour biology or if there are locally advanced features at the time of diagnosis .\n\n The status of the axillary nodes is assessed using a sentinel node biopsy, or for pathological staging of invasive cancers, intraoperative dissection; however, this is not\n\n **Table 2. Simplified table of the clinical tumour, lymph node and metastases anatomical staging system**\n\n\n\n\n\n _Adapted from Koh and Kim _\n\n\n**4\b**\n\n routinely required for in situ disease. If there is no preoperative suspicion of axillary lymph node involvement, a sentinel lymph node biopsy is performed, which involves the injection of an intraoperative dye and/or radionucleotide into the areola. The sentinel nodes, the first location of lymph drainage, are identified by the uptake of the dye and examined for the presence of metastasis. Patients who have a positive sentinel lymph node biopsy may go on to have an axillary lymph node dissection to guide the patient’s prognosis and further treatment, as well as limiting the lymphatic spread . An axillary lymph node dissection carries up to 14% risk of causing upper limb lymphoedema . \n",
+      "start_word": 0,
+      "end_word": 351,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 15,
+      "section": "**Surgical management**",
+      "text": "routinely required for in situ disease. If there is no preoperative suspicion of axillary lymph node involvement, a sentinel lymph node biopsy is performed, which involves the injection of an intraoperative dye and/or radionucleotide into the areola. The sentinel nodes, the first location of lymph drainage, are identified by the uptake of the dye and examined for the presence of metastasis. Patients who have a positive sentinel lymph node biopsy may go on to have an axillary lymph node dissection to guide the patient’s prognosis and further treatment, as well as limiting the lymphatic spread . An axillary lymph node dissection carries up to 14% risk of causing upper limb lymphoedema .\n\n Patients undergoing a mastectomy are usually offered the opportunity to have immediate or delayed breast reconstruction. This may be autologous (tissue-based), implant-based or a combination of the two. The approach taken should consider the patient’s comorbidities, breast and body shape, expectations, wishes and impact of potential adjuvant treatments . \n",
+      "start_word": 300,
+      "end_word": 461,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 16,
+      "section": "**Adjuvant medical therapies**",
+      "text": "## **Adjuvant medical therapies**\n\n Adjuvant systemic therapy aims to eradicate micro-metastases which may develop into metastatic disease. Therapeutic selection is determined by risk stratification, which is governed by the disease burden (the number of positive lymph nodes and the tumour size) and tumour biology (including grade, hormone receptor and human epidermal growth factor 2 receptor status). Adjuvant radiotherapy is performed to reduce the cancer recurrence rate and is conducted either following breast-conserving surgery, or after a mastectomy if there are high risk features, such as the involvement of multiple lymph nodes. Patients with tumours positive for human epidermal growth factor 2 receptors receive additional biological therapy using the anti-human epidermal growth factor 2 receptor monoclonal antibody trastuzumab or other drugs known to target the human epidermal growth factor 2 receptor. However, these biological therapies are cardiotoxic and so patients receiving them require monitoring of their cardiac function .\n\n Endocrine therapy is recommended for patients with tumours positive for oestrogen receptors, conferring a 30% reduction in yearly breast cancer mortality in the first 15 years. In oestrogen receptor positive patients, the first step is to stop hormonal therapies, such as the contraceptive pill and hormone replacement therapy. Aromatase inhibitors, such as anastrozole, prevent the peripheral production of oestrogen by inhibiting aromatase and are used in postmenopausal patients as aromatase-inhibiting drugs are ineffective if the ovaries continue to produce oestrogens. Tamoxifen, a selective oestrogen receptor modulator, works by blocking the effect of oestrogen on breast tissue and is predominantly used in premenopausal women. Selective oestrogen receptor modulators can increase the risk of venous thromboembolism and uterine cancers, while aromatase inhibitors may accelerate osteopenia and osteoporosis and require a bone mineral density assessment before initiation . \n",
+      "start_word": 0,
+      "end_word": 283,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 17,
+      "section": "**Neoadjuvant medical therapy**",
+      "text": "## **Neoadjuvant medical therapy**\n\n Neoadjuvant chemotherapy is increasingly used for locally advanced and large breast lesions, with the aim of downgrading and de-escalating the tumour before surgical intervention. Neoadjuvant chemotherapy is strongly recommended in triple negative breast cancer and when tumours are positive for the human epidermal growth factor 2 receptor as they often respond well. Moreover, neoadjuvant chemotherapy allows clinicians to gauge treatment sensitivity and tailor the postoperative adjuvant therapy accordingly . \n",
+      "start_word": 0,
+      "end_word": 73,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 18,
+      "section": "**Triple negative breast cancer**",
+      "text": "## **Triple negative breast cancer**\n\n ‘Triple negative’ breast cancers do not express oestrogen receptors, progesterone receptors or human epidermal growth factor 2 receptors, rendering endocrine or biological therapies ineffective. Treatment options are limited to surgery, chemotherapy and radiotherapy. Owing to the association with the BRCA1 gene, genetic testing is offered to women under 50 years old with breast cancer. Triple negative breast cancers are typically more aggressive and carry a worse prognosis .\n\n\n**5\b** \n",
+      "start_word": 0,
+      "end_word": 74,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 19,
+      "section": "**Key points**",
+      "text": "## **Key points**\n\n - Breast cancer is the most prevalent cancer in the world.\n\n - The two-week-wait and NHS Breast Screening Programme triages patients to breast clinics where they undergo a triple assessment.\n\n - A breast examination consists of inspection and thorough palpation for lumps.\n\n - Treatment is patient-centred and multidisciplinary team led.\n\n - Surgical management aims to remove the cancer, stage it and restore cosmesis.\n\n - Adjuvant therapies include chemotherapy, radiotherapy and targeted endocrine or biological therapies for oestrogen receptor and human epidermal growth factor 2 receptor positive tumours. \n",
+      "start_word": 0,
+      "end_word": 90,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 20,
+      "section": "**Conclusions**",
+      "text": "## **Conclusions**\n\n Breast cancer is the most common malignancy in the world. Therefore, it is of benefit to all clinicians to recognise the clinical presentation of breast cancer to allow for the appropriate referral. Furthermore, an understanding of the diagnosis of breast cancer and the genetic characteristics is crucial in understanding the appropriateness of the different treatment options. This knowledge should be used by clinicians as part of a multidisciplinary team approach to guide the patient, which will lead to the best possible outcomes. \n",
+      "start_word": 0,
+      "end_word": 84,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 21,
+      "section": "Author details",
+      "text": "## Author details\n\n - 1\u0007Department of Breast Surgery, Colchester Hospital, East Suffolk and North Essex NHS Foundation Trust, Essex, UK\n\n - 2\u0007Department of Surgery, University Hospital Lewisham, Lewisham and Greenwich NHS Foundation Trust, London, UK \n",
+      "start_word": 0,
+      "end_word": 35,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 22,
+      "section": "**Conflicts of interest**",
+      "text": "## **Conflicts of interest**\n\n The authors declare that they have no conflicts of interest. \n",
+      "start_word": 0,
+      "end_word": 14,
+      "type": "body",
+      "page_num": 6
+    }
+  ],
+  "footnote_chunks": [],
+  "image_chunks": [
+    {
+      "chunk_id": "img_0",
+      "section": "Extracted Figure",
+      "text": "This figure is a **tabular summary** presented as a structured list, categorizing factors influencing breast cancer risk.\n\n### 1. Type of Visualization\nThe visualization is a **structured table** organized into three distinct horizontal rows, each representing a categorical grouping of factors related to breast cancer.\n\n### 2. Main Visual Elements\n*   **Layout:** The table uses a light blue background with white horizontal dividers.\n*   **Bullet Points:** Each item is preceded by a small, solid blue square icon.\n*   **Hierarchy:** The table employs a nested bulleted list structure, particularly within the \"Non-modifiable risk factors\" section, to indicate sub-categories of genetic and hormonal factors.\n*   **Color Palette:** The design is monochromatic, utilizing varying shades of blue for the background, separators, and list markers.\n\n### 3. Data Patterns and Relationships\nThe table organizes information into three logical domains:\n*   **Modifiable risk factors:** Lists five external or behavioral factors that can be altered to potentially reduce risk.\n*   **Non-modifiable risk factors:** Lists three primary categories (age, genetics, endogenous hormones) that are inherent to the individual and cannot be altered. This section includes nested sub-lists for specific gene mutations and hormonal milestones.\n*   **Protective factors:** Lists four lifestyle or pharmacological interventions associated with a reduced risk of breast cancer.\n\n### 4. Visible Text and Content\n*   **Modifiable risk factors:** Obesity, Increased alcohol consumption, Sedentary lifestyle, Exogenous hormone exposure (contraceptive pills, hormone replacement therapy), Radiation exposure.\n*   **Non-modifiable risk factors:** Increasing age, Genetic predisposition (mutations in: BRCA1 or BRCA2; PALB2, TP53, PTEN, STK11, NF1), Endogenous hormone exposure (Early menarche, late menopause; Nulliparity, late pregnancy).\n*   **Protective factors:** Lactation, Physical activity, Reduced alcohol consumption, Use of aspirin or non-steroidal anti-inflammatory drugs.",
+      "caption": "Table 1. Risk and protective factors associated with breast cancer Modifiable risk factors Non-modifiable risk factors Protective factors",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/hmed.2021.0459.pdf-0002-15.png",
+      "page_num": 2,
+      "image_size": "1009x461",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_1",
+      "section": "Extracted Figure",
+      "text": "This image is a **tabular representation** of the clinical TNM (Tumour, Lymph node, Metastases) anatomical staging system.\n\n### 1. Type of Visualization\nThe figure is a structured **three-column table** designed to provide a simplified reference for cancer staging criteria.\n\n### 2. Main Visual Elements\n*   **Structure:** The table is divided into three primary horizontal sections corresponding to the TNM categories: **Tumour (T)**, **Lymph node (N)**, and **Metastases (M)**.\n*   **Columns:** \n    *   The first column identifies the category (T, N, or M).\n    *   The second column lists the specific sub-classification codes (e.g., Tis, T1, N0, M1).\n    *   The third column provides the clinical definition for each code.\n*   **Design:** The table uses a light blue background with white horizontal grid lines to separate individual rows, ensuring readability.\n\n### 3. Data Patterns and Relationships\nThe table organizes the progression of disease severity within each category:\n*   **Tumour (T):** Ranges from *in situ* (Tis) to increasing sizes (<2 cm, 2–5 cm, >5 cm) and finally to local extension (T4).\n*   **Lymph node (N):** Ranges from no involvement (N0) to increasing levels of regional involvement, specifically focusing on axillary and internal mammary nodes (N1–N3).\n*   **Metastases (M):** A binary classification distinguishing between the absence (M0) and presence (M1) of distant metastasis.\n\n### 4. Visible Text and Labels\nThe table contains the following specific clinical definitions:\n\n*   **Tumour (T):**\n    *   **Tis:** Carcinoma in situ\n    *   **T1:** Tumour <2 cm\n    *   **T2:** Tumour 2–5 cm\n    *   **T3:** Tumour >5 cm\n    *   **T4:** Tumour with extension to skin or chest wall\n*   **Lymph node (N):**\n    *   **N0:** No regional node involvement\n    *   **N1:** Ipsilateral, movable axillary lymph node involvement\n    *   **N2:** Ipsilateral, fixed axillary lymph node involvement or non-fixed ipsilateral internal mammary nodes\n    *   **N3:** Ipsilateral infraclavicular or supraclavicular nodes, or ipsilateral internal mammary nodes in combination with axillary nodes\n*   **Metastases (M):**\n    *   **M0:** No distant metastasis\n    *   **M1:** Distant metastasis",
+      "caption": "Table 2. Simplified table of the clinical tumour, lymph node and metastases anatomical staging system Tumour (T) Tis Carcinoma in situ",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/hmed.2021.0459.pdf-0004-08.png",
+      "page_num": 4,
+      "image_size": "761x445",
+      "type": "figure"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "filename": "annurev-med-050423-095712.pdf",
+    "filepath": "../data/PDFs/annurev-med-050423-095712.pdf",
+    "title": "",
+    "author": "",
+    "total_pages": 13,
+    "doi": "10.1146/annurev-med-050423095712"
+  },
+  "document_type": "report",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "section": "_Annual Review of Medicine_",
+      "text": "## _Annual Review of Medicine_\n\n Transformative Therapies for Depression: Postpartum Depression, Major Depressive Disorder, and TreatmentResistant Depression \n",
+      "start_word": 0,
+      "end_word": 17,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 1,
+      "section": "Elizabeth Richardson, Riah Patterson, Samantha Meltzer-Brody, Robert McClure, and Amanda Tow",
+      "text": "## Elizabeth Richardson, Riah Patterson, Samantha Meltzer-Brody, Robert McClure, and Amanda Tow\n\n Department of Psychiatry, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA; email: meltzerb@med.unc.edu\n\n Annu. Rev. Med. 2025. 76:81–93\n\n First published as a Review in Advance on November 11, 2024\n\n The _Annual Review of Medicine_ is online at med.annualreviews.org\n\n https://doi.org/10.1146/annurev-med-050423095712\n\n Copyright © 2025 by the author(s). This work is licensed under a Creative Commons Attribution 4.0 International License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. See credit lines of images or other third-party material in this article for license information.\n\n\n\n \n",
+      "start_word": 0,
+      "end_word": 106,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 2,
+      "section": "**Keywords**",
+      "text": "## **Keywords**\n\n postpartum depression, major depression, treatment-resistant depression, neurosteroids, brexanolone, zuranolone, psilocybin \n",
+      "start_word": 0,
+      "end_word": 12,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 3,
+      "section": "**Abstract**",
+      "text": "## **Abstract**\n\n Depressive disorders present an enormous global public health burden. A notable treatment gap exists between the prevalence of depression and our ability to provide rapid-acting, effective treatment that achieves remission. Brexanolone and zuranolone, the first US Food and Drug Administration– approved drugs for postpartum depression, signify a critical advancement in addressing the unmet needs of a vulnerable patient population. Psilocybin shows promise for treatment-resistant depression and for those who have struggled to find relief with existing treatments. This review discusses transformative therapies that represent significant advancements in postpartum depression, major depressive disorder, and treatment-resistant depression.\n\n _81_ \n",
+      "start_word": 0,
+      "end_word": 98,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 4,
+      "section": "**INTRODUCTION**",
+      "text": "## **INTRODUCTION**\n\n Depressive disorders present an enormous global public health burden, are a major cause of morbidity and mortality, and by 2030 are expected to rank first in disease burden by the World Health Organization (1). The prevalence of depression has been growing over time and has markedly increased after the global COVID-19 pandemic (2). In 2019, prevalence data from the Centers for Disease Control estimated that ∼18% of the population reported currently having depression, and 29% reported having a lifetime history of depression (3). Moreover, the lifetime prevalence of depression in women is twice that of men (4). A major reason for the increased prevalence in women is due to the high prevalence of reproductive mood disorders (5, 6).\n\n Evidence-based recommendations for depressive disorders most commonly include psychotherapy, pharmacologic treatment, and neuromodulation therapies [electroconvulsive therapy (ECT), repetitive transcranial magnetic stimulation (rTMS), esketamine] (7). Lifestyle interventions to address sleep, physical activity, nutrition, and social support are also important aspects of a comprehensive treatment plan (7). A significant gap exists between the number of people who suffer from depression and our ability to provide effective treatment that achieves remission of illness (8). Therefore, there is a great need for transformation in the treatment of depressive disorders.\n\n In this review, we discuss recent innovative work in the treatment of depression, with a specific focus on rapidly acting antidepressant pharmacologic agents with novel mechanisms of action. We begin by discussing the first US Food and Drug Administration (FDA)–approved medications for postpartum depression (PPD), the neurosteroid therapeutic agents brexanolone and zuranolone (9, 10). We subsequently discuss the treatment of major depressive disorder (MDD) and treatment-resistant depression (TRD) using psilocybin with assisted therapy, including efficacy, duration of effect, predictors of response, and study limitations. \n",
+      "start_word": 0,
+      "end_word": 289,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 5,
+      "section": "**BACKGROUND ON POSTPARTUM DEPRESSION**",
+      "text": "## **BACKGROUND ON POSTPARTUM DEPRESSION**\n\n PPD is one of the most common complications of childbirth, impacting one out of seven women (11, 12). PPD is conceptualized as a major depressive episode in the perinatal period (onset during pregnancy or within the first 4 weeks postpartum) with core features of depression and themes related to parturition (13). Depressive episodes require at least five symptoms that have been present for 2 or more weeks and interfere with functioning (13). These symptoms may include depressed mood; anhedonia; feelings of guilt; changes in energy, concentration, appetite, and sleep; and suicidal ideation (13). Common themes may include difficulty with role transitions, poor attachment or bonding, regret, isolation, anxiety, and fears around infant and maternal health (9, 14– 16).\n\n PPD has historically been treated with both psychotherapy and pharmacologic therapies despite these pharmacological treatments not having indications specific for PPD (12). While treatable, there is strong evidence that PPD is underdiagnosed and undertreated (17). Cox et al. (17) did a systematic search to identify articles focused on diagnostic, treatment, and remission rates for perinatal depression. They found that only 30.8% of women were recognized as having PPD, only 15.8% received treatment, only 6.3% received adequate treatment, and only 3.2% achieved remission (17). These are tragic statistics for such a common experience.\n\n There is clearly more work that needs to be done in reproductive psychiatry to improve outcomes for patients who suffer from PPD. The impact of untreated PPD is huge and multigenerational (15, 16, 18–21). Untreated perinatal mood and anxiety disorders can have maternal effects such as increased risk for preeclampsia, diabetes, and high blood pressure (22). The effects on the infant can include preterm delivery and low birth weight, not to mention impaired bonding\n\n _82 Richardson et al._\nand attachment and breastfeeding difficulties (21, 23, 24). There is a high mortality rate in this population, with suicide being the highest cause of death for women up to 1 year after delivery (25). Thus, there is a need for rapidly acting antidepressants during this critical period. \n",
+      "start_word": 0,
+      "end_word": 340,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 6,
+      "section": "**BACKGROUND ON POSTPARTUM DEPRESSION**",
+      "text": "_82 Richardson et al._\nand attachment and breastfeeding difficulties (21, 23, 24). There is a high mortality rate in this population, with suicide being the highest cause of death for women up to 1 year after delivery (25). Thus, there is a need for rapidly acting antidepressants during this critical period.\n\n In this section, we review allopregnanolone, an intrinsic hormone, and its relevance to PPD. This is followed by a discussion of the development of brexanolone and zuranolone, the first two FDA-approved medications for PPD (9, 10). Lastly, we review the current limitations of these neurosteroid therapeutics and provide a comparison table for clinicians. \n",
+      "start_word": 300,
+      "end_word": 404,
+      "type": "body",
+      "page_num": 2
+    },
+    {
+      "chunk_id": 7,
+      "section": "**Brief History of Allopregnanolone**",
+      "text": "## **Brief History of Allopregnanolone**\n\n An exemplary case of translational research is found in the development of allopregnanolonebased treatments for postpartum depression (26). In 1930, researchers first noticed the progestational qualities of a molecule produced in the adrenal gland (27). Building upon this discovery, in 1938, Beall and Reichstein (27) successfully isolated allopregnanolone. In 1981, Baulieu observed allopregnanolone production in the brain, expanding our understanding beyond its adrenal origin (26). By 1986, allopregnanolone was identified as a positive allosteric modulator of synaptic and extrasynaptic GABAA receptors (26).\n\n Further insights emerged in 1996 when research showed that rodent fluoxetine administration increased allopregnanolone levels in the brain, suggesting its potential anxiolytic or antidepressant effects (28). Building upon this foundation, in 1998, Concas’s laboratory identified a correlation between changes in GABAA receptor subunits and allopregnanolone fluctuations in the brain during pregnancy and parturition (29). Notably, a sharp decline in allopregnanolone levels following parturition was observed. Preclinical data highlighted the rapid fluctuations in allopregnanolone levels during the transition from pregnancy to the postpartum period, suggesting a potential trigger for postpartum depression in susceptible individuals (30, 31).\n\n These discoveries paved the way for preclinical animal studies (32), which provided the rationale for the initial open-label trial of brexanolone, a proprietary formulation of allopregnanolone, for women suffering from postpartum depression. \n",
+      "start_word": 0,
+      "end_word": 214,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 8,
+      "section": "**Clinical Trials of Brexanolone**",
+      "text": "## **Clinical Trials of Brexanolone**\n\n In 2015,brexanolone (United States Adopted Name; formerly SAGE-547 injection),a proprietary, intravenous form of allopregnanolone, was used in an open-label study to treat severe PPD (32). All four of the women enrolled had PPD [17-item Hamilton Depression Rating Scale (HAMD) score ≥20] with the onset of symptoms in the third trimester or within 12 weeks of delivery. Brexanolone was titrated over 12 h to reach third-trimester allopregnanolone levels, held at a 36-h maintenance dose, and then tapered over the last 12 h for a total 60-h infusion (32). The University of North Carolina’s Perinatal Psychiatry Inpatient Unit served as the site for this open-label trial, and all four women tolerated the infusion without serious adverse events. All four women achieved remission (HAM-D score ≤7) by hour 24.\n\n The phase II double-blind randomized placebo-controlled trial (NCT02614547) maintained the same protocol (32). Twenty-one women with severe PPD (HAM-D score ≥26) were recruited, 10 received brexanolone, and 11 received a placebo. At the 60-h primary endpoint, the HAM-D mean reduction from baseline was 21.0 points [standard error (SE), 2.9] in the brexanolone group and 8.8 (SE, 2.8) in the placebo group [difference, −12.2; 95% confidence interval (CI), −20.77 to −3.67; _p_ = 0.0075; effect size = 1.2].\n\n The phase III trials consisted of two double-blind randomized placebo-controlled trials conducted at more than 30 clinical sites in the United States [NCT02942004 (study 1) and NCT02942017 (study 2)] (33). Those enrolled had severe PPD (HAM-D score ≥26) for one\n\n _www.annualreviews.org[•] Transformative Therapies for Depression 83_\nof the phase III trials and a HAM-D score of 20–25 for the second study. The study enrolled 138 women who were randomly assigned (1:1:1) to receive brexanolone 90 µg/kg/h (BRX90), brexanolone 60 µg/kg/h (BRX60), or a placebo (33). In the second study, 108 women were randomly assigned to receive BRX90 ( _n_ = 54) or a placebo ( _n_ = 54). In the first study, the least-squares mean reduction in HAM-D score was 17.7 points (SE, 1.2) in the BRX90 group, 19.5 (SE, 1.2) in the BRX60 group, and 14.0 (SE, 1.1) in the placebo group [−5.5 (95% CI, −8.8 to −2.2); _p_ = 0.0013 in the BRX60 group and 3.7 (95% CI, −6.9 to −0.5); _p_ = 0.0252 in the BRX90 group]. At the 60-h primary endpoint in the second study, the least-squares mean reduction in HAM-D score − was 14.6 points (SE, 0.8) in the BRX90 group and 12.1 (SE, 0.8) in the placebo group [ 2.5 (95% CI, −4.5 to −0.5); _p_ = 0.0160]. The most common adverse events in the brexanolone groups were headache, dizziness, and sleepiness (33). \n",
+      "start_word": 0,
+      "end_word": 437,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 9,
+      "section": "**Clinical Trials of Brexanolone**",
+      "text": "of the phase III trials and a HAM-D score of 20–25 for the second study. The study enrolled 138 women who were randomly assigned (1:1:1) to receive brexanolone 90 µg/kg/h (BRX90), brexanolone 60 µg/kg/h (BRX60), or a placebo (33). In the second study, 108 women were randomly assigned to receive BRX90 ( _n_ = 54) or a placebo ( _n_ = 54). In the first study, the least-squares mean reduction in HAM-D score was 17.7 points (SE, 1.2) in the BRX90 group, 19.5 (SE, 1.2) in the BRX60 group, and 14.0 (SE, 1.1) in the placebo group [−5.5 (95% CI, −8.8 to −2.2); _p_ = 0.0013 in the BRX60 group and 3.7 (95% CI, −6.9 to −0.5); _p_ = 0.0252 in the BRX90 group]. At the 60-h primary endpoint in the second study, the least-squares mean reduction in HAM-D score − was 14.6 points (SE, 0.8) in the BRX90 group and 12.1 (SE, 0.8) in the placebo group [ 2.5 (95% CI, −4.5 to −0.5); _p_ = 0.0160]. The most common adverse events in the brexanolone groups were headache, dizziness, and sleepiness (33).\n\n In sum, the positive findings in the clinical trials supported the FDA approval of brexanolone in 2019 (9). The accelerated development timeline of the first approved drug for PPD and the first in its class was an important step forward for the field of reproductive psychiatry. \n",
+      "start_word": 300,
+      "end_word": 529,
+      "type": "body",
+      "page_num": 3
+    },
+    {
+      "chunk_id": 10,
+      "section": "**Clinical Trials of Zuranolone**",
+      "text": "## **Clinical Trials of Zuranolone**\n\n Zuranolone, initially identified as SAGE-217, is an orally bioavailable positive allosteric modulator targeting both the extrasynaptic and intrasynaptic GABAA receptors (34). Zuranolone underwent two pivotal clinical development programs: NEST for postpartum depression and LANDSCAPE for MDD (35). The NEST program comprised two significant clinical trials, ROBIN and SKYLARK (35).\n\n ROBIN, a phase III double-blind randomized outpatient placebo-controlled clinical trial (NCT02978326), was conducted in 27 states to assess the efficacy and safety of zuranolone 30 mg. Severe PPD was defined as a HAM-D score of 26 or higher. All the women were less than 6 months postpartum. Patients in the trial were randomly assigned (1:1) to receive zuranolone or a placebo. The drug (zuranolone or placebo) was self-administered orally each evening for 2 weeks. All patients were followed until day 45. At the day 15 primary endpoint, the least-squares − mean reduction in HAM-D score was 17.8 for zuranolone and 13.6 for the placebo [ 4.2 (95% CI, −6.9 to −1.5); _p_ = 0.003; effect size = 0.53]. The most commonly reported side effects in the zuranolone group were somnolence (15%), headache (9%), dizziness (8%), upper respiratory tract infection (8%), diarrhea (6%), and sedation (5%) (36). The clinical trial findings demonstrated efficacy and safety and supported further development of zuranolone as a potential treatment for PPD.\n\n SKYLARK, a phase III double-blind randomized placebo-controlled clinical trial (NCT04442503), was conducted to assess the efficacy and safety of zuranolone 50 mg. Severe PPD was defined as a HAM-D score of 26 or higher, with the onset of symptoms beginning in the third trimester or less than 4 weeks postpartum. Patients in the trial were randomly assigned (1:1) in a stratified manner based on antidepressant use to receive either zuranolone or a placebo. The drug (zuranolone or placebo) was self-administered orally each evening for 2 weeks. All patients were followed until day 45. At the day 15 primary endpoint assessment, the HAM-D mean reduction from baseline was 15.6 (SE, 0.82) for zuranolone and 11.6 (SE, 0.82) for the placebo [−4.0 (95% CI, −6.3 to −1.7); _p_ = 0.001; Cohen’s _d_ = 0.52]. The most commonly reported side effects in the zuranolone group were somnolence (26.5%), headache (9.2%), dizziness (13.3%), COVID-19 (5.1%), diarrhea (6.1%), nausea (5.1%), urinary tract infection (5.1%), and sedation (11.2%) (37). In sum, the phase III clinical trials supported the FDA’s approval of zuranolone, a neurosteroid therapeutic agent, in August 2023 as the first oral drug for postpartum depression (10). \n",
+      "start_word": 0,
+      "end_word": 412,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 11,
+      "section": "**Clinical Trials of Zuranolone**",
+      "text": "SKYLARK, a phase III double-blind randomized placebo-controlled clinical trial (NCT04442503), was conducted to assess the efficacy and safety of zuranolone 50 mg. Severe PPD was defined as a HAM-D score of 26 or higher, with the onset of symptoms beginning in the third trimester or less than 4 weeks postpartum. Patients in the trial were randomly assigned (1:1) in a stratified manner based on antidepressant use to receive either zuranolone or a placebo. The drug (zuranolone or placebo) was self-administered orally each evening for 2 weeks. All patients were followed until day 45. At the day 15 primary endpoint assessment, the HAM-D mean reduction from baseline was 15.6 (SE, 0.82) for zuranolone and 11.6 (SE, 0.82) for the placebo [−4.0 (95% CI, −6.3 to −1.7); _p_ = 0.001; Cohen’s _d_ = 0.52]. The most commonly reported side effects in the zuranolone group were somnolence (26.5%), headache (9.2%), dizziness (13.3%), COVID-19 (5.1%), diarrhea (6.1%), nausea (5.1%), urinary tract infection (5.1%), and sedation (11.2%) (37). In sum, the phase III clinical trials supported the FDA’s approval of zuranolone, a neurosteroid therapeutic agent, in August 2023 as the first oral drug for postpartum depression (10).\n\n _84 Richardson et al._ \n",
+      "start_word": 300,
+      "end_word": 496,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 12,
+      "section": "**Limitations of Brexanolone and Zuranolone**",
+      "text": "## **Limitations of Brexanolone and Zuranolone**\n\n In general, brexanolone is an effective and fast-acting antidepressant for PPD (9), but it is still not widely available due to the complexity of administration. As an intravenous infusion, the drug requires a risk evaluation and mitigation strategy (REMS) (38) and administration in a medical facility with insurance approval. Follow-up studies have explored breastfeeding recommendations with brexanolone.In short,breastfeeding during infusion is not contraindicated but should involve an informed consent process with the patient. Very low amounts of brexanolone are excreted into breastmilk (1–2% relative infant dose) (38, 39), and there have been no reports of the effects of brexanolone on milk production. No data are available on brexanolone in breastfed infants. A study that looked at 12 healthy adult lactating mothers found that at one-and-a-half days after the infusion, more than 95% of women had levels at or lower than 10 ng/mL (39). In a recent paper published by Brown University (39), 12 out of 26 patients elected to breastfeed during the brexanolone infusion, and no adverse events were reported. Mothers should monitor their infants for sedation if they choose to breastfeed during the infusion (40).\n\n Zuranolone became commercially available in 2023 and has limited breastfeeding data. A clinical lactation study from 14 women taking 30 mg of zuranolone indicated low levels in breast milk with a calculated maximum relative infant dose of 0.357% (41). There have been no reports of the effects of zuranolone on milk production. No data on zuranolone in breastfed infants are available. Mothers should monitor their infant for sedation if they choose to breastfeed, particularly for preterm or newborn infants (42). **Table 1** compares key characteristics of brexanolone and zuranolone. \n",
+      "start_word": 0,
+      "end_word": 281,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 13,
+      "section": "**PSILOCYBIN IN MAJOR DEPRESSIVE DISORDER AND TREATMENT-RESISTANT DEPRESSION**",
+      "text": "## **PSILOCYBIN IN MAJOR DEPRESSIVE DISORDER AND TREATMENT-RESISTANT DEPRESSION** \n",
+      "start_word": 0,
+      "end_word": 9,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 14,
+      "section": "**Background on Psilocybin in Major Depressive Disorder and Treatment-Resistant Depression**",
+      "text": "## **Background on Psilocybin in Major Depressive Disorder and Treatment-Resistant Depression**\n\n Novel treatments for depression with rapid onset of effects and a known duration of action are essential. A resurgence of interest in the partial 5-HT2A agonist psilocybin with adjunctive psychotherapy followed two randomized controlled trials (RCTs) in cancer patients (44). In both studies, a single session of psilocybin with assisted therapy resulted in dramatic relief of anxiety and depression. The therapeutic effect appeared to last 5 to 6 weeks. The cancer patients ranked the single session of psilocybin with assisted therapy as one of the most meaningful experiences of their lives (44). This was the impetus for the FDA to subsequently grant “breakthrough status” to psilocybin (45).\n\n Psilocybin with assisted therapy has been studied in a number of psychiatric disorders and could have a great impact on MDD and TRD. TRD occurs when patients with MDD do not respond to—or are intolerant of—two adequate oral antidepressant trials with medication from different pharmacologic classes. TRD is common: 60% of MDD patients do not respond sufficiently to their initial oral antidepressant treatment (46, 47). TRD response is short-lived. Only 67% of MDD patients undergoing four oral antidepressant trials in the Sequenced Treatment Alternatives to Relieve Depression study remained in remission after 14 months (47). Relapse in TRD is frequent: 10–20% of patients with MDD remained significantly symptomatic for 2 years or longer after sequential oral antidepressant treatment (48). Treatment options for TRD are limited: Intranasal esketamine or ketamine infusions, rTMS, and ECT are effective but expensive and time-consuming, have significant side effects, or carry significant risks. The remaining treatment options—vagal nerve and deep brain stimulation—require invasive neurosurgery and years of neurostimulator monitoring.\n\n _www.annualreviews.org[•] Transformative Therapies for Depression 85_\n**Table 1 Comparison of key characteristics of brexanolone versus zuranolone (10, 38, 41–43)** \n",
+      "start_word": 0,
+      "end_word": 300,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 15,
+      "section": "**Background on Psilocybin in Major Depressive Disorder and Treatment-Resistant Depression**",
+      "text": "Psilocybin with assisted therapy has been studied in a number of psychiatric disorders and could have a great impact on MDD and TRD. TRD occurs when patients with MDD do not respond to—or are intolerant of—two adequate oral antidepressant trials with medication from different pharmacologic classes. TRD is common: 60% of MDD patients do not respond sufficiently to their initial oral antidepressant treatment (46, 47). TRD response is short-lived. Only 67% of MDD patients undergoing four oral antidepressant trials in the Sequenced Treatment Alternatives to Relieve Depression study remained in remission after 14 months (47). Relapse in TRD is frequent: 10–20% of patients with MDD remained significantly symptomatic for 2 years or longer after sequential oral antidepressant treatment (48). Treatment options for TRD are limited: Intranasal esketamine or ketamine infusions, rTMS, and ECT are effective but expensive and time-consuming, have significant side effects, or carry significant risks. The remaining treatment options—vagal nerve and deep brain stimulation—require invasive neurosurgery and years of neurostimulator monitoring.\n\n _www.annualreviews.org[•] Transformative Therapies for Depression 85_\n**Table 1 Comparison of key characteristics of brexanolone versus zuranolone (10, 38, 41–43)**\n\n |**Brexanolone (Zulresso)**|**Zuranolone (Zurzuvae)**|\n|---|---|\n|Rapid-acting, single-treatment course|Rapid-acting, single-treatment course|\n|Positive allosteric modulator of the GABAA receptor|Positive allosteric modulator of the GABAA receptor|\n|Syntheticallyidentical form of allopregnanolone|Altered to be active and orallybioavailable|\n|Manufactured bySage Therapeutics|Manufactured bySage Therapeutics and Biogen|\n|FDA approved in 2019|FDA approved in 2023|\n|15years and older|18years and older|\n|Injection/intravenous|Capsule/oral (20 mg, 25 mg, and 30 mg)|\n|60-h continuous infusion, half-life 9 h|Oral at-home once-dailydosingfor 14 days, half-life∼25 h|\n|Weight-based dosing, titrated up in 4-h increments|50-mg dosing for 14 days, reduced dosing available for central<br>nervous system side effects; 30-mg dosing for severe hepatic<br>or moderate-severe renal impairment|\n|Monotherapy or as an adjunct to other antidepressant treatments|Monotherapy or as an adjunct to other antidepressant<br>treatments|\n|Requires hospitalization (prior authorization required) at an<br>approved healthcare site|Self-administered (prior authorization often needed)|\n|Enrollment in REMS due to boxed warning|Does not require REMS enrollment|\n|Boxed warning includes excessive sedation and sudden loss of<br>consciousness|Boxed warning includes impaired ability to drive or engage in<br>other potentiallyhazardous activities|\n|Avoid in end-stage renal disease (potential accumulation of the<br>solubilizingagent)|Metabolized by the hepatic enzyme CYP3A4|\n|No contraindications|No contraindications|\n|Effective in 60 h|Effective at day14|\n|90-dayfollow-up data|45-dayfollow-up data|\n|Lactation data: relative infant dose 1–2%|Lactation data: relative infant dose_<_1%|\n\n",
+      "start_word": 300,
+      "end_word": 675,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 16,
+      "section": "**Background on Psilocybin in Major Depressive Disorder and Treatment-Resistant Depression**",
+      "text": "## **Background on Psilocybin in Major Depressive Disorder and Treatment-Resistant Depression**\n\n\n\n Abbreviations: FDA, US Food and Drug Administration; REMS, risk evaluation and mitigation strategies. \n",
+      "start_word": 600,
+      "end_word": 624,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 17,
+      "section": "**Clinical Trials of Psilocybin in Major Depressive Disorder**",
+      "text": "## **Clinical Trials of Psilocybin in Major Depressive Disorder**\n\n Davis et al. (49) studied 24 participants with MDD in a randomized, waitlist-controlled trial of two doses of psilocybin. Participants could not be on antidepressants or have a history of suicide attempts. Participants received psilocybin 20 mg/70 mg and then 30 mg/70 kg in two sessions (average about 1.8 weeks apart) immediately or were assigned to an 8-week waitlist. The primary outcome was a depression score on the GRID Hamilton Depression Rating Scale (GRID-HAMD). Participants had an average GRID-HAMD score of 22.8 (3.9) [mean (standard deviation)] at baseline. At 1 and 4 weeks (the equivalent of 5 and 8 weeks for the waitlist group), participants in the immediate treatment group had average GRID-HAMD scores of 8.0 (7.1) and 8.5 (5.7) compared with participants in the waitlist group who had average GRID-HAMD scores of 23.8 (5.4) and 23.5 (6.0). Seventy-one percent of participants had a clinically significant response (decrease in GRID-HAMD of ≥50%) at weeks 1 and 4. At weeks 1 and 4, 58% and 54% of participants, respectively, had remission (GRID-HAMD _<_ 7). Following these 24 participants longitudinally, in a study by Gukasyan et al. (50), 75% of participants showed a response (decrease in GRID-HAMD of ≥50%), and 58% of participants experienced remission (GRID-HAMD _<_ 7) at 12 months after treatment.\n\n Raison et al. (51) studied one dose of psilocybin 25 mg compared with niacin 100 mg in 104 participants with MDD. The primary outcome was a change in depression on the\n\n _Richardson et al._\n\n _86_\nMontgomery– Asberg[˚] Depression Rating Scale (MADRS) from baseline to day 43 after treatment. Participants were not on psychotropic medications or receiving outside therapy during the study. On day 43, participants in the psilocybin group had a significantly greater reduction in MADRS score [−12.3 (95% CI, −17.5 to −7.2)]. Forty-one percent of participants receiving psilocybin had a sustained response compared with 11.4% in the niacin group. \n",
+      "start_word": 0,
+      "end_word": 320,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 18,
+      "section": "**Clinical Trials of Psilocybin in Major Depressive Disorder**",
+      "text": "Montgomery– Asberg[˚] Depression Rating Scale (MADRS) from baseline to day 43 after treatment. Participants were not on psychotropic medications or receiving outside therapy during the study. On day 43, participants in the psilocybin group had a significantly greater reduction in MADRS score [−12.3 (95% CI, −17.5 to −7.2)]. Forty-one percent of participants receiving psilocybin had a sustained response compared with 11.4% in the niacin group.\n\n Carhart-Harris et al.(52) studied 59 participants with MDD in a double-blind RCT comparing psilocybin and escitalopram. Participants stopped psychiatric medications at least 2 weeks before starting the study. Participants received psilocybin 25 mg 3 weeks apart with daily placebo or psilocybin 1 mg 3 weeks apart with daily escitalopram. The primary outcome was a change in depression score on the 16-item Quick Inventory of Depression Symptomatology Self-Report (QIDS-SR16). Change in depression scores did not differ significantly between groups for the primary outcome, with both groups showing a reduction in QIDS-SR16 from baseline to week 6 follow-up. Seventy percent of participants in the psilocybin group, compared with 45% in the escitalopram group, showed a response at 6 weeks (decrease in QIDS-SR16 of ≥50%). Fiftyseven percent in the psilocybin group, compared with 28% in the escitalopram group, experienced remission at 6 weeks (QIDS-SR16 ≤5). \n",
+      "start_word": 300,
+      "end_word": 507,
+      "type": "body",
+      "page_num": 6
+    },
+    {
+      "chunk_id": 19,
+      "section": "**Clinical Trials of Psilocybin in Treatment-Resistant Depression**",
+      "text": "## **Clinical Trials of Psilocybin in Treatment-Resistant Depression**\n\n Carhart-Harris et al. (53) studied participants with TRD, initially enrolling 12 participants in an open-label trial of two doses of psilocybin, 10 mg and then 25 mg, about 7 days apart. Participants in the study had moderate-to-severe depression (HAM-D ≥17) and failed to respond to adequate trials (6 or more weeks) of two antidepressants from different classes. The primary outcome was a change in QIDS-SR16 from baseline to 1 week after psilocybin 25 mg. One week after the psilocybin 25 mg treatment, the average decrease in QIDS-SR16 was 11.8 (95% CI, −9.15 to −14.35). At 3 months after treatment, the QIDS score remained significantly reduced [mean, −9.2 (95% CI, −5.69 to −12.71)].\n\n An additional eight participants were subsequently included in the study by Carhart-Harris et al. (54) for a total of 20 participants with TRD who were followed for 6 months after treatment with psilocybin 10 mg and 25 mg. The primary outcome was depression on the QIDS-SR16 at 5 weeks after treatment, with depression also measured at 1, 2, and 3 weeks and 3 and 6 months after treatment. Depression scores decreased at all follow-up points, with maximum reduction at week 5. All participants had a reduction in depression score at week 1, with a maximum reduction at week 5.\n\n In a phase II RCT sponsored by Compass Pathways (55), Goodwin et al. (56) studied 233 participants with TRD, randomizing them to receive one dose of psilocybin at either 25 mg, 10 mg, or 1 mg (control). The primary outcome was a change in depression on the MADRS between baseline and week 3 after treatment. About two-thirds of participants were on antidepressants at screening; antidepressants and other prohibited medications were tapered off at least 2 weeks before dosing. There was a significant difference between the change in MADRS for the 25 mg group compared with the 1 mg group at the 3-week follow-up [−6.6 (95% CI, −10.2 to −2.9; _p <_ 0.001)]. There was not a statistically significant difference in change in depression score from baseline to 3 weeks for the 10 mg group compared with the 1 mg group. At the 3-week follow-up for the 25 mg group, 37% showed a response (≥50% decrease from baseline in MADRS total score) and 29% showed remission (MADRS total score ≤10), compared with 18% and 8%, respectively, in the 1 mg group. The difference in response and remission at 3 weeks for the 1 mg compared with the 25 mg group was statistically significant. However, sustained response at 12 weeks was not statistically different between the groups. \n",
+      "start_word": 0,
+      "end_word": 434,
+      "type": "body",
+      "page_num": 7
+    },
+    {
+      "chunk_id": 20,
+      "section": "**Clinical Trials of Psilocybin in Treatment-Resistant Depression**",
+      "text": "In a phase II RCT sponsored by Compass Pathways (55), Goodwin et al. (56) studied 233 participants with TRD, randomizing them to receive one dose of psilocybin at either 25 mg, 10 mg, or 1 mg (control). The primary outcome was a change in depression on the MADRS between baseline and week 3 after treatment. About two-thirds of participants were on antidepressants at screening; antidepressants and other prohibited medications were tapered off at least 2 weeks before dosing. There was a significant difference between the change in MADRS for the 25 mg group compared with the 1 mg group at the 3-week follow-up [−6.6 (95% CI, −10.2 to −2.9; _p <_ 0.001)]. There was not a statistically significant difference in change in depression score from baseline to 3 weeks for the 10 mg group compared with the 1 mg group. At the 3-week follow-up for the 25 mg group, 37% showed a response (≥50% decrease from baseline in MADRS total score) and 29% showed remission (MADRS total score ≤10), compared with 18% and 8%, respectively, in the 1 mg group. The difference in response and remission at 3 weeks for the 1 mg compared with the 25 mg group was statistically significant. However, sustained response at 12 weeks was not statistically different between the groups.\n\n _www.annualreviews.org[•] Transformative Therapies for Depression 87_ \n",
+      "start_word": 300,
+      "end_word": 521,
+      "type": "body",
+      "page_num": 7
+    },
+    {
+      "chunk_id": 21,
+      "section": "**Psilocybin with Selective Serotonin Reuptake Inhibitors**",
+      "text": "## **Psilocybin with Selective Serotonin Reuptake Inhibitors**\n\n RCTs demonstrated the acute antidepressant effect of psilocybin with assisted therapy in MDD, not only as monotherapy but also as an adjunctive treatment to selective serotonin reuptake inhibitors (SSRIs) (52). Goodwin et al. (57) examined psilocybin in 19 participants with TRD taking a concomitant SSRI medication. In this open-label study, the primary efficacy endpoint was a change in depression score (i.e., MADRS) from baseline to week 3. At 3 weeks, the mean change in MADRS was −14.9 (95% CI, −20.7 to −9.2), and 42% of participants ( _n_ = 8) had achieved both response and remission. There were no serious adverse events. Though further studies must be done, this suggests that psilocybin treatment while staying on antidepressant medications could be safe and effective. \n",
+      "start_word": 0,
+      "end_word": 130,
+      "type": "body",
+      "page_num": 8
+    },
+    {
+      "chunk_id": 22,
+      "section": "**One Versus Two Psilocybin Treatments**",
+      "text": "## **One Versus Two Psilocybin Treatments**\n\n Investigating one versus two initial psilocybin-assisted therapy treatments for both short- and long-term outcomes is important in determining future standards of care. Prior studies of psilocybin-assisted therapy for the treatment of depression have used either one dose (55) or two doses (49, 52, 53). Future research should assess the acute effects of one versus two psilocybinassisted therapy treatments, the response and remission rates, and the duration of response. \n",
+      "start_word": 0,
+      "end_word": 74,
+      "type": "body",
+      "page_num": 8
+    },
+    {
+      "chunk_id": 23,
+      "section": "**Duration of Psilocybin’s Antidepressant Effect**",
+      "text": "## **Duration of Psilocybin’s Antidepressant Effect**\n\n The duration of psilocybin’s antidepressant effect is not known. Despite the high relapse rate of depression in MDD and TRD, there are few published studies on the duration of the effect of psilocybin with assisted therapy in depression (50, 52, 54). As previously mentioned, Davis et al. (49) initiated a randomized trial of psilocybin (without other antidepressant medications) in MDD and reported on their follow-up of patients 12 months after treatment (50). Treatment response (≥50% decrease in HAM-D score from baseline) and remission (HAM-D ≤7) at 1 year were 75% and 58%, respectively. Before entry into this study, all participants stopped their antidepressants. At the 12-month follow-up, 33% of participants resumed antidepressant medications. So, up to one-third of the subjects had worsening depressive symptoms severe enough to require antidepressant treatment.\n\n As previously mentioned in the section titled Clinical Trials of Psilocybin in TreatmentResistant Depression, a phase II RCT sponsored by Compass Pathways (55), Goodwin et al. (56) is the largest randomized controlled double-blind psilocybin-assisted therapy study for the treatment of TRD. The results showed rapid and sustained response for patients receiving a single dose of psilocybin with psychological support. Sustained response up to week 12 was observed in 20.3% of patients who received 25 mg in the Compass Pathways clinical trial. The acute antidepressant effect of psilocybin with assisted therapy in TRD was of 12 weeks duration in one-fifth of patients (55).\n\n There is evidence in the existing literature that psilocybin’s antidepressant effect wanes after 12 weeks or 3 months. For example, in the open-label study of 12 TRD patients conducted by Carhart-Harris et al. (53), psilocybin’s rapid antidepressant effect was demonstrated 1 week after treatment by a mean 11.8-point decrease in QIDS scores and a mean 25-point decrease in Beck’s Depression Inventory (BDI) scores (53). However, signs of potential relapse emerged 3 months later. At the 3-month follow-up, mean QIDS scores increased by 2.6 points (from 7.4 to 10.0, or 22% of the initial 11.8-point decrease), and mean BDI scores increased by 6.5 points (from 8.7 to 15.2, or 26% of the initial 25-point decrease). The investigators identified 7 additional MDD patients, added them to the original 12 patients, and followed the sample of 19 out to 3 and 6 months (54). Analysis of BDI scores in the 19 subjects showed a replication of psilocybin’s acute \n",
+      "start_word": 0,
+      "end_word": 393,
+      "type": "body",
+      "page_num": 8
+    },
+    {
+      "chunk_id": 24,
+      "section": "**Duration of Psilocybin’s Antidepressant Effect**",
+      "text": "There is evidence in the existing literature that psilocybin’s antidepressant effect wanes after 12 weeks or 3 months. For example, in the open-label study of 12 TRD patients conducted by Carhart-Harris et al. (53), psilocybin’s rapid antidepressant effect was demonstrated 1 week after treatment by a mean 11.8-point decrease in QIDS scores and a mean 25-point decrease in Beck’s Depression Inventory (BDI) scores (53). However, signs of potential relapse emerged 3 months later. At the 3-month follow-up, mean QIDS scores increased by 2.6 points (from 7.4 to 10.0, or 22% of the initial 11.8-point decrease), and mean BDI scores increased by 6.5 points (from 8.7 to 15.2, or 26% of the initial 25-point decrease). The investigators identified 7 additional MDD patients, added them to the original 12 patients, and followed the sample of 19 out to 3 and 6 months (54). Analysis of BDI scores in the 19 subjects showed a replication of psilocybin’s acute\n\n _88 Richardson et al._\nantidepressant effect. One week after acute treatment, the 19 showed a mean 22.7-point decrease in BDI scores. However, at the 3-month follow-up, the mean BDI of the 19 subjects increased by 7.4 points (from 11.8 to 19.6, or 32.6% of the 22.7-point decrease), which exceeded the 26% increase observed in the 12 subjects. Six months after treatment, there were signs of impending relapse. At the 6-month follow-up, the mean BDI scores of the 19 subjects increased by 7.8 points (from 11.8 to 19.5, or 34.3% of the initial 22.7-point decrease). Based on the 32.6% and 34.3% increase in mean BDI scores at 3 and 6 months, respectively, further investigation of relapse in TRD following psilocybin-assisted therapy treatment for depression is essential. \n",
+      "start_word": 300,
+      "end_word": 580,
+      "type": "body",
+      "page_num": 8
+    },
+    {
+      "chunk_id": 25,
+      "section": "**Predictors of a Positive Outcome**",
+      "text": "## **Predictors of a Positive Outcome**\n\n Several predictors of positive outcomes following psilocybin-assisted therapy have emerged. Griffiths et al. (44) found that mystical-type experiences on the psilocybin session day mediated the effect of psilocybin dose on therapeutic outcomes on depression and anxiety in cancer patients. Ross et al. (58) also found that psilocybin-induced mystical experience mediated the therapeutic effect of psilocybin on anxiety and depression in cancer patients. A mystical experience during psilocybin-assisted therapy was also a predictor for a positive outcome in short-term (49) and long-term follow-up (50) in patients with MDD. The Mystical Experience Questionnaire (MEQ30) and its subscales used in these studies are established (59) and validated (60) measures used to characterize mystical experience during treatment in order to determine their correlation with outcomes. The therapeutic alliance is also a predictor for a positive outcome during psilocybinassisted therapy for depression (61). The association between therapeutic alliance, as measured with the scores of the Therapeutic Alliance Scale, and response can be measured. In addition, patient-related factors such as expectations and psychological flexibility can be correlated with outcomes. \n",
+      "start_word": 0,
+      "end_word": 179,
+      "type": "body",
+      "page_num": 9
+    },
+    {
+      "chunk_id": 26,
+      "section": "**Limitations of Psilocybin Research**",
+      "text": "## **Limitations of Psilocybin Research**\n\n The evidence supporting the efficacy of psilocybin with assisted therapy in MDD and TRD is promising. Limitations of studies of psilocybin include small sample sizes, difficulty with blinding, expectancy bias, and excluding patients on antidepressants, as well as the use of one versus two doses. The duration of the antidepressant is unclear. Predictors for positive outcomes remain limited. In general, studies of psilocybin for MDD and TRD have excluded participants with a personal or family history of bipolar disorder or psychotic disorders, active suicidal ideation, and major health issues, including hypertension or arrhythmia. Studies have also excluded participants taking psychotropic medications due to potential interactions with psilocybin or a theoretical reduction of response to psilocybin. The most common psychological and physiological side effects experienced during psilocybin-assisted therapy dosing sessions include anxiety, psychological discomfort, transient paranoia, visual distortion, negative emotional state, transient headache, mild nausea, elevated blood pressure, and elevated heart rate (62). Elevations in blood pressure that occurred during sessions resolved without intervention. Other adverse events reported during sessions included mild, controllable muscle motion, tenseness and soreness, chest tightness, vivid dreams, altered body sensation, diarrhea, and sleep disorder (62). In the Compass Pathways study, one participant received rescue medication (lorazepam) for anxiety. There is a theoretical risk of persisting hallucination (e.g., hallucinogen persisting perception disorder) or prolonged psychosis, but these have not been reported in studies to date. \n",
+      "start_word": 0,
+      "end_word": 233,
+      "type": "body",
+      "page_num": 9
+    },
+    {
+      "chunk_id": 27,
+      "section": "**OVERALL CONCLUSIONS**",
+      "text": "## **OVERALL CONCLUSIONS**\n\n This review discusses transformative therapies that represent significant advancements in treatment for PPD, MDD, and TRD. Brexanolone and zuranolone have demonstrated substantial and\n\n _www.annualreviews.org[•] Transformative Therapies for Depression 89_\nrapid antidepressant treatment for women suffering from PPD, a condition with profound ramifications for maternal and infant health. Additionally, psilocybin has shown a significant and rapid reduction in depression. The duration of sustained improvement in depressive symptoms in both MDD and TRD will be clarified with further research. Similarly, predictors for positive outcomes will be elucidated with additional studies. In sum, the transformative therapies of brexanolone, zuranolone, and psilocybin discussed in this article hold tremendous promise for revolutionizing the treatment landscape of depression and improving the lives of those affected by depression. \n",
+      "start_word": 0,
+      "end_word": 124,
+      "type": "body",
+      "page_num": 9
+    },
+    {
+      "chunk_id": 28,
+      "section": "**DISCLOSURE STATEMENT**",
+      "text": "## **DISCLOSURE STATEMENT**\n\n R.P. has received grant funding from the Foundation of Hope, as well as research funding on behalf of the University of North Carolina (UNC) from Sage Therapeutics for investigator-initiated studies. S.M.-B. receives research funding on behalf of UNC for clinical trials sponsored by Sage Therapeutics, Electromedical Products International, and Sirtsei Pharmaceuticals. She serves as a clinical advisor and professional corporation owner for Modern Health, a digital health company. She also serves as a scientific advisor to EmbarkNeuro and Seaport Therapeutics. R.M. has received research funding on behalf of UNC for clinical trials of intranasal esketamine sponsored by Janssen Pharmaceuticals. He has also received travel support from the device manufactures Medtronics and Neuronetics. The other authors are not aware of any affiliations, memberships, funding, or financial holdings that might be perceived as affecting the objectivity of this review. \n",
+      "start_word": 0,
+      "end_word": 140,
+      "type": "body",
+      "page_num": 10
+    },
+    {
+      "chunk_id": 29,
+      "section": "**LITERATURE CITED**",
+      "text": "## **LITERATURE CITED**\n\n 1. Malhi GS, Mann JJ. 2018. Depression. _Lancet_ 392(10161):2299–312\n\n 2. Kupcova I, Danisovic L, Klein M, et al. 2023. Effects of the COVID-19 pandemic on mental health, anxiety, and depression. _BMC Psychol_ . 11:108\n\n 3. Lee B. 2023. National, state-level, and county-level prevalence estimates of adults aged ≥18 years selfreporting a lifetime diagnosis of depression—United States, 2020. _Morb. Mortal. Wkly. Rep._ 72(24):644– 50\n\n 4. Kuehner C. 2017. Why is depression more common among women than among men? _Lancet Psychiatry_ 4(2):146–58\n\n 5. Burt VK, Stein K. 2002. Epidemiology of depression throughout the female life cycle. _J. Clin. Psychiatry_ 63(Suppl. 7):9–15\n\n 6. Schiller CE, Meltzer-Brody S, Rubinow DR. 2015. The role of reproductive hormones in postpartum depression. _CNS Spectr_ . 20(1):48–59\n\n 7. Cui L, Li S, Wang S, et al. 2024. Major depressive disorder: hypothesis, mechanism, prevention and treatment. _Signal Transduct. Target. Ther._ 9(1):30\n\n 8. Mojtabai R, Amin-Esmaeili M, Spivak S, et al. 2021. Remission and treatment augmentation of depression in the United States. _J. Clin. Psychiatry_ 82(6):21m13988\n\n 9. Patterson R, Balan I, Morrow AL, et al. 2024. Novel neurosteroid therapeutics for post-partum depression: perspectives on clinical trials, program development, active research, and future directions. _Neuropsychopharmacology_ 49(1):67–72\n\n 10. Riddle JN, Richardson ER, Nathan MD, et al. 2023. Zuranolone: FAQs for clinicians and patients. _MDedge._ **https://www.mdedge.com/psychiatry/article/265845/major-depressive-disorder/ zuranolone-faqs-clinicians-and-patients**\n\n 11. Gavin NI, Gaynes BN, Lohr KN, et al. 2005. Perinatal depression: a systematic review of prevalence and incidence. _Obstet. Gynecol._ 106(5, Part 1):1071–83\n\n 12. Kim DR, Epperson CN, Weiss AR, et al. 2014. Pharmacotherapy of postpartum depression: an update. _Expert Opin. Pharmacother._ 15(9):1223–34\n\n _90 Richardson et al._\n13. Am. Psychiatr. Assoc. 2022. _Diagnostic and Statistical Manual of Mental Disorders_ . Washington, DC: Am. Psychiatr. Publ. 5th ed., text rev. [DSM-V-TR]\n\n 14. McKee K,Admon LK,Winkelman TNA,et al.2020.Perinatal mood and anxiety disorders,serious mental illness, and delivery-related health outcomes, United States, 2006–2015. _BMC Womens Health_ 20:150 \n",
+      "start_word": 0,
+      "end_word": 311,
+      "type": "body",
+      "page_num": 10
+    },
+    {
+      "chunk_id": 30,
+      "section": "**LITERATURE CITED**",
+      "text": "_90 Richardson et al._\n13. Am. Psychiatr. Assoc. 2022. _Diagnostic and Statistical Manual of Mental Disorders_ . Washington, DC: Am. Psychiatr. Publ. 5th ed., text rev. [DSM-V-TR]\n\n 14. McKee K,Admon LK,Winkelman TNA,et al.2020.Perinatal mood and anxiety disorders,serious mental illness, and delivery-related health outcomes, United States, 2006–2015. _BMC Womens Health_ 20:150\n\n 15. Gentile S, Fusco ML. 2017. Untreated perinatal paternal depression: effects on offspring. _Psychiatry Res_ . 252:325–32\n\n 16. Netsi E, Pearson RM, Murray L, et al. 2018. Association of persistent and severe postnatal depression with child outcomes. _JAMA Psychiatry_ 75(3):247–53\n\n 17. Cox EQ, Sowa NA, Meltzer-Brody SE, et al. 2016. The perinatal depression treatment cascade: baby steps toward improving outcomes. _J. Clin. Psychiatry_ 77(9):20901\n\n 18. Dubber S, Reck C, Müller M, et al. 2015. Postpartum bonding: the role of perinatal depression, anxiety and maternal-fetal bonding during pregnancy. _Arch. Women’s Ment. Health_ 18(2):187–95\n\n 19. Field T.2010.Postpartum depression effects on early interactions,parenting,and safety practices: a review. _Infant Behav. Dev._ 33(1):1–6\n\n 20. Hoffman C, Dunn DM, Njoroge WFM. 2017. Impact of postpartum mental illness upon infant development. _Curr. Psychiatry Rep._ 19(12):100\n\n 21. Jahan N, Went TR, Sultan W, et al. 2021. Untreated depression during pregnancy and its effect on pregnancy outcomes: a systematic review. _Cureus_ 13(8):e17251\n\n 22. Rohr J, Vahidy FS, Bartek N, et al. 2023. Reducing psychiatric illness in the perinatal period: a review and commentary. _World J. Psychiatry_ 13(4):149–60\n\n 23. Fitelson E, Kim S, Baker AS, et al. 2010. Treatment of postpartum depression: clinical, psychological and pharmacological options. _Int. J. Women’s Health_ 3:1–14\n\n 24. Ölmestig TK, Siersma V, Birkmose AR, et al. 2021. Infant crying problems related to maternal depressive and anxiety symptoms during pregnancy: a prospective cohort study. _BMC Pregnancy Childbirth_ 21(1):777\n\n 25. Trost SL, Beauregard JL, Smoots AN, et al. 2021. Preventing pregnancy-related mental health deaths: insights from 14 US maternal mortality review committees, 2008–17. _Health Aff._ 40(10):1551–59 \n",
+      "start_word": 300,
+      "end_word": 609,
+      "type": "body",
+      "page_num": 10
+    },
+    {
+      "chunk_id": 31,
+      "section": "**LITERATURE CITED**",
+      "text": "24. Ölmestig TK, Siersma V, Birkmose AR, et al. 2021. Infant crying problems related to maternal depressive and anxiety symptoms during pregnancy: a prospective cohort study. _BMC Pregnancy Childbirth_ 21(1):777\n\n 25. Trost SL, Beauregard JL, Smoots AN, et al. 2021. Preventing pregnancy-related mental health deaths: insights from 14 US maternal mortality review committees, 2008–17. _Health Aff._ 40(10):1551–59\n\n 26. Pinna G. 2020. Allopregnanolone, the neuromodulator turned therapeutic agent: thank you, next? _Front. Endocrinol._ 11:236. Corrigendum. 2020. _Front. Endocrinol._ 11:507\n\n 27. Beall D, Reichstein T. 1938. Isolation of progesterone and allopregnanolone from the adrenal. _Nature_ 142(3593):479\n\n 28. Uzunov DP, Cooper TB, Costa E, et al. 1996. Fluoxetine-elicited changes in brain neurosteroid content measured by negative ion mass fragmentography. _PNAS_ 93(22):12599–604\n\n 29. Concas A, Mostallino MC, Porcu P, et al. 1998. Role of brain allopregnanolone in the plasticity of γ- aminobutyric acid type A receptor in rat brain during pregnancy and after delivery. _PNAS_ 95(22):13284– 89\n\n 30. Walton N, Maguire J. 2019. Allopregnanolone-based treatments for postpartum depression: Why/how do they work? _Neurobiol. Stress_ 11:100198\n\n 31. Bhatti NA, Jobilal A, Asif K, et al. 2023. Exploring novel therapeutic approaches for depressive disorders: the role of allopregnanolone agonists. _Cureus_ 15(8):e44038\n\n 32. Kanes S, Colquhoun H, Gunduz-Bruce H, et al. 2017. Brexanolone (SAGE-547 injection) in post-partum depression: a randomised controlled trial. _Lancet_ 390(10093):480–89\n\n 33. Meltzer-Brody S, Colquhoun H, Riesenberg R, et al. 2018. Brexanolone injection in post-partum depression: two multicentre, double-blind, randomised, placebo-controlled, phase 3 trials. _Lancet_ 392(10152):1058–70\n\n 34. Martinez Botella G, Salituro FG, Harrison BL, et al. 2017. Neuroactive steroids. 2. 3α-Hydroxy-3βmethyl-21-(4-cyano-1 _H_ -pyrazol-1[′] -yl)-19-nor-5β-pregnan-20-one (SAGE-217): a clinical next generation neuroactive steroid positive allosteric modulator of the (γ-aminobutyric acid)A receptor. _J. Med. Chem._ 60(18):7810–19\n\n 35. Sage Ther. 2019. _Sage Therapeutics announces SAGE-217 meets primary and secondary endpoints in phase 3 clinical trial in postpartum depression_ . Press Release, Jan. 7. **https://investor.sagerx.com/news-releases/ news-release-details/sage-therapeutics-announces-sage-217-meets-primary-and-secondary** \n",
+      "start_word": 600,
+      "end_word": 907,
+      "type": "body",
+      "page_num": 10
+    },
+    {
+      "chunk_id": 32,
+      "section": "**LITERATURE CITED**",
+      "text": "34. Martinez Botella G, Salituro FG, Harrison BL, et al. 2017. Neuroactive steroids. 2. 3α-Hydroxy-3βmethyl-21-(4-cyano-1 _H_ -pyrazol-1[′] -yl)-19-nor-5β-pregnan-20-one (SAGE-217): a clinical next generation neuroactive steroid positive allosteric modulator of the (γ-aminobutyric acid)A receptor. _J. Med. Chem._ 60(18):7810–19\n\n 35. Sage Ther. 2019. _Sage Therapeutics announces SAGE-217 meets primary and secondary endpoints in phase 3 clinical trial in postpartum depression_ . Press Release, Jan. 7. **https://investor.sagerx.com/news-releases/ news-release-details/sage-therapeutics-announces-sage-217-meets-primary-and-secondary**\n\n 36. Deligiannidis KM, Meltzer-Brody S, Gunduz-Bruce H, et al. 2021. Effect of zuranolone vs placebo in postpartum depression: a randomized clinical trial. _JAMA Psychiatry_ 78(9):951–59\n\n _www.annualreviews.org[•] Transformative Therapies for Depression 91_\n37. Deligiannidis KM, Meltzer-Brody S, Maximos B, et al. 2023. Zuranolone for the treatment of postpartum depression. _Am. J. Psychiatry._ 180(9):668–75\n\n 38. Sage Ther. 2024. _Label: ZULRESSO- brexanolone injection, solution_ . DailyMed, Natl. Libr. Med., Natl. Inst. Health, Bethesda, MD, updated July 17. **https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm? setid=b40f3b2a-1859-4ed6-8551-444300806d13**\n\n 39. Wald J, Henningsson A, Hanze E, et al. 2022. Allopregnanolone concentrations in breast milk and plasma from healthy volunteers receiving brexanolone injection, with population pharmacokinetic modeling of potential relative infant dose. _Clin. Pharmacokinet._ 61(9):1307–19\n\n 40. Howard MM, Diaz Z, Battle CL. 2022. Implementation of a hospital-based brexanolone program. _J. Psychiatr. Pract._ 28(5):404–8\n\n 41. Biogen MA. 2024. _Label: ZURZUVAE- zuranolone capsule_ . DailyMed, Natl. Libr. Med., Natl. Inst. Health, Bethesda, MD, updated July 9. **https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid= f18e53b0-d0bb-422d-8de7-ab64b7292b29**\n\n 42. LactMed. 2006. _Zuranolone_ . Drugs Lact. Database, Natl. Libr. Med., Natl. Inst. Health, Bethesda, MD, updated July 15, 2024\n\n 43. LactMed. 2006. _Brexanolone_ . Drugs Lact. Database, Natl. Libr. Med., Natl. Inst. Health, Bethesda, MD, updated Aug. 15, 2023\n\n 44. Griffiths RR, Johnson MW, Carducci MA, et al. 2016. Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer: A randomized double-blind trial. _J. Psychopharmacol. Oxf. Engl._ 30(12):1181–97\n\n 45. Meara K. 2024. Psilocybin analog for treatment of depression receives FDA breakthrough therapy designation. _Drug Topics_ . **https://www.drugtopics.com/view/psilocybin-analog-for-treatment-ofdepression-receives-fda-breakthrough-therapy-designation** \n",
+      "start_word": 900,
+      "end_word": 1210,
+      "type": "body",
+      "page_num": 10
+    },
+    {
+      "chunk_id": 33,
+      "section": "**LITERATURE CITED**",
+      "text": "44. Griffiths RR, Johnson MW, Carducci MA, et al. 2016. Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer: A randomized double-blind trial. _J. Psychopharmacol. Oxf. Engl._ 30(12):1181–97\n\n 45. Meara K. 2024. Psilocybin analog for treatment of depression receives FDA breakthrough therapy designation. _Drug Topics_ . **https://www.drugtopics.com/view/psilocybin-analog-for-treatment-ofdepression-receives-fda-breakthrough-therapy-designation**\n\n 46. Dold M, Kasper S. 2017. Evidence-based pharmacotherapy of treatment-resistant unipolar depression. _Int. J. Psychiatry Clin. Pract._ 21(1):13–23\n\n 47. Rush AJ, Trivedi MH, Wisniewski SR, et al. 2006. Acute and longer-term outcomes in depressed outpatients requiring one or several treatment steps: a STAR[∗] D report. _Am. J. Psychiatry_ 163(11):1905–17\n\n 48. Keller MB, Shapiro RW, Lavori PW, et al. 1982. Recovery in major depressive disorder: analysis with the life table and regression models. _Arch. Gen. Psychiatry_ 39(8):905–10\n\n 49. Davis AK, Barrett FS, May DG, et al. 2021. Effects of psilocybin-assisted therapy on major depressive disorder: a randomized clinical trial. _JAMA Psychiatry_ 78(5):481–89\n\n 50. Gukasyan N, Davis AK, Barrett FS, et al. 2022. Efficacy and safety of psilocybin-assisted treatment for major depressive disorder: prospective 12-month follow-up. _J. Psychopharmacol._ 36(2):151–58\n\n 51. Raison CL, Sanacora G, Woolley J, et al. 2023. Single-dose psilocybin treatment for major depressive disorder: a randomized clinical trial. _JAMA_ 330(9):843–53\n\n 52. Carhart-Harris R, Giribaldi B, Watts R, et al. 2021. Trial of psilocybin versus escitalopram for depression. _N. Engl. J. Med._ 384(15):1402–11\n\n 53. Carhart-Harris RL, Bolstridge M, Rucker J, et al. 2016. Psilocybin with psychological support for treatment-resistant depression: an open-label feasibility study. _Lancet Psychiatry_ 3(7):619–27\n\n 54. Carhart-Harris RL, Bolstridge M, Day CMJ, et al. 2018. Psilocybin with psychological support for treatment-resistant depression: six-month follow-up. _Psychopharmacology_ 235(2):399–408\n\n 55. Compass Pathw.2024.Therapist training. _Compass Pathways_ . **https://compasspathways.com/our-work/ therapist-training/**\n\n 56. Goodwin GM, Aaronson ST, Alvarez O, et al. 2022. Single-dose psilocybin for a treatment-resistant episode of major depression. _N. Engl. J. Med._ 387(18):1637–48 \n",
+      "start_word": 1200,
+      "end_word": 1503,
+      "type": "body",
+      "page_num": 10
+    },
+    {
+      "chunk_id": 34,
+      "section": "**LITERATURE CITED**",
+      "text": "54. Carhart-Harris RL, Bolstridge M, Day CMJ, et al. 2018. Psilocybin with psychological support for treatment-resistant depression: six-month follow-up. _Psychopharmacology_ 235(2):399–408\n\n 55. Compass Pathw.2024.Therapist training. _Compass Pathways_ . **https://compasspathways.com/our-work/ therapist-training/**\n\n 56. Goodwin GM, Aaronson ST, Alvarez O, et al. 2022. Single-dose psilocybin for a treatment-resistant episode of major depression. _N. Engl. J. Med._ 387(18):1637–48\n\n 57. Goodwin GM, Croal M, Feifel D, et al. 2023. Psilocybin for treatment resistant depression in patients taking a concomitant SSRI medication. _Neuropsychopharmacology_ 48(10):1492–99\n\n 58. Ross S, Bossis A, Guss J, et al. 2016. Rapid and sustained symptom reduction following psilocybin treatment for anxiety and depression in patients with life-threatening cancer: a randomized controlled trial. _J. Psychopharmacol._ 30(12):1165–80\n\n 59. Barrett FS, Johnson MW, Griffiths RR. 2015. Validation of the revised Mystical Experience Questionnaire in experimental sessions with psilocybin. _J. Psychopharmacol._ 29(11):1182–90\n\n _92 Richardson et al._\n60. Maclean KA, Leoutsakos J-MS, Johnson MW, et al. 2012. Factor analysis of the Mystical Experience Questionnaire: a study of experiences occasioned by the hallucinogen psilocybin. _J. Sci. Study Relig._ 51(4):721–37\n\n 61. Murphy R, Kettner H, Zeifman R, et al. 2021. Therapeutic alliance and rapport modulate responses to psilocybin assisted therapy for depression. _Front. Pharmacol._ 12:788155\n\n 62. Usona Inst. 2021. _Investigator’s brochure for psilocybin_ . Investig. Broch. 129532, Usona Inst., Madison, WI\n\n _www.annualreviews.org[•] Transformative Therapies for Depression 93_ \n",
+      "start_word": 1500,
+      "end_word": 1717,
+      "type": "body",
+      "page_num": 10
+    }
+  ],
+  "footnote_chunks": [],
+  "image_chunks": []
+}

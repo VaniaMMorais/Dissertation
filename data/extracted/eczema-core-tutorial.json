@@ -1,0 +1,563 @@
+{
+  "metadata": {
+    "filename": "eczema-core-tutorial.pdf",
+    "filepath": "../data/PDFs/eczema-core-tutorial.pdf",
+    "title": "",
+    "author": "",
+    "total_pages": 24,
+    "doi": ""
+  },
+  "document_type": "report",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "section": "Document Start",
+      "text": "_Number_ **1** _in a series of_ **7** \n",
+      "start_word": 0,
+      "end_word": 7,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 1,
+      "section": "**C O R E  T U T O R I A L S  I N  D E R M A T O L O G Y  F O R  P R I M A R Y  C A R E**",
+      "text": "## **C O R E T U T O R I A L S I N D E R M A T O L O G Y F O R P R I M A R Y C A R E**\n\n > **T H E E C Z E M A S**\n\n **‘ O L D F A I T H F U L ’ G E Y S E R O F N A P A V A L L E Y , C A L I F O R N I A**\n\n **U P D A T E D C H A P T E R S E P T E M B E R 2 0 1 7**\n\n _From Greek:_ ‘Eczema’ **to boil out**\n**C OR E TU TOR IAL S I N D E RM A T O L O GY F O R P RI M A RY C A RE**\n\n **A U T H O R : D R B R I A N M A L C O L M ,** BSc, MBChB, MA, DRCOG, DPD, DCH, Dip Derm (Glasg), FRCGP. COMMUNITY DERMATOLOGIST, DEVON AND DORSET. ASSOCIATE SEPCIALIST NORTH DEVON HEALTHCARE TRUST.\n\n **DIAG N OS IS PR E QU E L : A S Y S T E M A T I C A P P RO A C H T O DIAG N OS IN G S KI N C O N D I T I O N S**\n\n **C H APTE R ON E: TH E E C Z E M A S**\n\n **C H APTE R TWO : P S O RI A S I S**\n\n **C H APTE R TH R E E : S KI N I N F E C T I O N A N D I N F E S T A T I O N C H APTE R F OU R : S KI N M A L I GN A N C Y** \n",
+      "start_word": 0,
+      "end_word": 331,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 2,
+      "section": "**C O R E  T U T O R I A L S  I N  D E R M A T O L O G Y  F O R  P R I M A R Y  C A R E**",
+      "text": "**C H APTE R TH R E E : S KI N I N F E C T I O N A N D I N F E S T A T I O N C H APTE R F OU R : S KI N M A L I GN A N C Y**\n\n\n\n\n\n **C H APTE R F IV E : L E G U L C E RS**\n\n **C H APTE R S IX : AC N E**\n\n **C H APTE R S E V E N : U R TIC AR IA AN D RE L A T E D A L L E RGI C D I S O RD E RS**\n\n **TE S TS AN D TE C H N I Q U E S – ‘ W H I C H , W H E N A N D W H Y ? ’**\n\n SPONSORED BY DERMAL LABORATORIES, TATMORE PLACE, GOSMORE, HITCHIN, HERTS SG4 7QR, UK. TEL: (01462) 458866. WWW.DERMAL.CO.UK\n**CO NTENTS**\n\n\n\n\n\n |**C H APTE R ON E : TH E E C Z E M A S**||\n|---|---|\n|At o p ic Eczem a|**1**|\n|Fir s t C o n s u lt a t ion|**3**|\n|M a n a g em en t Princ i pl e s|**5**|\n|Dis cu s s io n P oint s|**9**|\n|I n v es t ig a t io n in A t opi c E c z e m a|**1 1**|\n|O t h er Eczem as|**1 3**|\n|**C R ITE R IA F OR RE F E RRA L**|**1 9**|\n|**R E F E R E N C E S**|**2 0**|\n\n\n**CHAPTER 1 TH E E C Z E M AS**\n\n\n\n\n\n Eczema is an all embracing term for a heterogeneous group of related dermatoses. The terms eczema and dermatitis are often confused but are wholly interchangeable. However, occupational “dermatitis” still seems to equate with the spectre of compensation! \n",
+      "start_word": 300,
+      "end_word": 626,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 3,
+      "section": "**C O R E  T U T O R I A L S  I N  D E R M A T O L O G Y  F O R  P R I M A R Y  C A R E**",
+      "text": "|**R E F E R E N C E S**|**2 0**|\n\n\n**CHAPTER 1 TH E E C Z E M AS**\n\n\n\n\n\n Eczema is an all embracing term for a heterogeneous group of related dermatoses. The terms eczema and dermatitis are often confused but are wholly interchangeable. However, occupational “dermatitis” still seems to equate with the spectre of compensation!\n\n It is important to define which type of eczema we are dealing with, as there are several major distinct patterns, although these often coexist/overlap. Treatment plans, though, may be very different. We will deal with the most common categories of eczema, namely atopic, seborrhoeic, discoid, contact, varicose, asteatotic and pompholyx. \n",
+      "start_word": 600,
+      "end_word": 708,
+      "type": "body",
+      "page_num": 1
+    },
+    {
+      "chunk_id": 4,
+      "section": "**AT O P IC ECZEMA**",
+      "text": "## **AT O P IC ECZEMA**\n\n\n\n\n\n Atopy is a syndrome of allergic hyper-reactivity. The clinical manifestations are asthma, allergic rhinitis and eczema. Atopic eczema is from the Greek a-topos, meaning alien, and eczema, meaning to boil out. It is a very significant problem involving up to 15 – 20% of children by the age of 7 and 2 – 10% of adults. Consequently, the physician is very often not only dealing with the patient but the parents as well! Optimistically, however, the majority of childhood eczema improves or resolves by adulthood with reported clearance rates of 65% by age 7 and 74% by age 16. There remains, however, an estimated 11,000 adults with significant atopic eczema in the UK. It has been recently recognised that a small but significant percentage of between 1-3% of new diagnoses of primary atopic eczema are elderly. Eczema is also responsible for 10 – 20% of referrals to dermatology out-patient departments and comprises 30% of all dermatological consultations. There is evidence to support an increasing prevalence in primary care in the last 30 years with parallel increases in asthma and allergic rhinitis. A family history of atopy is obtainable in 70% of cases.\n\n\n\n\n\n **1**\nThe clinical diagnosis of atopic eczema is not usually difficult to make. For the purists the absolute diagnostic criteria are as follows: \n",
+      "start_word": 0,
+      "end_word": 221,
+      "type": "body",
+      "page_num": 4
+    },
+    {
+      "chunk_id": 5,
+      "section": "**DIAGNOSTI C  C R I T E R I A[*]**",
+      "text": "## **DIAGNOSTI C C R I T E R I A[*]**\n\n Must have an itchy skin condition plus\n\n - 3 or more of the following:\n\n - [visible flexural eczema]\n\n - [personal history of flexural dermatitis]\n\n - [personal history of dry skin in the last 12 months]\n\n - [personal history of asthma or allergic rhinitis (or ]\n\n - history of atopic disease in a first degree relative) •[onset of signs and symptoms under the age ] of 2 years\n\n - Ref. NICE Guidelines “Atopic Eczema in Children” Dec 2007\n\n\n\n\n\n Anecdotally, one tip to avoid misdiagnosis is “If it ain’t itchy, it ain’t eczema.” Be aware also that in dark skinned ethnic groups, eczema can most commonly affect extensor surfaces or present in a discoid or follicular pattern. Post inflammatory pigmentary disturbance is also a much greater issue.\n\n\n\n\n\n **2**\n**CHAPTE R 1**\n\n **TH E E C Z E M AS**\n\n The aetiology of eczema, however, remains unclear but is generally considered to be a complex interplay between immunological, genetic and environmental factors. However a key factor appears to be a deranged epidermal barrier function due to malfunction of the protein, filaggrin. This protein acts in analogous building terms to the mortar that holds the bricks together; if it is deficient, the result is the equivalent of a dry stone wall with cracks and imperfections allowing the ingress of exogenous agents such as allergens and micro-organisms triggering a pathological immune cascade. This “building bricks” analogy can often be helpful in explanation of the vital role of emollients as supplementary “mortar” glueing the epidermal “bricks” together!\n\n\n\n\n\n **FI R ST CONSULTATI ON**\n\n\n\n\n\n When the patient/family first present I have found, despite many years in practice, it is virtually impossible to cover management principles in less than half an hour, and yet we continue to work in systems both in primary and secondary care that expect us to do so in half the time or less! Nurse support has enormous potential in this area although unfortunately Health Visitors appear to be becoming increasingly peripheral in General Practice. \n",
+      "start_word": 0,
+      "end_word": 341,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 6,
+      "section": "**DIAGNOSTI C  C R I T E R I A[*]**",
+      "text": "When the patient/family first present I have found, despite many years in practice, it is virtually impossible to cover management principles in less than half an hour, and yet we continue to work in systems both in primary and secondary care that expect us to do so in half the time or less! Nurse support has enormous potential in this area although unfortunately Health Visitors appear to be becoming increasingly peripheral in General Practice.\n\n The key issues at the first consultation are:\n\n **1 . E S T A B LI S H** there is no ‘cure’ for atopic dermatitis but the outlook should remain upbeat and optimistic. Treatment is readily available and if properly administered can hugely ameliorate the quality of life of patient and parent alike. There are a few broadly predictive factors. The previous family history may give some insight into the suspected severity. Early onset (under 3 months of age) and the presence of ‘reverse pattern’ eczema where the involvement of extensor rather than flexor surfaces predominate, are both said to be associated with a poorer prognosis. The principle of management should be “acceptable” quality of life until remission.\n\n **2 . A S S E S S** the present clinical picture. Severity can be very variable between individuals and also within the same individual. How widespread is the eczema? Is there lichenification (thickening of the skin)? Are there exacerbating/complicating exogenous factors? Is there overt bacterial or viral infection? Is there evidence of infestation,\n\n **3**\nespecially pediculosis and scabies which can both lead to secondary eczemas? Beware also the presentation of ‘unilateral’ eczema, as this may be fungally mediated. Diagnosis can be further complicated by the misapplication of topical steroids altering the morphology, so called ‘tinea incognito’. Assessment of the social and psychological implications must also be made. \n",
+      "start_word": 300,
+      "end_word": 600,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 7,
+      "section": "**DIAGNOSTI C  C R I T E R I A[*]**",
+      "text": "especially pediculosis and scabies which can both lead to secondary eczemas? Beware also the presentation of ‘unilateral’ eczema, as this may be fungally mediated. Diagnosis can be further complicated by the misapplication of topical steroids altering the morphology, so called ‘tinea incognito’. Assessment of the social and psychological implications must also be made.\n\n A holistic assessment chart is published within the NICE guidelines “Atopic eczema in children” Dec 2007 within the section on Key Priorities for Implementation.\n\n **3 . CLA R I F Y** previous and present treatments, both conventional and complementary, making very specific enquiries into quantities of topical preparations used. A lack of understanding of emollients by doctors and patients alike often results in their underusage.\n\n **4 . A CK NO W LE D G E** empathetically how difficult it is to have a young child with significant eczema – the distress, the sleep depravation, the frustration, and the despair! Children with significant atopic dermatitis put more of a strain on family dynamics than most health professionals first realise.\n\n **5 . A CCE P T** the genuine fears and concerns about standard treatments with steroids/ antibiotics, counteract scare mongering and misinformation, and firmly re-establish that these are the fundamental cornerstones of both safe and effective treatment at the present time if used under the proper guidance. Indeed, it is now almost more common to observe under-use than abuse of steroid preparations.\n\n **6 . E NCO UR A G E** and facilitate the adoption of self help as a principle of management for any chronic condition by education of the patient/parent. Reinforce this with written material, software programmes, local and national self help groups notably the most excellent National Eczema Society, and facilitating access to nurse-led clinics, if such are readily but all too rarely available. Information should be factual, not controversial and, ideally, available in different languages if applicable. As with, for example, asthma and diabetes mellitus, the patient/parent must have a good understanding of maintaining satisfactory control, but also how to recognise deterioration and apply strategies for intervention and know when to seek more expert help. Introduce the “toolbox” concept in which the patient/parent has a number of treatment options open to them at home and a clear understanding of what to use in what circumstances. \n",
+      "start_word": 600,
+      "end_word": 979,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 8,
+      "section": "**DIAGNOSTI C  C R I T E R I A[*]**",
+      "text": "**6 . E NCO UR A G E** and facilitate the adoption of self help as a principle of management for any chronic condition by education of the patient/parent. Reinforce this with written material, software programmes, local and national self help groups notably the most excellent National Eczema Society, and facilitating access to nurse-led clinics, if such are readily but all too rarely available. Information should be factual, not controversial and, ideally, available in different languages if applicable. As with, for example, asthma and diabetes mellitus, the patient/parent must have a good understanding of maintaining satisfactory control, but also how to recognise deterioration and apply strategies for intervention and know when to seek more expert help. Introduce the “toolbox” concept in which the patient/parent has a number of treatment options open to them at home and a clear understanding of what to use in what circumstances.\n\n **7 . A R R A NG E** appropriate investigation and follow up.\n\n TOP TIP 1: I often find the analogy of dealing with eczema is like dealing with fire when explaining management principles to patients/parents. There is a preventative strategy with Total Emollient Therapy and then the need for intervention when the fire (=itch) is alive. Treatments, mainly topical steroid preparations, are the equivalent of “fire extinguishers”. These can be more or less powerful but you may not necessarily need to use “fire extinguishers” when the “fire” is out! This analogy can provide some protection against the routine and potential overuse of steroids.\n\n **4**\n**CHAPTER 1**\n\n **TH E E C Z E M AS** \n",
+      "start_word": 900,
+      "end_word": 1161,
+      "type": "body",
+      "page_num": 5
+    },
+    {
+      "chunk_id": 9,
+      "section": "**M ANA G EMENT PR I NCI PLES**",
+      "text": "## **M ANA G EMENT PR I NCI PLES**\n\n The skin should form an effective barrier to the environment. This is compromised in atopic eczema due to, what I explain rather simplistically, as a reduction of natural moisturisers, leading to dryness, microfissuring and the ingress of contaminants and allergens, ‘dirt and germs’, resulting in inflammation and infection and the inevitable consequence of the itch/scratch/damage cycle.\n\n\n\n\n\n The patient/parent must be able to confidently recognise the stage of the eczema. Is it dryness alone, dryness plus inflammation, dryness, inflammation and infection? (See slides on page 1). It has been recognised as long ago as 1955 that atopic eczema improves with antibiotics even in the absence of overt infection. Skin bacteria, most particularly _Staphylococcus aureus_ , are present in much greater numbers on atopic skin. _Staphylococcus_ is **not** a customary member of the cutaneous microflora with the exception of the perineum. The bacteria provoke an immune mediated response due to the production of so called ‘super antigens’. These are proteins that act as potent immunostimulators releasing a cascade of inflammatory mediators into the skin.\n\n\n\n\n\n **5**\nA stepped approach to management is published in the NICE guidelines “Atopic eczema in children” Dec 2007.\n\n I try to illustrate the principles of eczema management to patients with the use of a simple stepwise diagram as follows:\n\n\n\n\n\n The patient should understand that they are **always** on Step 1, practising regular moisturisation and soap avoidance/soap substitutes (=Total Emollient Therapy). If there is deterioration, they should ascend the steps fairly rapidly every few days until the eczema comes under control again. Often there is resistance to moving beyond Step 2 but a short period using a more potent steroid plus or minus an antibiotic will often rapidly produce such an improvement that the patient can return to moisturisers alone and paradoxically reduce their overall steroid use in the longer term. There are a number of “at risk” sites for topical steroid use, peri-orbital and flexural areas in adults and additionally facial skin in babies and infants. For children from 2 years upwards, the relatively new class of topical calcineurin inhibitors, tacrolimus and pimecrolimus can be introduced. \n",
+      "start_word": 0,
+      "end_word": 357,
+      "type": "body",
+      "page_num": 8
+    },
+    {
+      "chunk_id": 10,
+      "section": "**M ANA G EMENT PR I NCI PLES**",
+      "text": "The patient should understand that they are **always** on Step 1, practising regular moisturisation and soap avoidance/soap substitutes (=Total Emollient Therapy). If there is deterioration, they should ascend the steps fairly rapidly every few days until the eczema comes under control again. Often there is resistance to moving beyond Step 2 but a short period using a more potent steroid plus or minus an antibiotic will often rapidly produce such an improvement that the patient can return to moisturisers alone and paradoxically reduce their overall steroid use in the longer term. There are a number of “at risk” sites for topical steroid use, peri-orbital and flexural areas in adults and additionally facial skin in babies and infants. For children from 2 years upwards, the relatively new class of topical calcineurin inhibitors, tacrolimus and pimecrolimus can be introduced.\n\n Their origins were derived from Japanese mountain soil fungus! There is increasing longitudinal data underlining the safety of these preparations although warning must be given regarding the initial but usually transient burning sensation that these products can produce. Tacrolimus is available in an ointment in 2 strengths 0.03 and 0.1%; it is a more potent preparation than pimecrolimus which is available in a cream formulation. Twice weekly maintenance regimes are becoming fashionable (and licensed).\n\n Depending on the motivation and insight of the patient/parent, it is perfectly reasonable for the doctor to provide the medications for self management up to and sometimes including Step 4. I would equate the use of the most potent steroids with 2nd line treatment. This ‘broad brush’ management plan is not always applicable, but it is a useful care model for the majority in my experience. We must give clear and precise guidelines about the use of topical treatments. Terms such as liberally, frequently and, most particularly, **sparingly** , should have no place in our discussions. \n",
+      "start_word": 300,
+      "end_word": 607,
+      "type": "body",
+      "page_num": 8
+    },
+    {
+      "chunk_id": 11,
+      "section": "**M ANA G EMENT PR I NCI PLES**",
+      "text": "Depending on the motivation and insight of the patient/parent, it is perfectly reasonable for the doctor to provide the medications for self management up to and sometimes including Step 4. I would equate the use of the most potent steroids with 2nd line treatment. This ‘broad brush’ management plan is not always applicable, but it is a useful care model for the majority in my experience. We must give clear and precise guidelines about the use of topical treatments. Terms such as liberally, frequently and, most particularly, **sparingly** , should have no place in our discussions.\n\n **6**\n**CHAPTER 1 TH E E C Z E M AS**\n\n\n\n\n\n Too often, these terms reflect our ignorance; too often topical treatments are provided in ‘homeopathic’ quantities. For whole body application, adults require approximately 500 ml and children 250 ml weekly. For adults ‘whole body’ cover requires 30g of ointment or 20g of cream for a single application. For topical steroid application, the concept of the ‘finger tip’ unit is now widely understood and utilised.\n\n There are various protocols which have their disciples such as the “weekender” regime where a more potent topical steroid might be used for 2 days in each week in order to try and gain a balance between efficacy and safety.\n\n We do not expect our patients to troop back to the surgery every week or so for maintenance drugs for blood pressure or diabetes, and nor should they have to for their topical medications. Suboptimal prescribing leads to embarrassment and disillusionment, resulting in suboptimal clinical outcomes. For those patients who pay for their scripts, the benefit of prepaid prescriptions should be calculated.\n\n **7** \n",
+      "start_word": 600,
+      "end_word": 874,
+      "type": "body",
+      "page_num": 8
+    },
+    {
+      "chunk_id": 12,
+      "section": "**IN F E C TION  AN D A T O P I C  E C Z E M A**",
+      "text": "## **IN F E C TION AN D A T O P I C E C Z E M A**\n\n\n\n\n\n The most common cause for sudden deterioration in atopic eczema is infection, although this may often not be overt. An extended course of anti-staphylococcal antibiotics is always a useful strategy to consider. Most community acquired _Staphylococcus aureus_ remains consistently sensitive to flucloxacillin. Skin and nose swabs are not routinely necessary to check on sensitivities. Flucloxacillin, unfortunately, is an unpopular paediatric antibiotic due to its bitter taste. It is also much more expensive in its liquid form, cost effective alternatives are erythromycin and cefradine.\n\n Topical antibiotics/antiseptics in combination with topical steroids e.g. Fucidin H and Fucibet, have a place in the treatment of localised infection, although topical fusidic acid is relatively expensive. In addition, there have been some recent reports of locally increasing staphylococcal resistance to fusidic acid. The extent and significance of this remains as yet unclear. Despite wider usage, resistance to topical mupirocin remains relatively low.\n\n I illustrate to the patient the rationale of using antibiotics/antimicrobials with the anecdote of ‘weeds in the garden’; like bacteria on atopic skin, weeds can thrive under certain environmental conditions. Although you can never rid your garden of weeds, a good dose of weed killer can work wonders in the short to medium term!\n\n This would be a logical role for the use of antimicrobial emollients although as yet hard evidence is not available as how best to use these products.\n\n **8**\n**CHAPTER 1**\n\n **TH E E C Z E M AS** \n",
+      "start_word": 0,
+      "end_word": 259,
+      "type": "body",
+      "page_num": 11
+    },
+    {
+      "chunk_id": 13,
+      "section": "**DISCUSSI ON PO I NTS**",
+      "text": "## **DISCUSSI ON PO I NTS**\n\n There are a number of miscellaneous discussion points relating to the management of eczema.\n\n **1 ) US E O F A NT IH I S T AM I N ES** – histamine is not the dominant mediator of itch in eczema but sedative antihistamines remain useful for short term use in children whose sleep patterns are significantly disturbed. Habituation however, develops quickly and these drugs should not be used for more than a few days at a time.\n\n\n\n\n\n **2 ) D I E T A R Y M A NI PU LAT I ON** – atopic individuals are at higher risk of food allergy/intolerance. This is an issue that is invariably raised but is of exaggerated value in the absence of a firm history of food reactions, especially immediate hypersensitivity reactions. Dietary manipulation is most helpful in the under 1 age group and it is much less likely to help in children of 4 years or over. There is no reliable method, however, of selecting those children statistically most likely to benefit. The foods most commonly indicated in food allergy are dairy produce, beef, eggs, chicken, additives, fish, wheat and nuts. Empirical exclusion diets have demonstrated 30 – 40% improvement over 3 – 4 weeks with strict adherence. Dietary manipulation, however, should be carried out under expert supervision and the concept of challenge/rechallenge understood by the patient/parent. In young children, input from a dietician is required. We must always remain true to the principle that treatment should never be worse than the condition! There is an increasingly accepted theory, the “dual allergen hypothesis” that atopic eczema may not be caused by food allergy but that such allergies develop as a consequence of sensitisation through the skin itself and indeed the development of tolerance subsequently is through oral exposure mediated through the gut. \n",
+      "start_word": 0,
+      "end_word": 308,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 14,
+      "section": "**DISCUSSI ON PO I NTS**",
+      "text": "**2 ) D I E T A R Y M A NI PU LAT I ON** – atopic individuals are at higher risk of food allergy/intolerance. This is an issue that is invariably raised but is of exaggerated value in the absence of a firm history of food reactions, especially immediate hypersensitivity reactions. Dietary manipulation is most helpful in the under 1 age group and it is much less likely to help in children of 4 years or over. There is no reliable method, however, of selecting those children statistically most likely to benefit. The foods most commonly indicated in food allergy are dairy produce, beef, eggs, chicken, additives, fish, wheat and nuts. Empirical exclusion diets have demonstrated 30 – 40% improvement over 3 – 4 weeks with strict adherence. Dietary manipulation, however, should be carried out under expert supervision and the concept of challenge/rechallenge understood by the patient/parent. In young children, input from a dietician is required. We must always remain true to the principle that treatment should never be worse than the condition! There is an increasingly accepted theory, the “dual allergen hypothesis” that atopic eczema may not be caused by food allergy but that such allergies develop as a consequence of sensitisation through the skin itself and indeed the development of tolerance subsequently is through oral exposure mediated through the gut.\n\n **3 ) CHI NE S E HE R B AL M EDI CI N E** – this is well documented to have had a beneficial effect in some patients with atopic eczema. The present standpoint, however, is risk outweighs benefit. Chinese herbal medicine practitioners are unregulated, as are the preparations themselves. Steroid derivatives have not infrequently been isolated. Hepatic toxicity has been reported and implicated in a few fatalities. The medication is universally unpalatable if ingested. Avoidance must presently be advocated! \n",
+      "start_word": 300,
+      "end_word": 605,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 15,
+      "section": "**DISCUSSI ON PO I NTS**",
+      "text": "**3 ) CHI NE S E HE R B AL M EDI CI N E** – this is well documented to have had a beneficial effect in some patients with atopic eczema. The present standpoint, however, is risk outweighs benefit. Chinese herbal medicine practitioners are unregulated, as are the preparations themselves. Steroid derivatives have not infrequently been isolated. Hepatic toxicity has been reported and implicated in a few fatalities. The medication is universally unpalatable if ingested. Avoidance must presently be advocated! \n",
+      "start_word": 600,
+      "end_word": 681,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 16,
+      "section": "**4 )  O T HE R  CO M PLE M EN T AR Y T H ER API ES** – without appearing cynical,",
+      "text": "## **4 ) O T HE R CO M PLE M EN T AR Y T H ER API ES** – without appearing cynical,\n\n homeopathy, acupuncture, herbalism, reflexology etc, have **in my personal experience** been very disappointing. Most improvement seen is temporary and is probably explained by the natural refractory pattern of the condition. There is interesting work going on with behavioural modification but tangible results are not yet to hand. This concept of teaching people not to scratch when itching is a difficult one for me, especially in the context of 2 quotations that have been attributed to King James VI and Oscar Wilde, respectively.\n\n _‘The itch is such an uncommon pleasure, it should be denied to the common man!’ ‘The only way to get rid of temptation is to give in to it!’_\n\n **9**\n**5 ) W E T W R A P B A N DAGI N G** – this is a technique going through a renaissance – a sort of ‘imposed’ behaviour modification! It can be very useful in selected cases especially if limb eczema predominates, although whole body wrapping can also be carried out. It requires a high level of commitment from the parents and the expertise is all too often not readily available.\n\n More recently a range of “dry wrap” garments have also become available. Recently the results of the “CLOTHES Trial” were published and these unequivocally showed that there was no benefit from the use of silk garments in the management of atopic eczema despite a current cost of over £2 million to the NHS.\n\n **6 ) F E E D I NG** – there is no current evidence to support any advantage of breast feeding over bottle feeding in terms of severity of atopic eczema and that also the timing of weaning makes no difference either. As regards milk substitutes, there has been benefit demonstrated for high risk infants with the introduction of milk hydrolysate formulae but no such benefit demonstrated for soya milk. However, research has also demonstrated that if hydrolysates are substituted for milk feeds, that the extent of hydrolysation of the preparations makes no difference, although fully hydrolysated products are significantly more expensive. \n",
+      "start_word": 0,
+      "end_word": 364,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 17,
+      "section": "**4 )  O T HE R  CO M PLE M EN T AR Y T H ER API ES** – without appearing cynical,",
+      "text": "**6 ) F E E D I NG** – there is no current evidence to support any advantage of breast feeding over bottle feeding in terms of severity of atopic eczema and that also the timing of weaning makes no difference either. As regards milk substitutes, there has been benefit demonstrated for high risk infants with the introduction of milk hydrolysate formulae but no such benefit demonstrated for soya milk. However, research has also demonstrated that if hydrolysates are substituted for milk feeds, that the extent of hydrolysation of the preparations makes no difference, although fully hydrolysated products are significantly more expensive.\n\n **7 ) A LLE R G E N A VOI DAN CE** – aeroallergens, such as house dust mite and animal dander may aggravate eczema. Reports vary as to the efficacy of counter measures. Studies differ on the efficacy of stringent anti-dust controls. In one such study, these showed a very limited response while another reported significant clinical benefit! This may be a worthwhile option if a parent is highly motivated and even obsessional, and the child is willing to have their teddy bear committed to the freezer to inactivate house dust mite!\n\n The role of food allergy is greatly overestimated. Careful history taking should elucidate any immediate Type 1 food reactions; otherwise it should only be considered further in children with severe unresponsive eczema especially if there are co-existent gut motility problems or failure to thrive. Advise against allergy testing as a routine especially being wary of commercial services.\n\n **8 ) T A CHY P HY LA XI S** – patients often observe “my skin seems to have got used to my steroid cream.” This can be partially explained by the concept of tachyphylaxis; the clinical observation that a topical steroid is more active at the beginning of treatment than later on. To achieve the same effect, the patient may need to apply the steroid after ever shortening intervals. Alternatively, switching to another steroid preparation of **similar potency** for a short period can be a useful manoeuvre, resisting the temptation to use even more potent topical preparations. This, however, is not evidence based! \n",
+      "start_word": 300,
+      "end_word": 656,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 18,
+      "section": "**4 )  O T HE R  CO M PLE M EN T AR Y T H ER API ES** – without appearing cynical,",
+      "text": "**8 ) T A CHY P HY LA XI S** – patients often observe “my skin seems to have got used to my steroid cream.” This can be partially explained by the concept of tachyphylaxis; the clinical observation that a topical steroid is more active at the beginning of treatment than later on. To achieve the same effect, the patient may need to apply the steroid after ever shortening intervals. Alternatively, switching to another steroid preparation of **similar potency** for a short period can be a useful manoeuvre, resisting the temptation to use even more potent topical preparations. This, however, is not evidence based!\n\n **10**\n**CHAPTER 1**\n\n **TH E E C Z E M AS** \n",
+      "start_word": 600,
+      "end_word": 715,
+      "type": "body",
+      "page_num": 12
+    },
+    {
+      "chunk_id": 19,
+      "section": "**I N V EST I G ATION  IN ATO PIC ECZEM A**",
+      "text": "## **I N V EST I G ATION IN ATO PIC ECZEM A**\n\n **S K I N/ A LLE R G Y T E S T I N G** – Such testing is available in a number of formats – patch, prick and RAST/other blood assays. They are frequently requested inappropriately by patients and doctors alike due to the lack of understanding of the classification of the various immune reactions. It is beyond the scope of this article to discuss immune mediated reactions in detail. Suffice to say that the more commonly requested patch testing is most applicable to patients with a history suggestive of allergic or occupational dermatitis. Such tests can, however, be selectively justified for atopics if there is a sudden unexplained deterioration, where the history indicates the possibility of aggravating exogenous factors. Prick testing clarifies immediate hypersensitivity or urticarial reactions (Type 1). There are many false positives and negatives. Similarly, IgE/RAST testing measures specific IgE antibodies in the peripheral blood. False positives are common and 75% of positive RAST tests are not always clinically significant. There is no benefit from such tests being used as routine.\n\n **O T HE R I NV E S T I G AT I ON** – Growth chart monitoring can be useful in children severely affected by eczema, as growth retardation is a risk. This is multifactorial and **not** primarily due to the risk of steroid absorption. \n",
+      "start_word": 0,
+      "end_word": 235,
+      "type": "body",
+      "page_num": 14
+    },
+    {
+      "chunk_id": 20,
+      "section": "**U S E F U L  H I N T S A ND  TIP S**",
+      "text": "## **U S E F U L H I N T S A ND TIP S**\n\n\n\n\n\n Some management principles have already been discussed. Here are some additional hints which I hope will prove helpful:\n\n a) The best emollient is the cheapest that the patient finds effective and is willing to use. Cosmetic acceptability is a major determinant of use. Emollients ‘waterproof’ the skin and may also have some anti-inflammatory and thus steroid sparing effects. There are also now a choice of emollients with antimicrobial agents specifically directed at reducing staphylococcal colonisation. These have proven a very useful adjunct to our therapeutic armoury and can be used both as bath additives and soap substitutes or applied directly to the skin. Various emollients **claim** additional advantages. Those containing urea may be useful on very thickened and scaly skin although irritant to broken skin, while lauromacrogols may have additional anti-pruritic properties. There is no good co-operative clinical evidence, however, to support these claims. In a dermatological utopia, emollients should be applied a minimum of 3 – 4 times a day and these should be applied **after** the application of topical steroids.\n\n b) Practise strict soap avoidance – soaps dry on the skin to leave irritant alkaline residues and strip the skin of its natural oils, which both exacerbate eczema. Exceptions to the former are neutral pH soaps, such as Neutrogena and Dove.\n\n c) Topical steroids should not be prescribed without emollients! All steroid cream preparations are potentially dehydrating.\n\n d) Be familiar with 1 or 2 topical steroid preparations in each potency class.\n\n **11**\nTOP TIP 2: The recent “BEEP” study demonstrated an advantage to using regular emollients immediately from birth in babies with a high risk profile for developing significant atopic eczema i.e. before the disease is manifest. This would appear to be a simple, safe and cheap intervention to consider where there is a strong family history. However, care needs to be exercised with the use of highly occlusive ointment based preparations in very young infants which can lead to interference with the sweat gland apparatus and potential overheating. \n",
+      "start_word": 0,
+      "end_word": 347,
+      "type": "body",
+      "page_num": 14
+    },
+    {
+      "chunk_id": 21,
+      "section": "**U S E F U L  H I N T S A ND  TIP S**",
+      "text": "TOP TIP 2: The recent “BEEP” study demonstrated an advantage to using regular emollients immediately from birth in babies with a high risk profile for developing significant atopic eczema i.e. before the disease is manifest. This would appear to be a simple, safe and cheap intervention to consider where there is a strong family history. However, care needs to be exercised with the use of highly occlusive ointment based preparations in very young infants which can lead to interference with the sweat gland apparatus and potential overheating. \n",
+      "start_word": 300,
+      "end_word": 387,
+      "type": "body",
+      "page_num": 14
+    },
+    {
+      "chunk_id": 22,
+      "section": "**PE R I-OR AL  D E RM A T I T I S**",
+      "text": "## **PE R I-OR AL D E RM A T I T I S**\n\n\n\n\n\n e) Be familiar with the common local cutaneous side effects of excess steroid usage i.e. striae, purpura/telangiectasia, atrophy, rosacea and peri-oral dermatitis. Long term application of even mild topical steroids to the eyelids have also resulted in the development of glaucoma. The newer, once daily, steroid preparations (mometasone and fluticasone) claim lower risk of cutaneous side effects. Compliance is easier although such products are relatively more expensive. Topical steroid absorption is greatest on the face due to the relative thinness of the skin and the flexures due to opposing surfaces and increased local humidity.\n\n f) Ointments have advantages over creams – they are inherently more moisturising because of the ointment vehicle and don’t contain preservatives resulting in a lower incidence of contact sensitivity. Lotions are preferable for hair bearing areas. Alcohol based preparations can sting significantly if applied to areas of cracked or broken skin.\n\n g) Confusion often arises relating to the optimal frequency of bathing. The time honoured advice was to reduce. Regular daily bathing induces more benefits than risks by removing dirt, bacteria and environmental allergens. The regular use of emollient bath additives is also advocated. A range of combined emollient/antiseptic bath additives have an added anti-staphylococcal effect e.g. Dermol 600 Bath Emollient, Oilatum Plus. Studies have shown that such treatments can reduce _Staph. aureus_ numbers 6,000 fold!\n\n h) Eczema is **not** a contraindication to immunisation.\n\n **12**\n**CHAPTER 1**\n\n **TH E E C Z E M AS** \n",
+      "start_word": 0,
+      "end_word": 253,
+      "type": "body",
+      "page_num": 15
+    },
+    {
+      "chunk_id": 23,
+      "section": "**OTHER  ECZEMAS**",
+      "text": "## **OTHER ECZEMAS**\n\n\n\n\n\n Classification of endogenous and exogenous eczemas can be simplistic. There are, however, a number of significant eczematous processes which we will now consider separately.\n\n **S E B O R R HO E I C E CZE M A** – this is a common condition often presenting in children and young adults. It is important to differentiate it from atopic eczema as causation and treatment are different. The pathogenesis is not yet fully understood but an overgrowth of normally commensal _Pityrosporum_ yeasts is considered a major aetiological factor. It often presents in childhood as a widespread facial and truncal eczema between the ages of 1 and 6 months in contrast to atopic eczema which often develops a little later. Scalp involvement frequently co-exists – ‘cradle cap’ in babes, seborrhoeic capitus (dandruff) in adults. The rash of seborrhoeic eczema is usually more clearly delineated and less symptomatic than atopic eczema. The child is usually not distressed and flexural involvement is also common. The differential diagnosis includes candidal infection and infantile psoriasis. Treatment revolves around the use of mild steroid anti-yeast combinations such as Daktacort or anti-fungal treatments such as topical ketoconazole. Seborrhoeic eczema often affects young adults with a scaly, mildly itchy facial eruption involving the scalp, eyebrows, nasolabial folds and post auricular creases with co-existent flexural and presternal involvement. Blepharitis is a common complication. It can be difficult to differentiate from other facial dermatoses e.g. rosacea. The presence of pustulation, telangiectasia and the absence of scaling in an older age group would point towards the latter diagnosis. Very acute onset widespread seborrhoeic dermatitis may indicate immunosuppression, particularly HIV. \n",
+      "start_word": 0,
+      "end_word": 270,
+      "type": "body",
+      "page_num": 16
+    },
+    {
+      "chunk_id": 24,
+      "section": "**S E B OR R H OE I C  E C Z E M A**",
+      "text": "## **S E B OR R H OE I C E C Z E M A**\n\n\n\n\n\n **13**\n**D I S CO I D E CZE M A** – also known as nummular eczema after the Greek ‘nummus’ meaning coin. It most commonly presents in middle to late middle years, predominantly in men. There is often a past history of atopy. As with many eczemas, pathogenesis remains unclear. Involvement of the limbs predominate. Single lesions need to be differentiated from superficial basal cell carcinoma, granuloma annulare, fungal infections and Bowen’s disease. Intense itch is often present and requires potent topical steroids to control it. \n",
+      "start_word": 0,
+      "end_word": 103,
+      "type": "body",
+      "page_num": 16
+    },
+    {
+      "chunk_id": 25,
+      "section": "**DIS C OID E C Z E M A**",
+      "text": "## **DIS C OID E C Z E M A**\n\n\n\n\n\n **P O M P HO LY X** – a distinctive pattern of eczema selectively affecting the thicker skin of the palms of the hands (cheiro-pompholyx) and/or the soles of the feet (podopompholyx). There is often no background of atopy. This can occur at any age but most especially young adults; there is no sexual predominance. There are characteristically small vesicles affecting the lateral aspects of the fingers ‘like sago grains.’ Pustules may develop and secondary infection is often a feature. The condition is notoriously itchy and can be quite disabling. Bullae can occur. A history of intercurrent stress is often obtainable. Exogenous agents are not often implicated. Treatment embraces the use of rest, potassium permanganate soaks, emollients, potent/very potent topical steroids, and short courses of antibiotics or even systemic steroids. Further investigation is usually unhelpful and the differential diagnosis would include palmoplantar psoriasis and localised bullous conditions. There is also the phenomenon of the fungal ‘id’ reaction, where coexisting tinea infection can trigger pompholyx at a distant site. Pompholyx is often a recurrent condition.\n\n **14**\n**CHAPTER 1**\n\n **TH E E C Z E M AS**\n\n **V E NO US E CZE M A** – this results from longstanding venous hypertension leading to microcirculatory damage and the typical features of lipodermatosclerosis and haemosiderin leakage and deposition in the skin. There may be frank ulceration. Venous eczema can be complicated by superimposed irritant eczema from exudative ulcers and also a very high propensity of this area to develop contact sensitivity to a wide range of dressings and topical medicaments. Treatment is to the underlying cause and it is important to remember the truism that ‘a venous ulcer is only a manifestation of the underlying disease process.’ Protection, support and the use of emollients and mild to moderate topical steroids form the major principles of management. Patch testing is often indicated. \n",
+      "start_word": 0,
+      "end_word": 318,
+      "type": "body",
+      "page_num": 17
+    },
+    {
+      "chunk_id": 26,
+      "section": "**DIS C OID E C Z E M A**",
+      "text": "**V E NO US E CZE M A** – this results from longstanding venous hypertension leading to microcirculatory damage and the typical features of lipodermatosclerosis and haemosiderin leakage and deposition in the skin. There may be frank ulceration. Venous eczema can be complicated by superimposed irritant eczema from exudative ulcers and also a very high propensity of this area to develop contact sensitivity to a wide range of dressings and topical medicaments. Treatment is to the underlying cause and it is important to remember the truism that ‘a venous ulcer is only a manifestation of the underlying disease process.’ Protection, support and the use of emollients and mild to moderate topical steroids form the major principles of management. Patch testing is often indicated. \n",
+      "start_word": 300,
+      "end_word": 423,
+      "type": "body",
+      "page_num": 17
+    },
+    {
+      "chunk_id": 27,
+      "section": "**V E N OU S  E C Z E M A**",
+      "text": "## **V E N OU S E C Z E M A**\n\n\n\n\n\n\n\n\n\n **A S T E A T O T I C E CZ E M A** (eczema craquelé) presents as a ‘crazy paving’ pattern in the anterior distal lower limbs of predominantly elderly patients. Over washing and overheating are the major aetiological factors but if extensive or severe, consider intercurrent systemic problems such as hypothyroidism or malnutrition. Treatment is with frequent application of emollients plus or minus topical corticosteroids and avoidance of provoking factors.\n\n **A LLE R G I C/ I R R I T AN T DER M AT I T I S/ ECZEM A** – these conditions most commonly affect the hands and cannot be easily differentiated; indeed, they may often co-exist. There is an equal incidence in men and women. Hand eczema affects 2% of the population at some time. With irritant eczema, 85% of patients have a history of atopy. In contrast, atopy does not increase the risk of allergic dermatitis which is much the commoner of the two varieties. Irritant eczema is caused by direct physical or chemical injury from acids, alkalis, antiseptics or detergents. It can be acute, caused by a single contact or chronic from cumulative exposure. Common irritants are dust, detergents, cleaners, lubricants/industrial oils, preservatives and synthetic fibres. The finger webs\n\n **15**\nand the dorsum of the hands are most commonly involved. Vesicular reactions are less common. In contrast, allergic dermatitis is usually a Type IV, cell mediated, delayed hypersensitivity reaction. This is relatively rare but is recognised to be increasing in the paediatric population. Vesicular reactions are much more common. Common allergens are rubber, nickel, cement dust, plants, topical antibiotics and cosmetics. Between 10 – 20% of all women have a contact allergy to nickel on testing. This is also present as a contaminant in cheaper gold preparations. It is frequently believed that there is a high contact sensitivity to lanolin. Lanolin is a complex substance derived from sheep wool; it has had unjustifiably bad press. Medical grades of lanolin have a very low sensitising potential. \n",
+      "start_word": 0,
+      "end_word": 346,
+      "type": "body",
+      "page_num": 18
+    },
+    {
+      "chunk_id": 28,
+      "section": "**V E N OU S  E C Z E M A**",
+      "text": "and the dorsum of the hands are most commonly involved. Vesicular reactions are less common. In contrast, allergic dermatitis is usually a Type IV, cell mediated, delayed hypersensitivity reaction. This is relatively rare but is recognised to be increasing in the paediatric population. Vesicular reactions are much more common. Common allergens are rubber, nickel, cement dust, plants, topical antibiotics and cosmetics. Between 10 – 20% of all women have a contact allergy to nickel on testing. This is also present as a contaminant in cheaper gold preparations. It is frequently believed that there is a high contact sensitivity to lanolin. Lanolin is a complex substance derived from sheep wool; it has had unjustifiably bad press. Medical grades of lanolin have a very low sensitising potential. \n",
+      "start_word": 300,
+      "end_word": 425,
+      "type": "body",
+      "page_num": 18
+    },
+    {
+      "chunk_id": 29,
+      "section": "**N IC K E L  DE R M ATI T I S**",
+      "text": "## **N IC K E L DE R M ATI T I S**\n\n\n\n \n",
+      "start_word": 0,
+      "end_word": 13,
+      "type": "body",
+      "page_num": 19
+    },
+    {
+      "chunk_id": 30,
+      "section": "**E L AS TOPL AST AL L E RGY**",
+      "text": "## **E L AS TOPL AST AL L E RGY**\n\n\n\n\n\n The family practitioner should be able to recognise common patterns of allergic contact dermatitis; these can be very specific e.g. periumbilical dermatitis due to nickel jean studs. Contact allergy is usually a life long sensitivity once established, although it may take several years to develop. The most likely sites involved are the hands, face, legs and feet; secondary spread is common.\n\n Patients with chronic hand eczema can be very challenging. The condition can result in long term disability. Historically there has been a poor response to available treatments even with more potent “second line” treatments such as PUVA and oral immunosuppression. A retinoid, alitretinoin, has been licensed and received NICE approval specifically for this group of patients allowing more hope for the future.\n\n **16**\n**CHAPTER 1 TH E E C Z E M AS**\n\n There is usually a timescale between the contact and the reaction developing of 1 – 3 days. History taking is of paramount importance in elucidating the influence of likely irritants/allergens. Clinical patterns are often indistinct. Patch testing is important to help reach a precise diagnosis. Irritant eczema is often a diagnosis by exclusion. There are no reliable figures available for the incidence of occupational dermatitis due to problems of under-reporting and the acceptance by workers that this is a bona fide occupational hazard. Pre-emptive careers advice to children with significant atopy is useful to avoid exposure to occupations with a high risk of irritant eczema, especially engineering, nursing, building and, most particularly, hairdressing. Barrier creams are ineffectual. Effective measures revolve around education, protection, avoidance, and interval rehydration and remoisturisation. The prognosis for occupational dermatitis, once established, is poor even after a change of occupation. It is unclear why this should be so. In the UK alone, it is estimated that 4 million workdays are lost to dermatological problems, especially occupational dermatitis. \n",
+      "start_word": 0,
+      "end_word": 315,
+      "type": "body",
+      "page_num": 19
+    },
+    {
+      "chunk_id": 31,
+      "section": "**E L AS TOPL AST AL L E RGY**",
+      "text": "There is usually a timescale between the contact and the reaction developing of 1 – 3 days. History taking is of paramount importance in elucidating the influence of likely irritants/allergens. Clinical patterns are often indistinct. Patch testing is important to help reach a precise diagnosis. Irritant eczema is often a diagnosis by exclusion. There are no reliable figures available for the incidence of occupational dermatitis due to problems of under-reporting and the acceptance by workers that this is a bona fide occupational hazard. Pre-emptive careers advice to children with significant atopy is useful to avoid exposure to occupations with a high risk of irritant eczema, especially engineering, nursing, building and, most particularly, hairdressing. Barrier creams are ineffectual. Effective measures revolve around education, protection, avoidance, and interval rehydration and remoisturisation. The prognosis for occupational dermatitis, once established, is poor even after a change of occupation. It is unclear why this should be so. In the UK alone, it is estimated that 4 million workdays are lost to dermatological problems, especially occupational dermatitis. \n",
+      "start_word": 300,
+      "end_word": 471,
+      "type": "body",
+      "page_num": 19
+    },
+    {
+      "chunk_id": 32,
+      "section": "**PATC H  TE S T – BRI T I S H  S O C I E T Y  F O R C U T A N E O U S AL L E R G Y R E C OM M E N D E D  BA S E L I N E  S E RI E S[1 3]**",
+      "text": "## **PATC H TE S T – BRI T I S H S O C I E T Y F O R C U T A N E O U S AL L E R G Y R E C OM M E N D E D BA S E L I N E S E RI E S[1 3]**\n\n\n\n\n\n ||**TEST SUBSTANCE**<br>**WHERE IT IS COMMONLY FOUND**<br>**Potassium dichromate**<br>Cement, leather, wood preservatives, mascara,<br>eye shadow<br>**Neomycin sulfate**<br>Antibiotic creams andpowders<br>**Thiuram mix**<br>Rubber,fungicides,soaps,animal repellents<br>**p-Phenylenediamine**<br>Hair dyes<br>**Cobalt chloride**<br>Jewellery, dental plates, prostheses, inks<br>andpaints<br>**Caine mix III**<br>Local anaesthetic, antipruritic creams,<br>haemorrhoid creams<br>**Formaldehyde**<br>Preservatives,detergents,shampoos,textiles<br>**Colophony**<br>Adhesive plasters, mascara, eye shadow,<br>varnishes,rosin,solder fluxes<br>**Quinoline mix**<br>Clioquinol and chlorquinaldol in local<br>anti-infective agents<br>**_Myroxylonpereirae_ (Balsam of Peru)**<br>Flavourings and fragrances<br>**N-Isopropyl-N-phenyl-4-phenylenediamine**Black rubber<br>**Lanolin alcohol**<br>Lanolin creams,lotions and cosmetics<br>**Mercapto mix**<br>Rubber<br>**Epoxy resin**<br>Adhesive, surface coating, electron<br>microscopy, paints and inks<br>**Parabens mix**<br>Preservative in foods, cosmetics and<br>pharmaceuticalproducts<br>**4-****_tert_-Butylphenol formaldehyde resin**<br>PTBP Resin, adhesive for shoes and watch<br>straps,inks, papers and film developers<br>**Fragrance mix I**<br>Fragrances<br>**Quaternium 15(Dowicil 200)**<br>Preservative in cosmetics and toiletries<br>**Nickel sulfate**<br>Scissors, door handles, keys, coins, zips,<br>buckles, ‘gold’ lingerie fasteners, jean studs,<br>watch straps & buckles etc.|\n|---|---|\n\n\n\n **17**\n||**PATC H TE S T – E U RO P E A N S T A N D A RD S E RI E S C O N T .**<br>**BRI T I S H S O C I E T Y F O R C U T A N E O U S**<br>**AL L E R G Y R E C OM M E N D E D BA S E L I N E S E RI E S C O N T . 1 3**|\n|---|---|\n||**TEST SUBSTANCE**<br>**WHERE IT IS COMMONLY FOUND**<br>**Cl+Me-isothiazolinone**<br>In Kathon CG. Preservative in cosmetics,<br>shampoos,detergents and coolingfluids<br>**Mercaptobenzothiazole**<br>Rubber in shoes, gloves, tyres, condoms,<br>swimwear,oils and antifreeze<br>**Amerchol L101**<br>Lanolin alcohols in cosmetics,topicalproducts<br>**Sesquiterpene lactone mix**<br>Compositae e.g. chrysanthemums<br>**_p_-Chloro-m-cresol**<br>Fungicide in creams,topical antiseptics etc.<br>**2-Bromo-2-nitropropane-1,3-diol**<br>Preservative in cooling fluids, cosmetic creams,<br>**(Bronopol)**<br>shampoos,hair dressings etc.<br>**Cetearyl alcohol**<br>Emollient in cosmetics and pharmaceutical<br>preparations<br>**Sodium fusidate**<br>Antibiotic<br>**Tixocortol-21-pivalate**<br>Marker of corticosteroid allergy<br>**Budesonide**<br>Marker of corticosteroid allergy<br>**Imidazolidinyl urea (Germal 115)**<br>Preservative in creams, lotions etc.<br>Formaldehyde releaser<br>**Diazolidinyl urea(Germal 11)**<br>As above<br>**Methyldibromoglutaronitrile**<br>In Euxyl K 400 and Tektamer 38. Preservative<br>in cosmetics,detergents etc.<br>**Ethylenediamine dihydrochloride**<br>Stabiliser,epoxycuringagent<br>**4-Chloro-3,5-xylenol (PCMX)**<br>Preservative in creams, topical antiseptics,<br>pharmaceuticalproducts,soaps etc.<br>**Carba mix**<br>Rubberproducts<br>**Fragrance mix II**<br>Fragrances<br>**Disperse Blue mix 106/124**<br>Dyes added to textiles and fabrics<br>**Hydroxyisohexyl cyclohexene**<br>Fragrance in perfumes, toiletries, cosmetics<br>**carboaldehyde(Lyral)**<br>and householdproducts<br>**_Compositae_ mix(Chemotechnique)**<br>Compositae e.g. chrysanthemums<br>**Methylisothiazolinone**<br>Preservative in cosmetics,toiletries etc.<br>**Sodium metabisulphite**<br>An antioxidant found in topical preparations,<br>cosmetics and toiletries|\n\n",
+      "start_word": 0,
+      "end_word": 357,
+      "type": "body",
+      "page_num": 20
+    },
+    {
+      "chunk_id": 33,
+      "section": "**PATC H  TE S T – BRI T I S H  S O C I E T Y  F O R C U T A N E O U S AL L E R G Y R E C OM M E N D E D  BA S E L I N E  S E RI E S[1 3]**",
+      "text": "## **PATC H TE S T – BRI T I S H S O C I E T Y F O R C U T A N E O U S AL L E R G Y R E C OM M E N D E D BA S E L I N E S E RI E S[1 3]**\n\n\n\n TOP TIP 3: Patch testing has high pick up rates with the clinical presentations of both pruritus anae and pruritus vulvae and should be considered when such patients are not responding to standard managements.\n\n **18**\n**CHAPTER 1**\n\n **TH E E C Z E M AS** \n",
+      "start_word": 300,
+      "end_word": 405,
+      "type": "body",
+      "page_num": 20
+    },
+    {
+      "chunk_id": 34,
+      "section": "**CR I T ER I A FOR REFER R AL**",
+      "text": "## **CR I T ER I A FOR REFER R AL**\n\n When do we need to refer to a specialist? There are a multitude of reasons for secondary referral, not least patient pressure and unrealistic expectations. The main reasons, however, I would consider are as follows:\n\n - 1) Diagnostic doubt.\n\n - 2) Refractory eczema; especially resistant hand eczema, despite intensive emollient regimes, topical steroids and antibiotics.\n\n - 3) When patch testing is truly indicated.\n\n - 4) Consideration of 2nd line treatments e.g. systemic drugs, very potent topical steroids or phototherapy.\n\n - 5) Consideration of dietary manipulation in infants with severe refractory eczema. \n",
+      "start_word": 0,
+      "end_word": 102,
+      "type": "body",
+      "page_num": 22
+    },
+    {
+      "chunk_id": 35,
+      "section": "**T E A C H I N G  P O INTS**",
+      "text": "## **T E A C H I N G P O INTS**\n\n - 1) Beware unilateral eczema. Eczema is characteristically a symmetrical disease – you may be dealing with fungal infection. If in doubt, **scrape!**\n\n\n\n\n\n - 2) Always prescribe enough topical treatment for your patient.\n\n - 3) The most common cause of an exacerbation of atopic eczema is infection.\n\n - 4) 2 – 5% of patients are hypersensitive to some topical steroid preparations. \n",
+      "start_word": 0,
+      "end_word": 73,
+      "type": "body",
+      "page_num": 22
+    },
+    {
+      "chunk_id": 36,
+      "section": "**U S E F U L  C O N T A CT**",
+      "text": "## **U S E F U L C O N T A CT**\n\n National Eczema Society 11 Murray Street, London, NW1 9RE http://www.eczema.org\n\n **19** \n",
+      "start_word": 0,
+      "end_word": 24,
+      "type": "body",
+      "page_num": 22
+    },
+    {
+      "chunk_id": 37,
+      "section": "**R E F E R E N C E S**",
+      "text": "## **R E F E R E N C E S**\n\n 1) Simpson C R _et al._ Trends in the epidemiology and prescribing of medication for eczema in England. Journal of the Royal Society of Medicine 2009;102:108-117.\n\n 2) Williams H C and Strachan D P. The natural history of childhood eczema: observations from the British 1958 birth cohort study. British Journal of Dermatology 1998;139:834-839.\n\n - 3) Management and Treatment of Eczema, National Eczema Society, 1994: 9.\n\n - 4) Baer RL, Atopic Dermatitis, New York University Press, 1955.\n\n - 5) Nanji S, Superantigens, Staph. Aureus and Atopic Dermatitis, Dermatology in Practice 1997: 5(6): 6-7.\n\n - 6) Brown Graham, RAC, Histamine, Antihistamines and Atopic Dermatitis, Journal of Dermatological Treatment 1: 325-330.\n\n - 7) Neild VS, Food Allergy in Atopic Eczema – response of children and adults to hypoallergenic diet, British Journal of Dermatology 1985: 113(Suppl 29): 24.\n\n 8) Thomas K, Bradshaw L, Sach T _et al_ . Silk garments plus standard care compared with standard care for treating eczema in children. A randomised controlled observer-blind pragmatic trial (CLOTHES TRIAL). PLoS Medicine. 2017;14(4):1002280.\n\n 9) Chandra RK, Influence of Maternal Diet during Lactation and Use of Formula Feeds on Development of Atopic Eczema in High Risk Infants, British Medical Journal 1989: 299: 228-230.\n\n 10) Cork MJ, Complete Emollient Therapy, National Association of Fundholding Practices Yearbook 1998: 159-168.\n\n 11) Simpson EL _et al_ . Emollient enhancement of the skin barrier from birth offers effective atopic dermatitis prevention. J of Allergy Clin Immunol 2014; 134(4):818-23. 12) Holland KT; Bojar RA; Cunliffe WJ, A comparison of the effect of treatment of atopic eczema with and without antimicrobial compounds, RSM 1995: Round Table Series 37: 34-41.\n\n 13) Johnston GA _et al_ . British Association of Dermatologists guidelines for the management of contact dermatitis 2017. Br J Dermatol 2017; 176: 317-329. \n",
+      "start_word": 0,
+      "end_word": 302,
+      "type": "body",
+      "page_num": 23
+    },
+    {
+      "chunk_id": 38,
+      "section": "**R E F E R E N C E S**",
+      "text": "11) Simpson EL _et al_ . Emollient enhancement of the skin barrier from birth offers effective atopic dermatitis prevention. J of Allergy Clin Immunol 2014; 134(4):818-23. 12) Holland KT; Bojar RA; Cunliffe WJ, A comparison of the effect of treatment of atopic eczema with and without antimicrobial compounds, RSM 1995: Round Table Series 37: 34-41.\n\n 13) Johnston GA _et al_ . British Association of Dermatologists guidelines for the management of contact dermatitis 2017. Br J Dermatol 2017; 176: 317-329.\n\n **20** \n",
+      "start_word": 300,
+      "end_word": 380,
+      "type": "body",
+      "page_num": 23
+    },
+    {
+      "chunk_id": 39,
+      "section": "_Added Extra Adex Gel_",
+      "text": "## _Added Extra Adex Gel_\n\n\n\n\n\n\n\n\n\n ®\n\n\n\n\n\n\n\n\n\n\n\n\n\n **Adex Gel** and management of mild to moderate eczema.\n\n\n\n\n\n\n\n\n\n **Adex Gel** emollient can help reduce and redness because **Adex Gel** provides **Added Extra** anti-infl ammatory action.\n\n\n\n \n",
+      "start_word": 0,
+      "end_word": 32,
+      "type": "body",
+      "page_num": 24
+    },
+    {
+      "chunk_id": 40,
+      "section": "**Prescribe Adex Gel and see the results**",
+      "text": "## **Prescribe Adex Gel and see the results** \n",
+      "start_word": 0,
+      "end_word": 8,
+      "type": "body",
+      "page_num": 24
+    },
+    {
+      "chunk_id": 41,
+      "section": "**Adex[™] Gel**",
+      "text": "## **Adex[™] Gel**\n\n occur with emollients when applied to damaged skin. Such symptoms usually subside after a few days of treatment, however, if they are troublesome or persist, stop using and seek medical advice. Rarely skin irritation (mild rashes) or allergic skin reactions can occur on extremely sensitive skin, these tend to occur during or soon after the fi rst few uses and if this occurs stop treatment. As safety trials have not been conducted during pregnancy and breast-feeding, seek medical advice before using this product.\n\n **Pack sizes and NHS prices:** 100g tube £2.69, 500g pump pack £5.99. **Legal category:** Class III medical device with an ancillary medicinal substance.\n\n **Presentation:** White opaque gel.\n\n **Uses:** Highly moisturising and protective emollient with an ancillary anti-infl ammatory medicinal substance for the treatment and routine management of dry and/or infl amed skin conditions such as mild to moderate atopic dermatitis, various forms of eczema, contact dermatitis and psoriasis.\n\n **Further information is available from the manufacturer:** Dermal Laboratories, Tatmore Place, Gosmore, Hitchin, Herts, SG4 7QR, UK. **Date of preparation:** August 2017.\n\n ‘Adex’ is a trademark.\n\n **Directions:** Adults, the elderly and children from 1 year of age. For generalised all-over application to the skin. Apply three times daily or as often as needed. Adex Gel can be used for as long as necessary either occasionally, such as during fl ares, or continuously if the added anti-infl ammatory action is benefi cial. Seek medical advice if there is no improvement within 2-4 weeks. **Contra-indications, warnings, side effects etc:** Do not use if sensitive to any of the ingredients. Keep away from the eyes, inside the nostrils and mouth. Temporary tingling, itching or stinging may\n\n **Care should be taken as emollients which soak into clothing, pyjamas, bedlinen etc. can increase the fl ammability of these items. Patients should avoid these materials coming into contact with naked fl ames or lit cigarettes etc. As a precaution, dressings and clothing, etc., should be changed frequently and laundered thoroughly.** \n",
+      "start_word": 0,
+      "end_word": 328,
+      "type": "body",
+      "page_num": 24
+    },
+    {
+      "chunk_id": 42,
+      "section": "**Adex[™] Gel**",
+      "text": "**Care should be taken as emollients which soak into clothing, pyjamas, bedlinen etc. can increase the fl ammability of these items. Patients should avoid these materials coming into contact with naked fl ames or lit cigarettes etc. As a precaution, dressings and clothing, etc., should be changed frequently and laundered thoroughly.**\n\n ~~**Adverse even**~~ **ts should be reported to Dermal.**\n\n\n\n\n\n **Ingredients:** Carbomer, glycerol, isopropyl myristate, liquid paraffi n, nicotinamide, phenoxyethanol, sorbitan laurate, trolamine, purifi ed water.\n\n **www.dermal.co.uk** \n",
+      "start_word": 300,
+      "end_word": 376,
+      "type": "body",
+      "page_num": 24
+    }
+  ],
+  "footnote_chunks": [],
+  "image_chunks": [
+    {
+      "chunk_id": "img_0",
+      "section": "Extracted Figure",
+      "text": "The provided image is a solid, uniform, light-blue rectangular graphic element.\n\n1.  **Type of visualization:** This is a graphical design element, likely used as a header, footer, or section separator in a document layout. It does not contain data, charts, or diagrams.\n2.  **Main visual elements:** The image consists solely of a continuous, flat-colored rectangular field with no axes, legends, data series, or annotations.\n3.  **Key patterns, trends, or conclusions:** There are no observable data patterns or trends. The image functions purely as a stylistic or aesthetic background element.\n4.  **Visible text, labels, or numerical values:** There is no text, labeling, or numerical data present within the image itself.\n\nBased on the provided context, this graphic likely serves as a visual separator or a background banner for the \"CONTENTS\" page of the \"Eczema Core Tutorial\" document.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0003-01.png",
+      "page_num": 3,
+      "image_size": "1241x177",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_1",
+      "section": "Extracted Figure",
+      "text": "This figure is a clinical photographic comparison consisting of two side-by-side portraits of a young child, used to illustrate the phenotypic presentation of atopic eczema.\n\n### 1. Type of Visualization\nThis is a **clinical photographic montage** (medical imagery) used for educational and diagnostic reference.\n\n### 2. Main Visual Elements\n*   **Panel (A) (Left):** A frontal view of a child’s face, focusing on the periorbital and malar regions.\n*   **Panel (B) (Right):** A profile view of a child’s face, focusing on the forehead and cheek regions.\n*   **Text/Labels:** A clear header at the top reads: \"TWO TYPICAL ATOPIC ECZEMA PATIENTS SHOWING: (A) DRYNESS AND INFLAMMATION AND (B) WITH INFECTION.\"\n\n### 3. Key Patterns and Observations\n*   **Panel (A) (Dryness and Inflammation):** The patient displays characteristic features of atopic dermatitis, including erythema (redness) and xerosis (dryness) across the cheeks and forehead. The skin appears mildly inflamed, with fine scaling and a loss of the normal skin barrier integrity, typical of the chronic, relapsing nature of atopic eczema.\n*   **Panel (B) (Infection):** This panel demonstrates a more severe, acute presentation. There is prominent crusting, exudation, and intense erythema. The presence of yellow-gold crusting and localized erosion is highly suggestive of a secondary bacterial infection (likely *Staphylococcus aureus*), a common complication in atopic skin due to impaired barrier function and colonization.\n\n### 4. Conclusion\nThe figure serves as a comparative diagnostic tool to demonstrate the spectrum of atopic eczema severity. It highlights the transition from baseline inflammatory and dry skin (Panel A) to a complicated state involving secondary infection (Panel B), underscoring the clinical importance of identifying and treating superimposed infections in patients with atopic dermatitis.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0004-07.png",
+      "page_num": 4,
+      "image_size": "790x530",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_2",
+      "section": "Extracted Figure",
+      "text": "This image is a clinical photograph used for medical educational purposes to illustrate a classic presentation of atopic dermatitis.\n\n### 1. Type of Visualization\nThis is a **clinical medical photograph** (dermatological documentation) depicting the physical presentation of a skin condition.\n\n### 2. Main Visual Elements\n*   **Subject:** The photograph captures the anterior aspect of a patient's upper extremities, specifically focusing on the antecubital fossae (the inner elbow regions).\n*   **Anatomical Focus:** The image highlights the bilateral involvement of the skin in the flexural areas.\n*   **Annotations:** The text \"FLEXURAL ECZEMA\" is superimposed at the bottom of the image as a diagnostic label.\n\n### 3. Key Patterns and Clinical Observations\n*   **Morphology:** The skin in the antecubital fossae exhibits characteristic signs of chronic dermatitis, including **erythema** (redness) and **lichenification** (thickening and hardening of the skin due to chronic scratching).\n*   **Distribution:** The lesions are symmetrically distributed, which is a hallmark clinical feature of atopic eczema in children and adolescents.\n*   **Texture:** The surface of the affected areas appears dry, slightly scaly, and inflamed, consistent with the inflammatory nature of atopic dermatitis.\n*   **Diagnostic Context:** In the context of the provided text, this image serves as a visual confirmation of one of the \"absolute diagnostic criteria\" listed: \"visible flexural eczema.\" It demonstrates the classic presentation required for a clinical diagnosis.\n\n### 4. Visible Text\n*   **\"FLEXURAL ECZEMA\"**: This label identifies the condition shown, specifically referencing the anatomical location (flexures/folds of the body) where the eczema is manifesting.\n\n***\n\n**Medical Note:** The presentation shown is highly characteristic of atopic dermatitis. The involvement of the antecubital fossae is one of the most common diagnostic indicators for this condition, particularly when accompanied by the pruritus (itching) mentioned in the accompanying clinical guidelines.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0005-09.png",
+      "page_num": 5,
+      "image_size": "292x361",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_3",
+      "section": "Extracted Figure",
+      "text": "This image is a clinical photograph depicting dermatological findings on the back of an individual with darker skin pigmentation.\n\n### 1. Type of Visualization\nThis is a **clinical medical photograph** used for diagnostic illustration in dermatology.\n\n### 2. Main Visual Elements\n*   **Subject:** The upper and mid-back region of a patient.\n*   **Lesion Morphology:** The skin exhibits multiple, scattered, circular to oval-shaped lesions. These lesions display varying degrees of **hypopigmentation** (lighter patches) and **hyperkeratosis/scaling** (thickened, rough, or scaly patches).\n*   **Texture:** Several lesions show a distinct, lichenified, or scaly appearance, particularly the larger, more central plaques.\n*   **Distribution:** The lesions are widespread across the back, showing a discoid or nummular (coin-shaped) pattern.\n\n### 3. Key Patterns and Observations\n*   **Post-inflammatory changes:** The presence of both hypopigmented macules and patches alongside active, scaly plaques is highly characteristic of chronic inflammatory dermatoses in patients with higher melanin content. In dark-skinned individuals, eczema often results in post-inflammatory hypopigmentation or hyperpigmentation.\n*   **Discoid/Nummular Pattern:** The lesions present as discrete, circular patches rather than the classic \"flexural\" distribution (folds of the skin) often seen in pediatric atopic eczema. This aligns with the provided text, which notes that in dark-skinned ethnic groups, eczema can present in a \"discoid or follicular pattern.\"\n*   **Clinical Context:** The image serves as a visual contrast to the \"flexural eczema\" mentioned in the provided text. While the text highlights flexural involvement as a diagnostic criterion, this image demonstrates the atypical or variant presentations that clinicians must recognize in diverse patient populations to avoid misdiagnosis.\n\n### 4. Visible Text/Labels\nThe provided text snippet \"F L E X U R A L E C Z E M A\" is associated with the context of the page, though the image itself shows a **discoid/nummular pattern** rather than the classic flexural distribution. The image illustrates the clinical nuance that eczema in darker skin tones often deviates from the standard diagnostic presentation of flexural involvement.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0005-12.png",
+      "page_num": 5,
+      "image_size": "434x580",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_4",
+      "section": "Extracted Figure",
+      "text": "This figure is a conceptual diagram illustrating the structural differences between healthy skin and skin affected by eczema (atopic dermatitis), utilizing the \"brick and mortar\" analogy of the epidermal barrier.\n\n### 1. Type of Visualization\nThe image is a **conceptual schematic diagram** designed to simplify the physiological mechanism of the skin barrier. It uses a metaphorical model to contrast a healthy, intact barrier with a compromised, pathological one.\n\n### 2. Main Visual Elements\nThe figure is divided into two distinct panels set against a light blue background:\n\n*   **Left Panel (Healthy Skin):** Displays a uniform, well-organized structure resembling a brick wall. The \"bricks\" (representing corneocytes) are neatly stacked and held together by a continuous, thick layer of \"mortar\" (representing the lipid matrix and filaggrin-derived proteins).\n*   **Right Panel (Eczema – An Impaired Skin Barrier):** Displays a disorganized structure where the \"bricks\" are fragmented, uneven, and separated by gaps. The \"mortar\" is sparse and discontinuous, indicating a breakdown in the barrier integrity.\n*   **Arrows and Annotations:**\n    *   **Left Panel:** A red arrow labeled \"IRRITANTS\" points toward the top of the wall but is blocked by the intact structure. A white arrow labeled \"MOISTURE\" points toward the bottom, indicating moisture retention within the skin.\n    *   **Right Panel:** A white arrow labeled \"MOISTURE\" points upward, indicating transepidermal water loss (TEWL). A red, wavy arrow labeled \"IRRITANTS\" penetrates the gaps in the wall, leading to a jagged, red-colored symbol labeled \"INFLAMMATION\" at the base.\n\n### 3. Key Patterns and Conclusions\n*   **Structural Integrity:** The diagram demonstrates that healthy skin relies on a cohesive seal to function as a barrier. The \"mortar\" is essential for maintaining the structural alignment of the \"bricks.\"\n*   **Pathophysiology of Eczema:** The right panel illustrates the consequences of a defective barrier (e.g., filaggrin deficiency). The gaps in the \"mortar\" allow for two critical pathological processes:\n    1.  **Transepidermal Water Loss (TEWL):** Represented by the upward-moving white arrow, illustrating skin dehydration.\n    2.  **Increased Permeability:** Represented by the downward-moving red arrow, showing how exogenous allergens and irritants can bypass the barrier.\n*   **Clinical Outcome:** The final stage of the right panel shows that the ingress of irritants directly leads to \"INFLAMMATION,\" effectively visualizing the pathological immune cascade mentioned in the provided text.\n\n### 4. Visible Text Labels\n*   **Left Header:** \"HEALTHY SKIN\"\n*   **Right Header:** \"ECZEMA – AN IMPAIRED SKIN BARRIER\"\n*   **Labels:** \"IRRITANTS\" (red text), \"MOISTURE\" (white text), and \"INFLAMMATION\" (red text).",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0006-06.png",
+      "page_num": 6,
+      "image_size": "786x290",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_5",
+      "section": "Extracted Figure",
+      "text": "This figure is a **pathophysiological circular flow diagram** illustrating the self-perpetuating cycle of atopic eczema, commonly referred to as the \"itch-scratch cycle,\" and identifying the therapeutic intervention points.\n\n### 1. Visualization Type\nThe image is a conceptual diagram that uses a circular flow model to represent a pathological feedback loop. It maps the progression of symptoms and biological triggers that maintain the chronic state of atopic eczema.\n\n### 2. Main Visual Elements\n*   **Central Core:** The word \"SCRATCH\" is placed at the center, serving as the primary driver of the cycle.\n*   **Circular Flow:** Arrows indicate a bidirectional progression from \"SCRATCH\" to \"FURTHER SKIN DAMAGE,\" which then branches into two parallel pathways:\n    *   **Left Pathway:** *Staphylococcus aureus* colonization leading to the \"EXACERBATION OF THE ECZEMA,\" which returns to \"ITCH.\"\n    *   **Right Pathway:** \"WATER LOSS FROM EPIDERMIS\" leading to \"DRY SKIN,\" which also returns to \"ITCH.\"\n*   **Intervention Annotations:** Two specific therapeutic targets are highlighted with blue ovals and arrows:\n    *   **\"ANTIMICROBIAL ACTS HERE\":** Targets the left pathway (bacterial colonization).\n    *   **\"EMOLLIENT ACTS HERE\":** Targets the right pathway (transepidermal water loss and barrier repair).\n*   **Contextual Header:** The title \"BREAKING THE ITCH SCRATCH VICIOUS CIRCLE\" frames the entire process as a target for medical management.\n\n### 3. Key Patterns and Conclusions\n*   **The Vicious Cycle:** The diagram demonstrates that atopic eczema is not a linear disease but a self-reinforcing loop. Mechanical trauma (scratching) causes epidermal damage, which simultaneously promotes infection (*S. aureus*) and barrier dysfunction (water loss/dryness). Both outcomes independently trigger further pruritus (itch), which leads back to more scratching.\n*   **Therapeutic Rationale:** The diagram concludes that breaking this cycle requires a dual-pronged clinical approach:\n    *   **Antimicrobials** are necessary to interrupt the inflammatory exacerbation caused by bacterial colonization.\n    *   **Emollients** are necessary to restore the skin barrier, reduce transepidermal water loss, and alleviate dryness.\n*   **Conclusion:** By addressing both the infection and the barrier defect, the clinician can effectively \"break\" the cycle, thereby reducing the patient's urge to scratch and allowing the skin to heal.\n\n### 4. Text and Labels\n*   **Title:** BREAKING THE ITCH SCRATCH VICIOUS CIRCLE\n*   **Condition:** ATOPIC ECZEMA\n*   **Pathology Terms:** FURTHER SKIN DAMAGE, STAPH. AUREUS COLONISATION, EXACERBATION OF THE ECZEMA, WATER LOSS FROM EPIDERMIS, DRY SKIN, ITCH, SCRATCH.\n*   **Interventions:** ANTIMICROBIAL ACTS HERE, EMOLLIENT ACTS HERE.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0008-04.png",
+      "page_num": 8,
+      "image_size": "788x447",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_6",
+      "section": "Extracted Figure",
+      "text": "This image is a **pictogram (or icon-based bar chart)** designed to illustrate the comparative prevalence of *Staphylococcus aureus* colonization across different anatomical sites and patient populations (atopic vs. non-atopic individuals).\n\n### 1. Visualization Type\nThe figure uses a series of horizontal rows, each containing 10 human-shaped icons, to represent percentage-based data. This is a standard visual aid for communicating clinical data to non-specialists or for quick comparative reference.\n\n### 2. Main Visual Elements\n*   **Rows:** Each row represents a specific clinical category.\n*   **Icons:** Each row contains 10 human silhouettes. The ratio of blue icons (representing *S. aureus* presence) to white icons (representing *S. aureus* absence) corresponds to the percentage provided in the text label for that row.\n*   **Labels:** Each row is labeled with the population group (\"NON ATOPICS\" or \"ATOPICS\"), the anatomical site or condition, and the corresponding percentage value.\n*   **Legend:** Located at the bottom, it explicitly defines the color-coding: blue icons = *S. aureus* present; white icons = *S. aureus* absent.\n\n### 3. Key Patterns and Conclusions\nThe data highlights a significant disparity in *S. aureus* colonization between atopic and non-atopic individuals:\n*   **Non-Atopic Baseline:** Healthy individuals show low skin colonization (<10%) and moderate nasal carriage (10–45%).\n*   **Atopic Predisposition:** Atopic individuals exhibit dramatically higher rates of *S. aureus* colonization across all measured sites compared to non-atopics.\n*   **Site-Specific Severity:** Within the atopic population, colonization is highest in eczematous lesions (93%), followed by non-involved skin (76%) and nasal carriage (79%).\n*   **Clinical Conclusion:** The high percentage of *S. aureus* on both lesional and non-involved skin in atopic patients underscores the compromised skin barrier and the high susceptibility of atopic skin to bacterial colonization, which serves as a key driver in the \"itch-scratch-damage\" cycle mentioned in the provided text.\n\n### 4. Text and Numerical Values\n*   **Title:** \"REPORTED COLONISATION OF S. AUREUS\"\n*   **Row 1:** NON ATOPICS Nasal carriage (10–45%)\n*   **Row 2:** NON ATOPICS Skin excl. perineum (<10%)\n*   **Row 3:** ATOPICS Nasal carriage (79%)\n*   **Row 4:** ATOPICS Eczematous lesion (93%)\n*   **Row 5:** ATOPICS Non Involved skin (76%)\n*   **Key:** Blue icon = *S. aureus* present; White icon = *S. aureus* absent.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0008-07.png",
+      "page_num": 8,
+      "image_size": "788x412",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_7",
+      "section": "Extracted Figure",
+      "text": "This figure is a **staircase-style conceptual diagram** illustrating a hierarchical, \"stepped\" approach to the clinical management of atopic eczema, based on the 2007 NICE guidelines.\n\n### 1. Visual Elements\n*   **Structure:** The diagram uses five horizontal, rounded-rectangular bars arranged in an ascending staircase pattern. This visual metaphor conveys a progression of treatment intensity.\n*   **Color Palette:** The background is a uniform light blue. The bars are also blue, with a subtle gradient where the base level (Step 1) is the lightest and the top level (Step 5) is the darkest, reinforcing the concept of increasing therapeutic intervention.\n*   **Labels:** Each step is numbered (1 through 5) and accompanied by a corresponding clinical intervention.\n\n### 2. Clinical Hierarchy\nThe diagram outlines a clear escalation of treatment options:\n*   **Step 1 (Base):** \"Moisturiser + emollient bath additives.\" This represents the foundation of \"Total Emollient Therapy,\" which is intended to be the constant, baseline management strategy.\n*   **Step 2:** \"Mild topical steroids.\"\n*   **Step 3:** \"Moderate topical steroids.\"\n*   **Step 4:** \"Antibiotics.\" (Typically used for secondary bacterial infection or colonization).\n*   **Step 5 (Apex):** \"2nd line treatments/referral.\" (This indicates the threshold for specialist intervention or advanced therapies).\n\n### 3. Key Patterns and Conclusions\n*   **Cumulative Nature:** The diagram implies that as the severity of the eczema increases, the patient moves up the steps. However, as noted in the accompanying context, Step 1 remains the foundational requirement regardless of the step reached.\n*   **Escalation Strategy:** The visual arrangement suggests that treatment should be dynamic. The \"stepped\" design supports the clinical principle of rapid escalation during periods of deterioration (\"flares\") and subsequent de-escalation once control is achieved.\n*   **Clinical Goal:** The figure serves as a patient-education tool to demystify the treatment process, encouraging compliance with basic emollient therapy while providing a clear pathway for when more potent pharmacological interventions (like steroids or antibiotics) or specialist referrals are medically necessary.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0009-02.png",
+      "page_num": 9,
+      "image_size": "788x345",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_8",
+      "section": "Extracted Figure",
+      "text": "This figure is a **clinical reference table** designed to provide standardized guidance for the weekly application of emollients in the management of dermatological conditions such as eczema.\n\n### 1. Visualization Type\nThe image is a structured **informational table** organized by anatomical region, comparing recommended quantities for two different vehicle types: semi-solid preparations (creams/ointments) and liquid preparations (lotions).\n\n### 2. Main Visual Elements\n*   **Layout:** The table is organized into three columns: \"CREAM/OINTMENT\" (mass in grams), \"LOTION\" (volume in milliliters), and the corresponding anatomical site.\n*   **Data Presentation:** The values for creams/ointments and lotions are encased in blue oval shapes to highlight the specific dosage recommendations.\n*   **Annotations:** A footnote (indicated by an asterisk) provides the source reference (BNF online, September 2017) and clarifies the clinical context: the guidelines are based on twice-daily application for one week in adults and explicitly exclude topical corticosteroids.\n\n### 3. Key Patterns and Observations\n*   **Dosage Scaling:** There is a clear positive correlation between the surface area of the anatomical site and the required quantity of emollient. The \"Trunk\" requires the highest volume/mass (400g or 500ml), while the \"Face\" and \"Groins/Genitalia\" require the lowest.\n*   **Vehicle Differences:** For most sites, the recommended volume for lotions is higher than the mass for creams/ointments, reflecting the difference in density and spreadability between these formulations.\n*   **Clinical Utility:** The table addresses a common clinical problem identified in the accompanying text: the tendency to prescribe or apply \"homeopathic\" (insufficient) quantities of emollients. By providing specific ranges, it aims to ensure therapeutic adequacy for whole-body or site-specific coverage.\n\n### 4. Visible Text and Labels\n*   **Title:** \"EMOLLIENT WEEKLY USAGE GUIDELINES*\"\n*   **Anatomical Sites:** Face, Both Hands, Scalp, Both Arms or Both Legs, Trunk, Groins/Genitalia.\n*   **Numerical Data (Cream/Ointment):** Ranges from 15g to 400g depending on the site.\n*   **Numerical Data (Lotion):** Ranges from 100ml to 500ml depending on the site.\n*   **Disclaimer:** \"NB These recommendations do not apply to topical corticosteroids.\" This is a critical safety distinction, as topical steroids have different potency-based application rules (e.g., the fingertip unit) to avoid systemic absorption or local side effects.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0010-01.png",
+      "page_num": 10,
+      "image_size": "788x511",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_9",
+      "section": "Extracted Figure",
+      "text": "This image is a clinical photograph depicting a dermatological condition, specifically secondary infection associated with atopic eczema.\n\n### 1. Type of Visualization\nThis is a high-resolution clinical medical photograph, likely taken to document the physical presentation of pediatric atopic dermatitis complicated by secondary bacterial infection.\n\n### 2. Main Visual Elements\n*   **Anatomical Location:** The image focuses on the wrist and distal forearm of a child.\n*   **Lesion Characteristics:** The skin shows signs of chronic inflammation, characterized by erythema (redness), xerosis (dryness), and lichenification (thickening of the skin).\n*   **Signs of Infection:** There are distinct clinical markers of secondary infection, including:\n    *   **Excoriations:** Linear scratch marks indicating pruritus.\n    *   **Crusting:** Yellowish-brown, honey-colored crusting is visible, which is highly suggestive of a secondary *Staphylococcus aureus* infection (impetiginization).\n    *   **Pustules/Papules:** Small, discrete erythematous papules and potential pustules are scattered across the inflamed area.\n\n### 3. Key Patterns and Clinical Conclusions\n*   **Pathophysiology:** The clinical presentation is consistent with the text provided, which identifies infection as a primary cause for the sudden deterioration of atopic eczema. The presence of crusting indicates that the skin barrier has been breached, likely due to scratching, allowing for bacterial colonization.\n*   **Clinical Significance:** The distribution is typical for flexural eczema, but the intensity and the presence of crusting suggest that the inflammatory process has been exacerbated by a pathogen. \n*   **Conclusion:** This visual evidence supports the clinical necessity for the anti-staphylococcal strategies mentioned in the text (such as flucloxacillin or topical antibiotic-steroid combinations), as the skin exhibits clear signs of an active, infected eczematous flare.\n\n### 4. Text and Labels\nThere are no labels, legends, or numerical values embedded within the image itself. The photograph serves as a visual diagnostic aid to accompany the clinical discussion of infection in atopic eczema.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0011-01.png",
+      "page_num": 11,
+      "image_size": "591x226",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_10",
+      "section": "Extracted Figure",
+      "text": "This image is a clinical photograph illustrating the dermatological presentation of **perioral dermatitis**.\n\n### 1. Type of Visualization\nThis is a high-resolution clinical medical photograph, used for diagnostic teaching and documentation of cutaneous pathology.\n\n### 2. Main Visual Elements\n*   **Anatomical Region:** The lower face, specifically the perioral and chin area.\n*   **Lesion Morphology:** The skin exhibits a polymorphic eruption characterized by:\n    *   **Erythema:** Diffuse redness and inflammation concentrated around the chin and perioral region.\n    *   **Papules and Pustules:** Small, erythematous papules and a few visible pustules are scattered across the chin and lateral to the mouth.\n    *   **Telangiectasia:** Fine, visible blood vessels are present, particularly on the central chin, indicative of vascular dilation often associated with chronic inflammation or topical steroid use.\n    *   **Scaling/Crusting:** There is a focal, crusted lesion on the lower chin, suggesting a site of recent rupture or excoriation.\n    *   **Perioral Sparing:** While not absolute, there is a subtle suggestion of the classic \"perioral sparing\" (a narrow zone of relatively normal skin immediately adjacent to the vermilion border of the lips), which is a hallmark diagnostic feature of perioral dermatitis.\n\n### 3. Key Patterns and Clinical Conclusions\n*   **Clinical Presentation:** The distribution is classic for perioral dermatitis, which typically presents as a papulopustular eruption on an erythematous base, often sparing the immediate vermilion border.\n*   **Etiological Context:** Given the provided text, this presentation is highly consistent with a common side effect of **excessive or inappropriate topical steroid usage**. The presence of telangiectasia and atrophy (suggested by the shiny, thinned appearance of the skin on the chin) strongly supports the diagnosis of steroid-induced perioral dermatitis.\n*   **Diagnostic Significance:** The image serves as a visual warning of the cutaneous side effects associated with the long-term application of topical corticosteroids on facial skin, as referenced in the accompanying text.\n\n### 4. Visible Text/Labels\nThere is no text or numerical labeling present within the image itself; the context is provided by the surrounding document headers (\"PE R I-OR AL D E RM A T I T I S\").",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0015-02.png",
+      "page_num": 15,
+      "image_size": "597x403",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_11",
+      "section": "Extracted Figure",
+      "text": "This image is a clinical photograph of a patient’s face, intended for educational and diagnostic purposes in a dermatological context.\n\n### 1. Type of Visualization\nThis is a **clinical medical photograph** (a portrait-style clinical image) used to document the physical presentation of a dermatological condition.\n\n### 2. Main Visual Elements\n*   **Subject:** A middle-aged male patient, captured in a head-and-shoulders view.\n*   **Focus:** The image is centered on the patient’s face, with a specific focus on the skin of the forehead, glabella, and perinasal areas.\n*   **Lighting:** The lighting is consistent with clinical photography, highlighting the texture, color, and distribution of the skin lesions.\n*   **Annotations/Labels:** There are no textual annotations or legends present on the image itself.\n\n### 3. Key Patterns, Trends, and Conclusions\n*   **Clinical Presentation:** The patient exhibits characteristic signs of **seborrhoeic eczema** (or seborrhoeic dermatitis). \n*   **Distribution:** The rash is concentrated in the \"seborrhoeic areas\" of the face, which are regions with a high density of sebaceous glands. Specifically, there is visible erythema (redness) and scaling localized to:\n    *   The medial eyebrows and the glabella (the area between the eyebrows).\n    *   The forehead.\n    *   The nasolabial folds (the creases running from the sides of the nose to the corners of the mouth).\n*   **Morphology:** The lesions appear as erythematous macules and patches with fine, yellowish-white scaling. The borders of the rash are relatively well-defined, which is a classic clinical feature of seborrhoeic eczema, helping to distinguish it from other conditions like atopic dermatitis.\n*   **Conclusion:** The clinical presentation is highly suggestive of seborrhoeic dermatitis, likely exacerbated by the overgrowth of *Pityrosporum* (Malassezia) yeasts, as noted in the provided text. The distribution pattern is diagnostic for this condition.\n\n### 4. Visible Text, Labels, or Numerical Values\nThere is no text, numerical data, or labels visible within the image frame. All contextual information is provided in the surrounding text of the chapter.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0016-07.png",
+      "page_num": 16,
+      "image_size": "562x633",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_12",
+      "section": "Extracted Figure",
+      "text": "This image is a clinical photograph depicting the dermatological presentation of **discoid eczema** (also known as nummular eczema) on the upper limb.\n\n### 1. Type of Visualization\nThis is a **clinical medical photograph** used for diagnostic illustration and educational purposes. It provides a high-resolution, close-up view of skin lesions on a patient's limb.\n\n### 2. Main Visual Elements\n*   **Subject:** The image captures a portion of a human arm, likely the forearm and the area surrounding the elbow.\n*   **Lesions:** There are multiple distinct, circumscribed, erythematous (red) plaques scattered across the skin surface.\n*   **Texture:** The lesions appear slightly raised, with some showing signs of scaling, crusting, or excoriation (skin picking/scratching), which is consistent with the intense pruritus (itch) associated with this condition.\n*   **Background:** The background is a neutral, dark, out-of-focus area, which serves to isolate the clinical findings on the skin.\n\n### 3. Key Patterns and Observations\n*   **Morphology:** The lesions are characteristically \"coin-shaped\" (nummular), ranging from small, discrete papules to larger, well-defined plaques.\n*   **Distribution:** The lesions are distributed on the extensor surface of the limb. The presence of multiple, separate, round, inflamed patches is the hallmark clinical feature of discoid eczema.\n*   **Skin Condition:** The surrounding skin appears relatively normal in pigmentation, though there is evidence of mild xerosis (dryness) and skin folds, particularly near the elbow joint.\n*   **Diagnostic Indicators:** The appearance is consistent with the provided text description, which notes that discoid eczema predominantly involves the limbs and requires differentiation from other conditions like fungal infections or Bowen’s disease.\n\n### 4. Text, Labels, and Numerical Values\nThere is **no text, legend, or numerical data** superimposed on the image itself. The image serves as a visual reference for the descriptive text provided in the source document titled \"DISCOID ECZEMA.\"",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0017-02.png",
+      "page_num": 17,
+      "image_size": "786x350",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_13",
+      "section": "Extracted Figure",
+      "text": "This image is a clinical photograph illustrating the classic dermatological presentation of **venous eczema** (also known as stasis dermatitis) on the lower leg and ankle.\n\n### 1. Type of Visualization\nThis is a high-resolution clinical medical photograph used for diagnostic reference and educational purposes.\n\n### 2. Main Visual Elements\n*   **Anatomical Location:** The distal lower leg, specifically the medial aspect of the ankle and perimalleolar region.\n*   **Skin Texture:** The skin exhibits signs of chronic inflammation, including scaling (desquamation), lichenification (thickening of the skin due to chronic scratching/rubbing), and a dry, crusted appearance in the central area.\n*   **Pigmentation:** There is prominent hyperpigmentation, characterized by brownish-red discoloration. This is indicative of **haemosiderin deposition**, a hallmark of chronic venous insufficiency where red blood cells extravasate into the dermis and break down, leaving iron deposits.\n*   **Central Lesion:** The central portion of the affected area shows an area of focal erosion or early ulceration with crusting, consistent with the \"frank ulceration\" mentioned in the provided text.\n\n### 3. Key Patterns and Conclusions\n*   **Pathophysiology:** The visual evidence aligns with the context of venous hypertension. The combination of haemosiderin staining (the brown-red hue) and the inflammatory eczematous changes confirms the diagnosis of venous eczema.\n*   **Chronic Changes:** The presence of skin thickening and scaling suggests a long-standing condition rather than an acute onset.\n*   **Clinical Significance:** The image demonstrates the high risk of skin breakdown in this region. The central crusting represents a transition from dermatitis to an open venous ulcer, which is a common complication of untreated venous hypertension. The surrounding skin appears fragile, reflecting the microcirculatory damage and lipodermatosclerosis (fibrosis of the subcutaneous fat) typical of this condition.\n\n### 4. Text and Labels\nThere is no text or numerical data embedded within the image itself. The figure serves as a visual companion to the provided text, which describes the underlying mechanisms of venous eczema, including haemosiderin leakage, lipodermatosclerosis, and the potential for superimposed irritant dermatitis.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0018-05.png",
+      "page_num": 18,
+      "image_size": "461x491",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_14",
+      "section": "Extracted Figure",
+      "text": "This image is a clinical photograph depicting a localized cutaneous reaction, consistent with the context of contact dermatitis.\n\n### 1. Type of Visualization\nThis is a **clinical medical photograph** used for dermatological diagnosis and educational purposes. It documents the physical presentation of a skin condition on a patient.\n\n### 2. Main Visual Elements\n*   **Subject:** The lower abdominal/suprapubic region of a patient.\n*   **Lesion:** A well-demarcated, erythematous (reddened) patch of skin.\n*   **Texture:** The affected area exhibits papular and slightly vesicular features, with a rough, inflamed surface.\n*   **Anatomical Context:** The lesion is positioned directly beneath the waistband of a pair of blue denim jeans, specifically aligning with the location of a metal button/rivet.\n\n### 3. Key Patterns and Clinical Conclusions\n*   **Pattern of Distribution:** The dermatitis is localized to a specific area of the skin that corresponds to direct contact with a metal fastener on clothing. This is a classic presentation of **Nickel Contact Dermatitis**.\n*   **Pathophysiology:** The clinical appearance is consistent with a Type IV delayed-type hypersensitivity reaction. The erythema and papular eruption suggest an inflammatory response triggered by the transdermal absorption of nickel ions leached from the metal button by sweat.\n*   **Diagnostic Significance:** The \"belt-buckle\" or \"jean-button\" distribution is pathognomonic for allergic contact dermatitis caused by nickel, a common metal allergen found in inexpensive alloys.\n\n### 4. Visible Text and Labels\nThere is no text or numerical data embedded within the image itself. However, based on the provided context, this image serves as a visual example of \"NICKEL DERMATITIS,\" illustrating the clinical manifestation of the contact allergy described in the accompanying text.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0019-02.png",
+      "page_num": 19,
+      "image_size": "597x284",
+      "type": "figure"
+    },
+    {
+      "chunk_id": "img_15",
+      "section": "Extracted Figure",
+      "text": "This image is a clinical photograph depicting a localized dermatological reaction on the palmar surface of a human hand.\n\n### 1. Type of Visualization\nThis is a high-resolution clinical medical photograph used for diagnostic illustration in dermatology.\n\n### 2. Main Visual Elements\n*   **Subject:** The ventral aspect (palm) of a human hand.\n*   **Lesion:** A well-demarcated, erythematous (reddened) plaque with a distinct geometric shape, suggesting contact with an external object.\n*   **Texture:** The affected skin appears inflamed, slightly thickened (lichenified), and shows evidence of scaling or desquamation.\n*   **Anatomical Landmarks:** The lesion is situated primarily over the thenar eminence and the proximal aspect of the palm, extending toward the base of the index and middle fingers.\n\n### 3. Key Patterns and Observations\n*   **Morphology:** The lesion exhibits a sharp, rectangular border that mirrors the shape of an adhesive bandage or medical dressing (consistent with the context of \"Elastoplast allergy\").\n*   **Clinical Significance:** The distribution is highly suggestive of **Allergic Contact Dermatitis (ACD)**. The sharp margins indicate that the inflammation is confined to the area where the skin was in direct contact with an adhesive material.\n*   **Inflammatory Response:** The deep red/violaceous hue indicates significant vasodilation and infiltration of inflammatory cells, characteristic of a Type IV delayed-type hypersensitivity reaction.\n*   **Secondary Changes:** There is evidence of mild surface crusting or fissuring within the erythematous area, which is common in chronic or subacute contact dermatitis.\n\n### 4. Text and Labels\nThere is no text or numerical data embedded within the image itself. However, based on the provided context, this image serves as a visual representation of **\"ELASTOPLAST ALLERGY,\"** illustrating the localized, shaped inflammatory response caused by contact with adhesive components in medical dressings.",
+      "caption": "",
+      "image_path": "/home/vaniamorais/Documents/Tese/data/figures/eczema-core-tutorial.pdf-0019-04.png",
+      "page_num": 19,
+      "image_size": "597x291",
+      "type": "figure"
+    }
+  ]
+}
