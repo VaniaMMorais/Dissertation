@@ -1,0 +1,236 @@
+[1/20] FACTUAL_TEXT
+Query: What is the recommended dosage of methotrexate for eczema tr...
+   🧪 Evaluating metrics...
+Evaluating:  25%|████████▎                        | 1/4 [00:04<00:12,  4.02s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [02:39<00:00, 39.90s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.926
+   📊 Recall: 1.000
+   📊 Precision: 0.611
+   💾 Checkpoint saved!
+
+[2/20] FACTUAL_TEXT
+Query: Qual é a prevalência de dermatite atópica em crianças?...
+   🧪 Evaluating metrics...
+Evaluating:  25%|████████▎                        | 1/4 [00:07<00:23,  7.71s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [02:30<00:00, 37.63s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.910
+   📊 Recall: 1.000
+   📊 Precision: 0.333
+   💾 Checkpoint saved!
+
+[3/20] FACTUAL_TEXT
+Query: What are the main side effects of cyclosporine in dermatolog...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [01:48<00:00, 27.02s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.924
+   📊 Recall: 1.000
+   📊 Precision: 1.000
+   💾 Checkpoint saved!
+
+[4/20] FACTUAL_TEXT
+Query: Quais são os critérios para suspeita de reação adversa de me...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [01:38<00:00, 24.65s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.846
+   📊 Recall: 1.000
+   📊 Precision: 0.450
+   💾 Checkpoint saved!
+
+[5/20] FACTUAL_TEXT
+Query: What is the mechanism of action of dupilumab?...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [02:42<00:00, 40.72s/it]
+   📊 Faithfulness: 0.571
+   📊 Relevancy: 0.700
+   📊 Recall: 1.000
+   📊 Precision: 1.000
+   💾 Checkpoint saved!
+
+[6/20] COMPARISON
+Query: Compare the key characteristics of brexanolone versus zurano...
+   🧪 Evaluating metrics...
+Evaluating:  50%|████████████████▌                | 2/4 [00:14<00:15,  7.59s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [00:59<00:00, 14.89s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.930
+   📊 Recall: 1.000
+   📊 Precision: 0.167
+   💾 Checkpoint saved!
+
+[7/20] COMPARISON
+Query: Qual é a diferença entre a vitamina D, a vitamina D2 e a vit...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [01:43<00:00, 25.86s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.859
+   📊 Recall: 1.000
+   📊 Precision: 0.850
+   💾 Checkpoint saved!
+
+[8/20] COMPARISON
+Query: How does the safety profile of methotrexate compare to cyclo...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [01:33<00:00, 23.44s/it]
+   📊 Faithfulness: 0.941
+   📊 Relevancy: 0.705
+   📊 Recall: 0.000
+   📊 Precision: 0.000
+   💾 Checkpoint saved!
+
+[9/20] COMPARISON
+Query: Quais são as vantagens e desvantagens de fototerapia vs. ter...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [02:20<00:00, 35.05s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.803
+   📊 Recall: 1.000
+   📊 Precision: 1.000
+   💾 Checkpoint saved!
+
+[10/20] VISUAL
+Query: Explain to me the plasma concentrations of paracetamol in 30...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [01:08<00:00, 17.08s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.735
+   📊 Recall: 1.000
+   📊 Precision: 1.000
+   💾 Checkpoint saved!
+
+[11/20] VISUAL
+Query: Quais são os processos imunitários que ocorrem na membrana s...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [01:41<00:00, 25.40s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.746
+   📊 Recall: 1.000
+   📊 Precision: 0.833
+   💾 Checkpoint saved!
+
+[12/20] VISUAL
+Query: Show me figures that demonstrate types of eczemas...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [02:00<00:00, 30.03s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.805
+   📊 Recall: 1.000
+   📊 Precision: 0.000
+   💾 Checkpoint saved!
+
+[13/20] VISUAL
+Query: Existem imagens que mostram a diferença entre eczema com e s...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [02:40<00:00, 40.09s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.815
+   📊 Recall: 1.000
+   📊 Precision: 1.000
+   💾 Checkpoint saved!
+
+[14/20] CROSS_LINGUAL
+Query: Como funciona o tratamento com anticorpos monoclonais para p...
+   🧪 Evaluating metrics...
+Evaluating:  25%|████████▎                        | 1/4 [00:02<00:08,  2.91s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [02:24<00:00, 36.04s/it]
+   📊 Faithfulness: 0.824
+   📊 Relevancy: 0.823
+   📊 Recall: 1.000
+   📊 Precision: 0.500
+   💾 Checkpoint saved!
+
+[15/20] CROSS_LINGUAL
+Query: Quais são os mais recentes avanços em terapias biológicas pa...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [01:49<00:00, 27.48s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.946
+   📊 Recall: 0.500
+   📊 Precision: 0.125
+   💾 Checkpoint saved!
+
+[16/20] CROSS_LINGUAL
+Query: O que é cancro do pulmão?...
+   🧪 Evaluating metrics...
+Evaluating:  25%|████████▎                        | 1/4 [00:19<00:58, 19.34s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [01:10<00:00, 17.60s/it]
+   📊 Faithfulness: 0.967
+   📊 Relevancy: 0.759
+   📊 Recall: 1.000
+   📊 Precision: 0.000
+   💾 Checkpoint saved!
+
+[17/20] CROSS_LINGUAL
+Query: Was sind die wichtigsten Risikofaktoren für einen Schlaganfa...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [02:03<00:00, 30.94s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.952
+   📊 Recall: 1.000
+   📊 Precision: 0.767
+   💾 Checkpoint saved!
+
+[18/20] SYNTHESIS
+Query: Summarize the current evidence on the role of the microbiome...
+   🧪 Evaluating metrics...
+Evaluating:   0%|                                         | 0/4 [00:00<?, ?it/s]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [02:58<00:00, 44.66s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.853
+   📊 Recall: 0.500
+   📊 Precision: 0.500
+   💾 Checkpoint saved!
+
+[19/20] SYNTHESIS
+Query: Quais são as principais diretrizes de tratamento para psoría...
+   🧪 Evaluating metrics...
+Evaluating:  25%|████████▎                        | 1/4 [00:30<01:31, 30.46s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [02:03<00:00, 30.93s/it]
+   📊 Faithfulness: 1.000
+   📊 Relevancy: 0.860
+   📊 Recall: 1.000
+   📊 Precision: 0.333
+   💾 Checkpoint saved!
+
+[20/20] SYNTHESIS
+Query: What are the emerging trends in mental health issues?...
+   🧪 Evaluating metrics...
+Evaluating:  25%|████████▎                        | 1/4 [00:17<00:52, 17.47s/it]LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+Evaluating: 100%|█████████████████████████████████| 4/4 [01:54<00:00, 28.60s/it]
+   📊 Faithfulness: 0.941
+   📊 Relevancy: 0.928
+   📊 Recall: 0.500
+   📊 Precision: 0.000
+   💾 Checkpoint saved!
+
+📊 Analyzing results...
+
+======================================================================
+📊 RAGAS EVALUATION RESULTS
+======================================================================
+
+📈 OVERALL METRICS (n=20):
+  faithfulness        : 0.962 [0.571, 1.000]
+  answer_relevancy    : 0.841 [0.700, 0.952]
+  context_recall      : 0.875 [0.000, 1.000]
+  context_precision   : 0.523 [0.000, 1.000]
+
+✅ Final results saved to: ragas_official_results.json
+✅ Checkpoint file removed (evaluation complete)
+
+🎉 Evaluation complete!

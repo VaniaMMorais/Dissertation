@@ -1,0 +1,143 @@
+{ "queries": [
+{
+  "query": "What is the recommended dosage of methotrexate for eczema treatment?",
+  "category": "factual_text",
+  "language": "en",
+  "expected_answer_type": "Specific dosage (e.g., 10-25 mg/week)"
+},
+
+{
+  "query": "Qual é a prevalência de dermatite atópica em crianças?",
+  "category": "factual_text", 
+  "language": "pt",
+  "expected_answer_type": "Percentage/statistics"
+},
+
+{
+  "query": "What are the main side effects of cyclosporine in dermatology?",
+  "category": "factual_text",
+  "language": "en",
+  "expected_answer_type": "List of side effects"
+},
+
+{
+  "query": "Quais são os critérios para suspeita de reação adversa de medicação?",
+  "category": "factual_text",
+  "language": "pt",
+  "expected_answer_type": "Diagnostic criteria list"
+},
+
+{
+  "query": "What is the mechanism of action of dupilumab?",
+  "category": "factual_text",
+  "language": "en",
+  "expected_answer_type": "Biological mechanism explanation"
+},
+{
+  "query": "Compare the key characteristics of brexanolone versus zuranolone ",
+  "category": "comparison",
+  "language": "en",
+  "expected_answer_type": "Comparative analysis with data"
+},
+
+{
+  "query": "Qual é a diferença entre a vitamina D, a vitamina D2 e a vitamina D3?",
+  "category": "comparison",
+  "language": "pt",
+  "expected_answer_type": "Key differences (causes, symptoms, treatment)"
+},
+
+{
+  "query": "How does the safety profile of methotrexate compare to cyclosporine?",
+  "category": "comparison",
+  "language": "en",
+  "expected_answer_type": "Side-by-side safety comparison"
+},
+
+{
+  "query": "Quais são as vantagens e desvantagens de fototerapia vs. terapia tópica?",
+  "category": "comparison",
+  "language": "pt",
+  "expected_answer_type": "Pros/cons of each approach"
+},
+{
+  "query": "Explain to me the plasma concentrations of paracetamol in 30 patients without liver damage (dashed lines) and with liver damage (continuous lines) following overdosage",
+  "category": "visual",
+  "language": "en",
+  "expected_answer_type": "Description of figure data/trends"
+},
+
+{
+  "query": "Quais são os processos imunitários que ocorrem na membrana sinovial e no líquido sinovial, levando ao avanço da erosão óssea e da degeneração da cartilagem",
+  "category": "visual",
+  "language": "pt",
+  "expected_answer_type": "Chart data interpretation"
+},
+
+{
+  "query": "Show me figures that demonstrate types of eczemas",
+  "category": "visual",
+  "language": "en",
+  "expected_answer_type": "Relevant images with descriptions"
+},
+
+{
+  "query": "Existem imagens que mostram a diferença entre eczema com e sem infeção?",
+  "category": "visual",
+  "language": "pt",
+  "expected_answer_type": "Clinical images with comparison"
+},
+{
+  "query": "Como funciona o tratamento com anticorpos monoclonais para psoríase?",
+  "category": "cross_lingual",
+  "language": "pt",
+  "expected_docs": "EN",
+  "expected_answer": "PT",
+  "note": "Tests PT query → EN docs → PT answer"
+},
+
+{
+  "query": "Quais são os mais recentes avanços em terapias biológicas para eczema?",
+  "category": "cross_lingual",
+  "language": "pt",
+  "expected_docs": "EN",
+  "expected_answer": "PT"
+},
+
+{
+  "query": "O que é cancro do pulmão?",
+  "category": "cross_lingual",
+  "language": "pt",
+  "expected_docs": "EN",
+  "expected_answer": "PT"
+},
+
+{
+  "query": "Was sind die wichtigsten Risikofaktoren für einen Schlaganfall?",
+  "category": "cross_lingual",
+  "language": "de",
+  "expected_docs": "EN",
+  "expected_answer": "DE"
+},
+{
+  "query": "Summarize the current evidence on the role of the microbiome in atopic dermatitis",
+  "category": "synthesis",
+  "language": "en",
+  "expected_answer_type": "Multi-source summary with key findings"
+},
+
+{
+  "query": "Quais são as principais diretrizes de tratamento para psoríase moderada a severa?",
+  "category": "synthesis",
+  "language": "pt",
+  "expected_answer_type": "Guidelines synthesis from multiple sources"
+},
+
+{
+  "query": "What are the emerging trends in mental health issues?",
+  "category": "synthesis",
+  "language": "en",
+  "expected_answer_type": "Trend analysis across papers"
+}
+
+]}
