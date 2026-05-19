@@ -1,0 +1,21 @@
+query_id,category,language,query,t_optimize_s,t_embed_s,t_search_s,t_generate_s,t_total_s,chunks_retrieved,images_retrieved,answer_length,error
+1,factual_text,en,What is the recommended dosage of methotrexate for eczema treatment?,1.01,33.207,3.141,3.183,40.542,10,0,222,no
+2,factual_text,pt,Qual é a prevalência de dermatite atópica em crianças?,1.189,3.621,0.259,5.046,10.115,10,2,25,no
+3,factual_text,en,What are the main side effects of cyclosporine in dermatology?,4.535,4.187,0.356,2.871,11.949,10,2,174,no
+4,factual_text,pt,Quais são os critérios para suspeita de reação adversa de medicação?,1.829,6.224,0.653,2.986,11.691,10,0,214,no
+5,factual_text,en,What is the mechanism of action of dupilumab?,2.726,2.449,0.484,1.015,6.675,10,1,70,no
+6,comparison,en,Compare the key characteristics of brexanolone versus zuranolone ,0.861,6.755,0.446,3.656,11.718,10,3,327,no
+7,comparison,pt,"Qual é a diferença entre a vitamina D, a vitamina D2 e a vitamina D3?",0.882,0.842,0.289,2.233,4.246,10,0,280,no
+8,comparison,en,How does the safety profile of methotrexate compare to cyclosporine?,1.274,1.455,0.624,2.81,6.164,10,1,335,no
+9,comparison,pt,Quais são as vantagens e desvantagens de fototerapia vs. terapia tópica?,0.791,1.054,0.306,3.143,5.294,10,2,236,no
+10,visual,en,Explain to me the plasma concentrations of paracetamol in 30 patients without liver damage (dashed lines) and with liver damage (continuous lines) following overdosage,1.583,1.141,0.346,2.218,5.288,10,1,288,no
+11,visual,pt,"Quais são os processos imunitários que ocorrem na membrana sinovial e no líquido sinovial, levando ao avanço da erosão óssea e da degeneração da cartilagem",1.22,0.958,0.255,2.53,4.963,10,2,292,no
+12,visual,en,Show me figures that demonstrate types of eczemas,1.969,0.728,0.295,2.113,5.105,10,7,212,no
+13,visual,pt,Existem imagens que mostram a diferença entre eczema com e sem infeção?,0.589,0.413,0.266,14.181,15.449,10,8,252,no
+14,cross_lingual,pt,Como funciona o tratamento com anticorpos monoclonais para psoríase?,1.393,0.651,0.532,3.308,5.884,10,1,264,no
+15,cross_lingual,pt,Quais são os mais recentes avanços em terapias biológicas para eczema?,0.864,0.832,0.288,1.544,3.528,10,2,50,no
+16,cross_lingual,pt,O que é cancro do pulmão?,0.871,0.397,0.32,3.477,5.064,10,0,365,no
+17,cross_lingual,de,Was sind die wichtigsten Risikofaktoren für einen Schlaganfall?,3.938,0.848,0.34,4.239,9.365,10,0,382,no
+18,synthesis,en,Summarize the current evidence on the role of the microbiome in atopic dermatitis,2.099,0.907,0.312,3.281,6.6,10,7,276,no
+19,synthesis,pt,Quais são as principais diretrizes de tratamento para psoríase moderada a severa?,0.55,1.055,0.349,3.623,5.577,10,2,355,no
+20,synthesis,en,What are the emerging trends in mental health issues?,7.83,2.026,0.342,3.672,13.87,10,0,299,no
